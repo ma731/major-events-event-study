@@ -17,6 +17,7 @@ __MACOSX/
 Thumbs.db
 *.docx
 *.pdf
+!report/*.pdf   # the written report is intentionally published
 
 # --- Python ---
 __pycache__/

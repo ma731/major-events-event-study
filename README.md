@@ -95,8 +95,13 @@ changes) and regression outputs only.
 - Estimation and event windows are short, so single-cell significance should
   be read alongside the cross-industry comparison rather than in isolation.
 
+## Report
+
+The full written report (Chinese, with English abstract) is included at
+[`report/Event_Study_Report.pdf`](report/Event_Study_Report.pdf).
+
 ## License
 
-Code is released under the MIT License (see `LICENSE`). The accompanying
-written report remains the intellectual work of the two authors and is not
-included in this repository.
+Code is released under the MIT License (see `LICENSE`). The written report
+remains the intellectual work of the two authors, Zhu Hongyi and Marco Ortiz
+Togashi.
