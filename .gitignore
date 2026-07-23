@@ -16,8 +16,10 @@ Output_Results/
 __MACOSX/
 Thumbs.db
 *.docx
+# ignore stray PDFs, but keep the intentionally-published report
 *.pdf
-!report/*.pdf   # the written report is intentionally published
+!report/
+!report/*.pdf
 
 # --- Python ---
 __pycache__/
