@@ -1,0 +1,27 @@
+# --- Raw market data (Yahoo Finance, non-redistributable) ---
+# Only derived return series and statistics are committed.
+UK Result/
+US Data/
+China Results/
+AI Results/
+Data for Analysis/
+Output_Results/
+*_historical_data.csv
+*_with_market_data.csv
+*.pkl
+*.rar
+
+# --- OS / editor junk ---
+.DS_Store
+__MACOSX/
+Thumbs.db
+*.docx
+*.pdf
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/

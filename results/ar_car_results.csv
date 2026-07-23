@@ -1,0 +1,471 @@
+Company,Event,Start Date,End Date,CAR
+ABF.L_FTSE_100.csv,Agriculture_and_Food_Donald Trump Reelection,11/7/2024,12/6/2024,-0.062468434
+BAKK.L_FTSE_SmallCap.csv,Agriculture_and_Food_Donald Trump Reelection,11/7/2024,12/6/2024,0.045012063
+CWK.L_FTSE_250.csv,Agriculture_and_Food_Donald Trump Reelection,11/7/2024,12/6/2024,-0.048531256
+GRG.L_FTSE_250.csv,Agriculture_and_Food_Donald Trump Reelection,11/7/2024,12/6/2024,-0.04707561
+OCDO.L_FTSE_100.csv,Agriculture_and_Food_Donald Trump Reelection,11/7/2024,12/6/2024,-0.11814682
+PFD.L_FTSE_SmallCap.csv,Agriculture_and_Food_Donald Trump Reelection,11/7/2024,12/6/2024,-0.020621611
+SBRY.L_FTSE_100.csv,Agriculture_and_Food_Donald Trump Reelection,11/7/2024,12/6/2024,-0.009549161
+TATE.L_FTSE_250.csv,Agriculture_and_Food_Donald Trump Reelection,11/7/2024,12/6/2024,-0.114256775
+TSCO.L_FTSE_100.csv,Agriculture_and_Food_Donald Trump Reelection,11/7/2024,12/6/2024,0.002072985
+ULVR.L_FTSE_100.csv,Agriculture_and_Food_Donald Trump Reelection,11/7/2024,12/6/2024,-0.012034087
+AML.L_FTSE_250.csv,Automotive_Donald Trump Reelection,11/7/2024,12/6/2024,-0.063771078
+AUTO.L_FTSE_100.csv,Automotive_Donald Trump Reelection,11/7/2024,12/6/2024,0.007780603
+INCH.L_FTSE_250.csv,Automotive_Donald Trump Reelection,11/7/2024,12/6/2024,0.039478817
+JMAT.L_FTSE_100.csv,Automotive_Donald Trump Reelection,11/7/2024,12/6/2024,-0.053291876
+VTU.L_FTSE_SmallCap.csv,Automotive_Donald Trump Reelection,11/7/2024,12/6/2024,-0.063381165
+AVON.L_FTSE_250.csv,Defense_and_Aerospace_Donald Trump Reelection,11/7/2024,12/6/2024,0.065394929
+BA.L_FTSE_100.csv,Defense_and_Aerospace_Donald Trump Reelection,11/7/2024,12/6/2024,-0.109110642
+CHG.L_FTSE_SmallCap.csv,Defense_and_Aerospace_Donald Trump Reelection,11/7/2024,12/6/2024,0.003288421
+MRO.L_FTSE_100.csv,Defense_and_Aerospace_Donald Trump Reelection,11/7/2024,12/6/2024,0.112633867
+QQ.L_FTSE_250.csv,Defense_and_Aerospace_Donald Trump Reelection,11/7/2024,12/6/2024,-0.127540013
+RR.L_FTSE_100.csv,Defense_and_Aerospace_Donald Trump Reelection,11/7/2024,12/6/2024,0.00058851
+SNR.L_FTSE_SmallCap.csv,Defense_and_Aerospace_Donald Trump Reelection,11/7/2024,12/6/2024,0.0785481
+BP.L_FTSE_100.csv,Energy_and_Utilities_Donald Trump Reelection,11/7/2024,12/6/2024,-0.014817243
+CNA.L_FTSE_100.csv,Energy_and_Utilities_Donald Trump Reelection,11/7/2024,12/6/2024,0.108803666
+DRX.L_FTSE_250.csv,Energy_and_Utilities_Donald Trump Reelection,11/7/2024,12/6/2024,0.019711599
+ENOG.L_FTSE_250.csv,Energy_and_Utilities_Donald Trump Reelection,11/7/2024,12/6/2024,-0.017272019
+HBR.L_FTSE_100.csv,Energy_and_Utilities_Donald Trump Reelection,11/7/2024,12/6/2024,-0.092462351
+NG.L_FTSE_100.csv,Energy_and_Utilities_Donald Trump Reelection,11/7/2024,12/6/2024,-0.022679526
+SHEL.L_FTSE_100.csv,Energy_and_Utilities_Donald Trump Reelection,11/7/2024,12/6/2024,-0.044781856
+SSE.L_FTSE_100.csv,Energy_and_Utilities_Donald Trump Reelection,11/7/2024,12/6/2024,-0.024931575
+SVT.L_FTSE_100.csv,Energy_and_Utilities_Donald Trump Reelection,11/7/2024,12/6/2024,0.026033986
+UU.L_FTSE_100.csv,Energy_and_Utilities_Donald Trump Reelection,11/7/2024,12/6/2024,0.052397388
+AV.L_FTSE_100.csv,Finance_and_Insurance_Donald Trump Reelection,11/7/2024,12/6/2024,0.019969399
+BARC.L_FTSE_100.csv,Finance_and_Insurance_Donald Trump Reelection,11/7/2024,12/6/2024,-0.008957762
+HL.L_FTSE_100.csv,Finance_and_Insurance_Donald Trump Reelection,11/7/2024,12/6/2024,-0.033339016
+HSBA.L_FTSE_100.csv,Finance_and_Insurance_Donald Trump Reelection,11/7/2024,12/6/2024,0.004678617
+LGEN.L_FTSE_100.csv,Finance_and_Insurance_Donald Trump Reelection,11/7/2024,12/6/2024,0.046771591
+LLOY.L_FTSE_100.csv,Finance_and_Insurance_Donald Trump Reelection,11/7/2024,12/6/2024,-0.066224066
+NWG.L_FTSE_100.csv,Finance_and_Insurance_Donald Trump Reelection,11/7/2024,12/6/2024,0.023705194
+PHNX.L_FTSE_100.csv,Finance_and_Insurance_Donald Trump Reelection,11/7/2024,12/6/2024,0.028885027
+PRU.L_FTSE_100.csv,Finance_and_Insurance_Donald Trump Reelection,11/7/2024,12/6/2024,-0.034649749
+STAN.L_FTSE_100.csv,Finance_and_Insurance_Donald Trump Reelection,11/7/2024,12/6/2024,-0.003415803
+APH.L_FTSE_SmallCap.csv,Healthcare_and_Pharmaceuticals_Donald Trump Reelection,11/7/2024,12/6/2024,-0.039725198
+AZN.L_FTSE_100.csv,Healthcare_and_Pharmaceuticals_Donald Trump Reelection,11/7/2024,12/6/2024,0.056439432
+CTEC.L_FTSE_250.csv,Healthcare_and_Pharmaceuticals_Donald Trump Reelection,11/7/2024,12/6/2024,0.076100396
+GSK.L_FTSE_100.csv,Healthcare_and_Pharmaceuticals_Donald Trump Reelection,11/7/2024,12/6/2024,-0.024241383
+HIK.L_FTSE_250.csv,Healthcare_and_Pharmaceuticals_Donald Trump Reelection,11/7/2024,12/6/2024,0.058288246
+INDV.L_FTSE_250.csv,Healthcare_and_Pharmaceuticals_Donald Trump Reelection,11/7/2024,12/6/2024,0.165758424
+OXB.L_FTSE_SmallCap.csv,Healthcare_and_Pharmaceuticals_Donald Trump Reelection,11/7/2024,12/6/2024,0.019295699
+SN.L_FTSE_100.csv,Healthcare_and_Pharmaceuticals_Donald Trump Reelection,11/7/2024,12/6/2024,0.03843618
+SPI.L_FTSE_SmallCap.csv,Healthcare_and_Pharmaceuticals_Donald Trump Reelection,11/7/2024,12/6/2024,0.019025641
+BBY.L_FTSE_250.csv,Manufacturing_and_Industrial_Goods_Donald Trump Reelection,11/7/2024,12/6/2024,-0.015266612
+FERG.L_FTSE_100.csv,Manufacturing_and_Industrial_Goods_Donald Trump Reelection,11/7/2024,12/6/2024,0.01009265
+IBST.L_FTSE_250.csv,Manufacturing_and_Industrial_Goods_Donald Trump Reelection,11/7/2024,12/6/2024,-0.062914433
+JMAT.L_FTSE_100.csv,Manufacturing_and_Industrial_Goods_Donald Trump Reelection,11/7/2024,12/6/2024,-0.090290317
+KLR.L_FTSE_250.csv,Manufacturing_and_Industrial_Goods_Donald Trump Reelection,11/7/2024,12/6/2024,-0.090736532
+MNDI.L_FTSE_100.csv,Manufacturing_and_Industrial_Goods_Donald Trump Reelection,11/7/2024,12/6/2024,-0.05309735
+MRO.L_FTSE_100.csv,Manufacturing_and_Industrial_Goods_Donald Trump Reelection,11/7/2024,12/6/2024,0.102584733
+MSLH.L_FTSE_250.csv,Manufacturing_and_Industrial_Goods_Donald Trump Reelection,11/7/2024,12/6/2024,-0.052058959
+SKG.L_FTSE_100.csv,Manufacturing_and_Industrial_Goods_Donald Trump Reelection,11/7/2024,12/6/2024,0.026508457
+SMDS.L_FTSE_100.csv,Manufacturing_and_Industrial_Goods_Donald Trump Reelection,11/7/2024,12/6/2024,-0.057960989
+BKG.L_FTSE_100.csv,Real_Estate_and_Construction_Donald Trump Reelection,11/7/2024,12/6/2024,-0.026734982
+BLND.L_FTSE_100.csv,Real_Estate_and_Construction_Donald Trump Reelection,11/7/2024,12/6/2024,0.002100935
+BWY.L_FTSE_100.csv,Real_Estate_and_Construction_Donald Trump Reelection,11/7/2024,12/6/2024,-0.044172453
+LAND.L_FTSE_100.csv,Real_Estate_and_Construction_Donald Trump Reelection,11/7/2024,12/6/2024,0.043273514
+PSN.L_FTSE_100.csv,Real_Estate_and_Construction_Donald Trump Reelection,11/7/2024,12/6/2024,-0.034233086
+RMV.L_FTSE_100.csv,Real_Estate_and_Construction_Donald Trump Reelection,11/7/2024,12/6/2024,0.126692926
+SGRO.L_FTSE_100.csv,Real_Estate_and_Construction_Donald Trump Reelection,11/7/2024,12/6/2024,-0.013052366
+TW.L_FTSE_100.csv,Real_Estate_and_Construction_Donald Trump Reelection,11/7/2024,12/6/2024,-0.077128665
+VTY.L_FTSE_250.csv,Real_Estate_and_Construction_Donald Trump Reelection,11/7/2024,12/6/2024,-0.238922854
+BME.L_FTSE_250.csv,Retail_and_Consumer_Goods_Donald Trump Reelection,11/7/2024,12/6/2024,-0.090488334
+BRBY.L_FTSE_100.csv,Retail_and_Consumer_Goods_Donald Trump Reelection,11/7/2024,12/6/2024,0.132865787
+JD.L_FTSE_100.csv,Retail_and_Consumer_Goods_Donald Trump Reelection,11/7/2024,12/6/2024,-0.166398952
+KGF.L_FTSE_100.csv,Retail_and_Consumer_Goods_Donald Trump Reelection,11/7/2024,12/6/2024,-0.159931521
+MKS.L_FTSE_100.csv,Retail_and_Consumer_Goods_Donald Trump Reelection,11/7/2024,12/6/2024,-0.038976484
+NXT.L_FTSE_100.csv,Retail_and_Consumer_Goods_Donald Trump Reelection,11/7/2024,12/6/2024,-0.009911508
+OCDO.L_FTSE_100.csv,Retail_and_Consumer_Goods_Donald Trump Reelection,11/7/2024,12/6/2024,-0.120883186
+SBRY.L_FTSE_100.csv,Retail_and_Consumer_Goods_Donald Trump Reelection,11/7/2024,12/6/2024,-0.012285527
+TSCO.L_FTSE_100.csv,Retail_and_Consumer_Goods_Donald Trump Reelection,11/7/2024,12/6/2024,-0.000663381
+ULVR.L_FTSE_100.csv,Retail_and_Consumer_Goods_Donald Trump Reelection,11/7/2024,12/6/2024,-0.014770453
+AUTO.L_FTSE_100.csv,Technology_and_Telecommunications_Donald Trump Reelection,11/7/2024,12/6/2024,-0.025567218
+CCC.L_FTSE_250.csv,Technology_and_Telecommunications_Donald Trump Reelection,11/7/2024,12/6/2024,0.01708801
+LSEG.L_FTSE_100.csv,Technology_and_Telecommunications_Donald Trump Reelection,11/7/2024,12/6/2024,0.014261702
+RMV.L_FTSE_100.csv,Technology_and_Telecommunications_Donald Trump Reelection,11/7/2024,12/6/2024,0.089825427
+SCT.L_FTSE_250.csv,Technology_and_Telecommunications_Donald Trump Reelection,11/7/2024,12/6/2024,-0.098446128
+SGE.L_FTSE_100.csv,Technology_and_Telecommunications_Donald Trump Reelection,11/7/2024,12/6/2024,0.251485224
+VOD.L_FTSE_100.csv,Technology_and_Telecommunications_Donald Trump Reelection,11/7/2024,12/6/2024,0.00144727
+BBY.L_FTSE_250.csv,Transportation_and_Infrastructure_Donald Trump Reelection,11/7/2024,12/6/2024,-0.020511943
+EZJ.L_FTSE_250.csv,Transportation_and_Infrastructure_Donald Trump Reelection,11/7/2024,12/6/2024,0.020035422
+FGP.L_FTSE_SmallCap.csv,Transportation_and_Infrastructure_Donald Trump Reelection,11/7/2024,12/6/2024,0.093816073
+IAG.L_FTSE_100.csv,Transportation_and_Infrastructure_Donald Trump Reelection,11/7/2024,12/6/2024,0.202634323
+KLR.L_FTSE_250.csv,Transportation_and_Infrastructure_Donald Trump Reelection,11/7/2024,12/6/2024,-0.095981863
+RR.L_FTSE_100.csv,Transportation_and_Infrastructure_Donald Trump Reelection,11/7/2024,12/6/2024,-0.017568301
+WIZZ.L_FTSE_250.csv,Transportation_and_Infrastructure_Donald Trump Reelection,11/7/2024,12/6/2024,-0.044251615
+ABF.L_FTSE_100.csv,Agriculture_and_Food_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,-0.026102397
+BAKK.L_FTSE_SmallCap.csv,Agriculture_and_Food_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.006162174
+CWK.L_FTSE_250.csv,Agriculture_and_Food_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.093468563
+GRG.L_FTSE_250.csv,Agriculture_and_Food_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.015069624
+OCDO.L_FTSE_100.csv,Agriculture_and_Food_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,-0.122604464
+PFD.L_FTSE_SmallCap.csv,Agriculture_and_Food_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,-0.079440389
+SBRY.L_FTSE_100.csv,Agriculture_and_Food_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.021545464
+TATE.L_FTSE_250.csv,Agriculture_and_Food_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,-0.008159469
+TSCO.L_FTSE_100.csv,Agriculture_and_Food_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.053942154
+ULVR.L_FTSE_100.csv,Agriculture_and_Food_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.060402351
+AML.L_FTSE_250.csv,Automotive_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,-0.044439447
+AUTO.L_FTSE_100.csv,Automotive_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.006260168
+INCH.L_FTSE_250.csv,Automotive_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,-0.094962105
+JMAT.L_FTSE_100.csv,Automotive_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,-0.002606189
+VTU.L_FTSE_SmallCap.csv,Automotive_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,-0.046738425
+AVON.L_FTSE_250.csv,Defense_and_Aerospace_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.21025561
+BA.L_FTSE_100.csv,Defense_and_Aerospace_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.051107942
+CHG.L_FTSE_SmallCap.csv,Defense_and_Aerospace_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,-0.024226013
+MRO.L_FTSE_100.csv,Defense_and_Aerospace_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.015444413
+QQ.L_FTSE_250.csv,Defense_and_Aerospace_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.051430219
+RR.L_FTSE_100.csv,Defense_and_Aerospace_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,-0.003851178
+SNR.L_FTSE_SmallCap.csv,Defense_and_Aerospace_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,-0.028135028
+BP.L_FTSE_100.csv,Energy_and_Utilities_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,-0.036528477
+CNA.L_FTSE_100.csv,Energy_and_Utilities_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,-0.111603849
+DRX.L_FTSE_250.csv,Energy_and_Utilities_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,-0.028376016
+ENOG.L_FTSE_250.csv,Energy_and_Utilities_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,-0.120444493
+HBR.L_FTSE_100.csv,Energy_and_Utilities_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0
+NG.L_FTSE_100.csv,Energy_and_Utilities_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.072763479
+SHEL.L_FTSE_100.csv,Energy_and_Utilities_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,-0.115565053
+SSE.L_FTSE_100.csv,Energy_and_Utilities_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.11929985
+SVT.L_FTSE_100.csv,Energy_and_Utilities_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.055879701
+UU.L_FTSE_100.csv,Energy_and_Utilities_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.067196686
+AV.L_FTSE_100.csv,Finance_and_Insurance_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.006881928
+BARC.L_FTSE_100.csv,Finance_and_Insurance_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.059818969
+HL.L_FTSE_100.csv,Finance_and_Insurance_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,-0.011553579
+HSBA.L_FTSE_100.csv,Finance_and_Insurance_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,-0.00299898
+LGEN.L_FTSE_100.csv,Finance_and_Insurance_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.037176475
+LLOY.L_FTSE_100.csv,Finance_and_Insurance_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,-0.022854686
+NWG.L_FTSE_100.csv,Finance_and_Insurance_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,-0.054707656
+PHNX.L_FTSE_100.csv,Finance_and_Insurance_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.058556369
+PRU.L_FTSE_100.csv,Finance_and_Insurance_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.077829449
+STAN.L_FTSE_100.csv,Finance_and_Insurance_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,-0.067580302
+APH.L_FTSE_SmallCap.csv,Healthcare_and_Pharmaceuticals_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,-0.00628448
+AZN.L_FTSE_100.csv,Healthcare_and_Pharmaceuticals_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.010347227
+CTEC.L_FTSE_250.csv,Healthcare_and_Pharmaceuticals_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.054790319
+GSK.L_FTSE_100.csv,Healthcare_and_Pharmaceuticals_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,-0.072132575
+HIK.L_FTSE_250.csv,Healthcare_and_Pharmaceuticals_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,-0.016659724
+INDV.L_FTSE_250.csv,Healthcare_and_Pharmaceuticals_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.099934562
+OXB.L_FTSE_SmallCap.csv,Healthcare_and_Pharmaceuticals_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.026906592
+SN.L_FTSE_100.csv,Healthcare_and_Pharmaceuticals_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.031209157
+SPI.L_FTSE_SmallCap.csv,Healthcare_and_Pharmaceuticals_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,-0.020616005
+BBY.L_FTSE_250.csv,Manufacturing_and_Industrial_Goods_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.054671132
+FERG.L_FTSE_100.csv,Manufacturing_and_Industrial_Goods_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.088192973
+IBST.L_FTSE_250.csv,Manufacturing_and_Industrial_Goods_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.084108086
+JMAT.L_FTSE_100.csv,Manufacturing_and_Industrial_Goods_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,-0.009061956
+KLR.L_FTSE_250.csv,Manufacturing_and_Industrial_Goods_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,-0.075560919
+MNDI.L_FTSE_100.csv,Manufacturing_and_Industrial_Goods_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.067672564
+MRO.L_FTSE_100.csv,Manufacturing_and_Industrial_Goods_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.018676997
+MSLH.L_FTSE_250.csv,Manufacturing_and_Industrial_Goods_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.043106278
+SKG.L_FTSE_100.csv,Manufacturing_and_Industrial_Goods_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.045101837
+SMDS.L_FTSE_100.csv,Manufacturing_and_Industrial_Goods_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.015472626
+BKG.L_FTSE_100.csv,Real_Estate_and_Construction_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.036300141
+BLND.L_FTSE_100.csv,Real_Estate_and_Construction_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,-0.023095535
+BWY.L_FTSE_100.csv,Real_Estate_and_Construction_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.080592755
+LAND.L_FTSE_100.csv,Real_Estate_and_Construction_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.016869133
+PSN.L_FTSE_100.csv,Real_Estate_and_Construction_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.099073044
+RMV.L_FTSE_100.csv,Real_Estate_and_Construction_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.038293905
+SGRO.L_FTSE_100.csv,Real_Estate_and_Construction_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.045423348
+TW.L_FTSE_100.csv,Real_Estate_and_Construction_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.074886246
+VTY.L_FTSE_250.csv,Real_Estate_and_Construction_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.0536296
+BME.L_FTSE_250.csv,Retail_and_Consumer_Goods_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,-0.033522391
+BRBY.L_FTSE_100.csv,Retail_and_Consumer_Goods_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,-0.102380292
+JD.L_FTSE_100.csv,Retail_and_Consumer_Goods_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.05614004
+KGF.L_FTSE_100.csv,Retail_and_Consumer_Goods_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.064237361
+MKS.L_FTSE_100.csv,Retail_and_Consumer_Goods_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,-0.011789432
+NXT.L_FTSE_100.csv,Retail_and_Consumer_Goods_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.011739505
+OCDO.L_FTSE_100.csv,Retail_and_Consumer_Goods_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,-0.11819627
+SBRY.L_FTSE_100.csv,Retail_and_Consumer_Goods_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.025953845
+TSCO.L_FTSE_100.csv,Retail_and_Consumer_Goods_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.058350293
+ULVR.L_FTSE_100.csv,Retail_and_Consumer_Goods_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.06481028
+AUTO.L_FTSE_100.csv,Technology_and_Telecommunications_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,-0.004067428
+CCC.L_FTSE_250.csv,Technology_and_Telecommunications_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.043108758
+LSEG.L_FTSE_100.csv,Technology_and_Telecommunications_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.065181354
+RMV.L_FTSE_100.csv,Technology_and_Telecommunications_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.028061295
+SCT.L_FTSE_250.csv,Technology_and_Telecommunications_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,-0.052409724
+SGE.L_FTSE_100.csv,Technology_and_Telecommunications_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.044190258
+VOD.L_FTSE_100.csv,Technology_and_Telecommunications_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.009482766
+BBY.L_FTSE_250.csv,Transportation_and_Infrastructure_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.050065768
+EZJ.L_FTSE_250.csv,Transportation_and_Infrastructure_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.001812203
+FGP.L_FTSE_SmallCap.csv,Transportation_and_Infrastructure_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.043233132
+IAG.L_FTSE_100.csv,Transportation_and_Infrastructure_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.038812575
+KLR.L_FTSE_250.csv,Transportation_and_Infrastructure_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,-0.080166149
+RR.L_FTSE_100.csv,Transportation_and_Infrastructure_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.003716161
+WIZZ.L_FTSE_250.csv,Transportation_and_Infrastructure_Covid-19 Pandemic Lockdown in CN,1/24/2020,2/22/2020,0.026920879
+ABF.L_FTSE_100.csv,Agriculture_and_Food_Brexit Referendum Day,6/24/2016,7/23/2016,-0.066219194
+BAKK.L_FTSE_SmallCap.csv,Agriculture_and_Food_Brexit Referendum Day,6/24/2016,7/23/2016,0
+CWK.L_FTSE_250.csv,Agriculture_and_Food_Brexit Referendum Day,6/24/2016,7/23/2016,0.061937033
+GRG.L_FTSE_250.csv,Agriculture_and_Food_Brexit Referendum Day,6/24/2016,7/23/2016,-0.055099613
+OCDO.L_FTSE_100.csv,Agriculture_and_Food_Brexit Referendum Day,6/24/2016,7/23/2016,0.04507301
+PFD.L_FTSE_SmallCap.csv,Agriculture_and_Food_Brexit Referendum Day,6/24/2016,7/23/2016,0.115759944
+SBRY.L_FTSE_100.csv,Agriculture_and_Food_Brexit Referendum Day,6/24/2016,7/23/2016,-0.138542682
+TATE.L_FTSE_250.csv,Agriculture_and_Food_Brexit Referendum Day,6/24/2016,7/23/2016,0.145467677
+TSCO.L_FTSE_100.csv,Agriculture_and_Food_Brexit Referendum Day,6/24/2016,7/23/2016,-0.094256504
+ULVR.L_FTSE_100.csv,Agriculture_and_Food_Brexit Referendum Day,6/24/2016,7/23/2016,0.057419393
+AML.L_FTSE_250.csv,Automotive_Brexit Referendum Day,6/24/2016,7/23/2016,0
+AUTO.L_FTSE_100.csv,Automotive_Brexit Referendum Day,6/24/2016,7/23/2016,-0.226578672
+INCH.L_FTSE_250.csv,Automotive_Brexit Referendum Day,6/24/2016,7/23/2016,0.051162138
+JMAT.L_FTSE_100.csv,Automotive_Brexit Referendum Day,6/24/2016,7/23/2016,0.010489505
+VTU.L_FTSE_SmallCap.csv,Automotive_Brexit Referendum Day,6/24/2016,7/23/2016,-0.201856938
+AVON.L_FTSE_250.csv,Defense_and_Aerospace_Brexit Referendum Day,6/24/2016,7/23/2016,0.007238314
+BA.L_FTSE_100.csv,Defense_and_Aerospace_Brexit Referendum Day,6/24/2016,7/23/2016,-0.016025885
+CHG.L_FTSE_SmallCap.csv,Defense_and_Aerospace_Brexit Referendum Day,6/24/2016,7/23/2016,0.043494431
+MRO.L_FTSE_100.csv,Defense_and_Aerospace_Brexit Referendum Day,6/24/2016,7/23/2016,0.446003322
+QQ.L_FTSE_250.csv,Defense_and_Aerospace_Brexit Referendum Day,6/24/2016,7/23/2016,-0.067602501
+RR.L_FTSE_100.csv,Defense_and_Aerospace_Brexit Referendum Day,6/24/2016,7/23/2016,0.040258056
+SNR.L_FTSE_SmallCap.csv,Defense_and_Aerospace_Brexit Referendum Day,6/24/2016,7/23/2016,-0.011337402
+BP.L_FTSE_100.csv,Energy_and_Utilities_Brexit Referendum Day,6/24/2016,7/23/2016,0.093354855
+CNA.L_FTSE_100.csv,Energy_and_Utilities_Brexit Referendum Day,6/24/2016,7/23/2016,0.040984475
+DRX.L_FTSE_250.csv,Energy_and_Utilities_Brexit Referendum Day,6/24/2016,7/23/2016,0.100936031
+ENOG.L_FTSE_250.csv,Energy_and_Utilities_Brexit Referendum Day,6/24/2016,7/23/2016,0
+HBR.L_FTSE_100.csv,Energy_and_Utilities_Brexit Referendum Day,6/24/2016,7/23/2016,0
+NG.L_FTSE_100.csv,Energy_and_Utilities_Brexit Referendum Day,6/24/2016,7/23/2016,0.056320885
+SHEL.L_FTSE_100.csv,Energy_and_Utilities_Brexit Referendum Day,6/24/2016,7/23/2016,0.058859392
+SSE.L_FTSE_100.csv,Energy_and_Utilities_Brexit Referendum Day,6/24/2016,7/23/2016,-0.017294781
+SVT.L_FTSE_100.csv,Energy_and_Utilities_Brexit Referendum Day,6/24/2016,7/23/2016,0.03196643
+UU.L_FTSE_100.csv,Energy_and_Utilities_Brexit Referendum Day,6/24/2016,7/23/2016,0.028166507
+AV.L_FTSE_100.csv,Finance_and_Insurance_Brexit Referendum Day,6/24/2016,7/23/2016,-0.221789815
+BARC.L_FTSE_100.csv,Finance_and_Insurance_Brexit Referendum Day,6/24/2016,7/23/2016,-0.25384509
+HL.L_FTSE_100.csv,Finance_and_Insurance_Brexit Referendum Day,6/24/2016,7/23/2016,-0.149104495
+HSBA.L_FTSE_100.csv,Finance_and_Insurance_Brexit Referendum Day,6/24/2016,7/23/2016,-0.00121444
+LGEN.L_FTSE_100.csv,Finance_and_Insurance_Brexit Referendum Day,6/24/2016,7/23/2016,-0.23239736
+LLOY.L_FTSE_100.csv,Finance_and_Insurance_Brexit Referendum Day,6/24/2016,7/23/2016,-0.323437887
+NWG.L_FTSE_100.csv,Finance_and_Insurance_Brexit Referendum Day,6/24/2016,7/23/2016,-0.320955423
+PHNX.L_FTSE_100.csv,Finance_and_Insurance_Brexit Referendum Day,6/24/2016,7/23/2016,-0.20250986
+PRU.L_FTSE_100.csv,Finance_and_Insurance_Brexit Referendum Day,6/24/2016,7/23/2016,-0.086153693
+STAN.L_FTSE_100.csv,Finance_and_Insurance_Brexit Referendum Day,6/24/2016,7/23/2016,-0.021193454
+APH.L_FTSE_SmallCap.csv,Healthcare_and_Pharmaceuticals_Brexit Referendum Day,6/24/2016,7/23/2016,-0.012979789
+AZN.L_FTSE_100.csv,Healthcare_and_Pharmaceuticals_Brexit Referendum Day,6/24/2016,7/23/2016,0.117734217
+CTEC.L_FTSE_250.csv,Healthcare_and_Pharmaceuticals_Brexit Referendum Day,6/24/2016,7/23/2016,0
+GSK.L_FTSE_100.csv,Healthcare_and_Pharmaceuticals_Brexit Referendum Day,6/24/2016,7/23/2016,0.098933697
+HIK.L_FTSE_250.csv,Healthcare_and_Pharmaceuticals_Brexit Referendum Day,6/24/2016,7/23/2016,0.153963929
+INDV.L_FTSE_250.csv,Healthcare_and_Pharmaceuticals_Brexit Referendum Day,6/24/2016,7/23/2016,0.181738966
+OXB.L_FTSE_SmallCap.csv,Healthcare_and_Pharmaceuticals_Brexit Referendum Day,6/24/2016,7/23/2016,-0.14649562
+SN.L_FTSE_100.csv,Healthcare_and_Pharmaceuticals_Brexit Referendum Day,6/24/2016,7/23/2016,0.058572472
+SPI.L_FTSE_SmallCap.csv,Healthcare_and_Pharmaceuticals_Brexit Referendum Day,6/24/2016,7/23/2016,-0.108088278
+BBY.L_FTSE_250.csv,Manufacturing_and_Industrial_Goods_Brexit Referendum Day,6/24/2016,7/23/2016,-0.124695658
+FERG.L_FTSE_100.csv,Manufacturing_and_Industrial_Goods_Brexit Referendum Day,6/24/2016,7/23/2016,-0.018333002
+IBST.L_FTSE_250.csv,Manufacturing_and_Industrial_Goods_Brexit Referendum Day,6/24/2016,7/23/2016,-0.218487269
+JMAT.L_FTSE_100.csv,Manufacturing_and_Industrial_Goods_Brexit Referendum Day,6/24/2016,7/23/2016,-0.002064693
+KLR.L_FTSE_250.csv,Manufacturing_and_Industrial_Goods_Brexit Referendum Day,6/24/2016,7/23/2016,0.026921015
+MNDI.L_FTSE_100.csv,Manufacturing_and_Industrial_Goods_Brexit Referendum Day,6/24/2016,7/23/2016,0.001288685
+MRO.L_FTSE_100.csv,Manufacturing_and_Industrial_Goods_Brexit Referendum Day,6/24/2016,7/23/2016,0.441905076
+MSLH.L_FTSE_250.csv,Manufacturing_and_Industrial_Goods_Brexit Referendum Day,6/24/2016,7/23/2016,-0.142101313
+SKG.L_FTSE_100.csv,Manufacturing_and_Industrial_Goods_Brexit Referendum Day,6/24/2016,7/23/2016,-0.045662057
+SMDS.L_FTSE_100.csv,Manufacturing_and_Industrial_Goods_Brexit Referendum Day,6/24/2016,7/23/2016,-0.104327605
+BKG.L_FTSE_100.csv,Real_Estate_and_Construction_Brexit Referendum Day,6/24/2016,7/23/2016,-0.256344615
+BLND.L_FTSE_100.csv,Real_Estate_and_Construction_Brexit Referendum Day,6/24/2016,7/23/2016,-0.179129792
+BWY.L_FTSE_100.csv,Real_Estate_and_Construction_Brexit Referendum Day,6/24/2016,7/23/2016,-0.328653436
+LAND.L_FTSE_100.csv,Real_Estate_and_Construction_Brexit Referendum Day,6/24/2016,7/23/2016,-0.127942454
+PSN.L_FTSE_100.csv,Real_Estate_and_Construction_Brexit Referendum Day,6/24/2016,7/23/2016,-0.268607463
+RMV.L_FTSE_100.csv,Real_Estate_and_Construction_Brexit Referendum Day,6/24/2016,7/23/2016,-0.17061633
+SGRO.L_FTSE_100.csv,Real_Estate_and_Construction_Brexit Referendum Day,6/24/2016,7/23/2016,-0.127711081
+TW.L_FTSE_100.csv,Real_Estate_and_Construction_Brexit Referendum Day,6/24/2016,7/23/2016,-0.253920134
+VTY.L_FTSE_250.csv,Real_Estate_and_Construction_Brexit Referendum Day,6/24/2016,7/23/2016,-0.193901415
+BME.L_FTSE_250.csv,Retail_and_Consumer_Goods_Brexit Referendum Day,6/24/2016,7/23/2016,-0.087691834
+BRBY.L_FTSE_100.csv,Retail_and_Consumer_Goods_Brexit Referendum Day,6/24/2016,7/23/2016,0.129461899
+JD.L_FTSE_100.csv,Retail_and_Consumer_Goods_Brexit Referendum Day,6/24/2016,7/23/2016,-0.1280583
+KGF.L_FTSE_100.csv,Retail_and_Consumer_Goods_Brexit Referendum Day,6/24/2016,7/23/2016,-0.167879792
+MKS.L_FTSE_100.csv,Retail_and_Consumer_Goods_Brexit Referendum Day,6/24/2016,7/23/2016,-0.181066109
+NXT.L_FTSE_100.csv,Retail_and_Consumer_Goods_Brexit Referendum Day,6/24/2016,7/23/2016,-0.145245271
+OCDO.L_FTSE_100.csv,Retail_and_Consumer_Goods_Brexit Referendum Day,6/24/2016,7/23/2016,0.040565533
+SBRY.L_FTSE_100.csv,Retail_and_Consumer_Goods_Brexit Referendum Day,6/24/2016,7/23/2016,-0.143050162
+TSCO.L_FTSE_100.csv,Retail_and_Consumer_Goods_Brexit Referendum Day,6/24/2016,7/23/2016,-0.098764056
+ULVR.L_FTSE_100.csv,Retail_and_Consumer_Goods_Brexit Referendum Day,6/24/2016,7/23/2016,0.052912286
+AUTO.L_FTSE_100.csv,Technology_and_Telecommunications_Brexit Referendum Day,6/24/2016,7/23/2016,-0.221663489
+CCC.L_FTSE_250.csv,Technology_and_Telecommunications_Brexit Referendum Day,6/24/2016,7/23/2016,-0.034136405
+LSEG.L_FTSE_100.csv,Technology_and_Telecommunications_Brexit Referendum Day,6/24/2016,7/23/2016,-0.048125974
+RMV.L_FTSE_100.csv,Technology_and_Telecommunications_Brexit Referendum Day,6/24/2016,7/23/2016,-0.16214203
+SCT.L_FTSE_250.csv,Technology_and_Telecommunications_Brexit Referendum Day,6/24/2016,7/23/2016,-0.112066974
+SGE.L_FTSE_100.csv,Technology_and_Telecommunications_Brexit Referendum Day,6/24/2016,7/23/2016,0.045431351
+VOD.L_FTSE_100.csv,Technology_and_Telecommunications_Brexit Referendum Day,6/24/2016,7/23/2016,0.020154333
+BBY.L_FTSE_250.csv,Transportation_and_Infrastructure_Brexit Referendum Day,6/24/2016,7/23/2016,-0.118922295
+EZJ.L_FTSE_250.csv,Transportation_and_Infrastructure_Brexit Referendum Day,6/24/2016,7/23/2016,-0.339429507
+FGP.L_FTSE_SmallCap.csv,Transportation_and_Infrastructure_Brexit Referendum Day,6/24/2016,7/23/2016,-0.068525393
+IAG.L_FTSE_100.csv,Transportation_and_Infrastructure_Brexit Referendum Day,6/24/2016,7/23/2016,-0.275279188
+KLR.L_FTSE_250.csv,Transportation_and_Infrastructure_Brexit Referendum Day,6/24/2016,7/23/2016,0.032694303
+RR.L_FTSE_100.csv,Transportation_and_Infrastructure_Brexit Referendum Day,6/24/2016,7/23/2016,0.020996924
+WIZZ.L_FTSE_250.csv,Transportation_and_Infrastructure_Brexit Referendum Day,6/24/2016,7/23/2016,-0.278776228
+ABF.L_FTSE_100.csv,Agriculture_and_Food_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.131380316
+BAKK.L_FTSE_SmallCap.csv,Agriculture_and_Food_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.111033593
+CWK.L_FTSE_250.csv,Agriculture_and_Food_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.004498725
+GRG.L_FTSE_250.csv,Agriculture_and_Food_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.046076747
+OCDO.L_FTSE_100.csv,Agriculture_and_Food_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.227652553
+PFD.L_FTSE_SmallCap.csv,Agriculture_and_Food_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.064695549
+SBRY.L_FTSE_100.csv,Agriculture_and_Food_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.059438409
+TATE.L_FTSE_250.csv,Agriculture_and_Food_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.049171545
+TSCO.L_FTSE_100.csv,Agriculture_and_Food_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.050588884
+ULVR.L_FTSE_100.csv,Agriculture_and_Food_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.105858277
+AML.L_FTSE_250.csv,Automotive_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.063113998
+AUTO.L_FTSE_100.csv,Automotive_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.022494613
+INCH.L_FTSE_250.csv,Automotive_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.079368126
+JMAT.L_FTSE_100.csv,Automotive_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.019080141
+VTU.L_FTSE_SmallCap.csv,Automotive_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.102312098
+AVON.L_FTSE_250.csv,Defense_and_Aerospace_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.178244461
+BA.L_FTSE_100.csv,Defense_and_Aerospace_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.13620385
+CHG.L_FTSE_SmallCap.csv,Defense_and_Aerospace_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.203128154
+MRO.L_FTSE_100.csv,Defense_and_Aerospace_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.144015732
+QQ.L_FTSE_250.csv,Defense_and_Aerospace_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.174481278
+RR.L_FTSE_100.csv,Defense_and_Aerospace_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.049912622
+SNR.L_FTSE_SmallCap.csv,Defense_and_Aerospace_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.007167368
+BP.L_FTSE_100.csv,Energy_and_Utilities_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.026450091
+CNA.L_FTSE_100.csv,Energy_and_Utilities_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.120917105
+DRX.L_FTSE_250.csv,Energy_and_Utilities_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.183972613
+ENOG.L_FTSE_250.csv,Energy_and_Utilities_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.145295569
+HBR.L_FTSE_100.csv,Energy_and_Utilities_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.282113657
+NG.L_FTSE_100.csv,Energy_and_Utilities_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.02901991
+SHEL.L_FTSE_100.csv,Energy_and_Utilities_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.046710348
+SSE.L_FTSE_100.csv,Energy_and_Utilities_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.018990176
+SVT.L_FTSE_100.csv,Energy_and_Utilities_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.036777922
+UU.L_FTSE_100.csv,Energy_and_Utilities_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.011777038
+AV.L_FTSE_100.csv,Finance_and_Insurance_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.023091497
+BARC.L_FTSE_100.csv,Finance_and_Insurance_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.09296356
+HL.L_FTSE_100.csv,Finance_and_Insurance_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.078878578
+HSBA.L_FTSE_100.csv,Finance_and_Insurance_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.017879808
+LGEN.L_FTSE_100.csv,Finance_and_Insurance_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.042709168
+LLOY.L_FTSE_100.csv,Finance_and_Insurance_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.001139668
+NWG.L_FTSE_100.csv,Finance_and_Insurance_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.038886414
+PHNX.L_FTSE_100.csv,Finance_and_Insurance_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.009477384
+PRU.L_FTSE_100.csv,Finance_and_Insurance_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.079897087
+STAN.L_FTSE_100.csv,Finance_and_Insurance_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.064045064
+APH.L_FTSE_SmallCap.csv,Healthcare_and_Pharmaceuticals_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.15941683
+AZN.L_FTSE_100.csv,Healthcare_and_Pharmaceuticals_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.109597811
+CTEC.L_FTSE_250.csv,Healthcare_and_Pharmaceuticals_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.247074296
+GSK.L_FTSE_100.csv,Healthcare_and_Pharmaceuticals_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.046125848
+HIK.L_FTSE_250.csv,Healthcare_and_Pharmaceuticals_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.105632781
+INDV.L_FTSE_250.csv,Healthcare_and_Pharmaceuticals_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.02025966
+OXB.L_FTSE_SmallCap.csv,Healthcare_and_Pharmaceuticals_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.04732177
+SN.L_FTSE_100.csv,Healthcare_and_Pharmaceuticals_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.038412902
+SPI.L_FTSE_SmallCap.csv,Healthcare_and_Pharmaceuticals_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.123700287
+BBY.L_FTSE_250.csv,Manufacturing_and_Industrial_Goods_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.087611102
+FERG.L_FTSE_100.csv,Manufacturing_and_Industrial_Goods_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.096514089
+IBST.L_FTSE_250.csv,Manufacturing_and_Industrial_Goods_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.002682774
+JMAT.L_FTSE_100.csv,Manufacturing_and_Industrial_Goods_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.016064572
+KLR.L_FTSE_250.csv,Manufacturing_and_Industrial_Goods_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.017125674
+MNDI.L_FTSE_100.csv,Manufacturing_and_Industrial_Goods_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.145180652
+MRO.L_FTSE_100.csv,Manufacturing_and_Industrial_Goods_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.142919279
+MSLH.L_FTSE_250.csv,Manufacturing_and_Industrial_Goods_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.054871413
+SKG.L_FTSE_100.csv,Manufacturing_and_Industrial_Goods_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.113888425
+SMDS.L_FTSE_100.csv,Manufacturing_and_Industrial_Goods_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.073161602
+BKG.L_FTSE_100.csv,Real_Estate_and_Construction_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.016266896
+BLND.L_FTSE_100.csv,Real_Estate_and_Construction_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.006280589
+BWY.L_FTSE_100.csv,Real_Estate_and_Construction_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.08457407
+LAND.L_FTSE_100.csv,Real_Estate_and_Construction_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.014832875
+PSN.L_FTSE_100.csv,Real_Estate_and_Construction_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.062348289
+RMV.L_FTSE_100.csv,Real_Estate_and_Construction_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.018234968
+SGRO.L_FTSE_100.csv,Real_Estate_and_Construction_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.042892141
+TW.L_FTSE_100.csv,Real_Estate_and_Construction_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.095949726
+VTY.L_FTSE_250.csv,Real_Estate_and_Construction_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.041787163
+BME.L_FTSE_250.csv,Retail_and_Consumer_Goods_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.063205266
+BRBY.L_FTSE_100.csv,Retail_and_Consumer_Goods_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.15786875
+JD.L_FTSE_100.csv,Retail_and_Consumer_Goods_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.047131018
+KGF.L_FTSE_100.csv,Retail_and_Consumer_Goods_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.132417372
+MKS.L_FTSE_100.csv,Retail_and_Consumer_Goods_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.136658449
+NXT.L_FTSE_100.csv,Retail_and_Consumer_Goods_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.100581424
+OCDO.L_FTSE_100.csv,Retail_and_Consumer_Goods_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.226546815
+SBRY.L_FTSE_100.csv,Retail_and_Consumer_Goods_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.058332747
+TSCO.L_FTSE_100.csv,Retail_and_Consumer_Goods_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.049482946
+ULVR.L_FTSE_100.csv,Retail_and_Consumer_Goods_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.104752472
+AUTO.L_FTSE_100.csv,Technology_and_Telecommunications_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.013464134
+CCC.L_FTSE_250.csv,Technology_and_Telecommunications_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.066633937
+LSEG.L_FTSE_100.csv,Technology_and_Telecommunications_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.172824044
+RMV.L_FTSE_100.csv,Technology_and_Telecommunications_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.020442858
+SCT.L_FTSE_250.csv,Technology_and_Telecommunications_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.104845439
+SGE.L_FTSE_100.csv,Technology_and_Telecommunications_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.015857131
+VOD.L_FTSE_100.csv,Technology_and_Telecommunications_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.075004967
+BBY.L_FTSE_250.csv,Transportation_and_Infrastructure_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.071488457
+EZJ.L_FTSE_250.csv,Transportation_and_Infrastructure_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.183987167
+FGP.L_FTSE_SmallCap.csv,Transportation_and_Infrastructure_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.042994645
+IAG.L_FTSE_100.csv,Transportation_and_Infrastructure_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.118220458
+KLR.L_FTSE_250.csv,Transportation_and_Infrastructure_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.00100313
+RR.L_FTSE_100.csv,Transportation_and_Infrastructure_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,0.034505536
+WIZZ.L_FTSE_250.csv,Transportation_and_Infrastructure_Start of Russia's Annexation of Ukraine,2/25/2022,3/26/2022,-0.244096882
+ABF.L_FTSE_100.csv,Agriculture_and_Food_Global Financial Crisis,9/16/2008,10/15/2008,-0.026931558
+BAKK.L_FTSE_SmallCap.csv,Agriculture_and_Food_Global Financial Crisis,9/16/2008,10/15/2008,0
+CWK.L_FTSE_250.csv,Agriculture_and_Food_Global Financial Crisis,9/16/2008,10/15/2008,0.04875296
+GRG.L_FTSE_250.csv,Agriculture_and_Food_Global Financial Crisis,9/16/2008,10/15/2008,0.102297636
+OCDO.L_FTSE_100.csv,Agriculture_and_Food_Global Financial Crisis,9/16/2008,10/15/2008,0
+PFD.L_FTSE_SmallCap.csv,Agriculture_and_Food_Global Financial Crisis,9/16/2008,10/15/2008,-0.311418357
+SBRY.L_FTSE_100.csv,Agriculture_and_Food_Global Financial Crisis,9/16/2008,10/15/2008,-0.155865687
+TATE.L_FTSE_250.csv,Agriculture_and_Food_Global Financial Crisis,9/16/2008,10/15/2008,-0.006560652
+TSCO.L_FTSE_100.csv,Agriculture_and_Food_Global Financial Crisis,9/16/2008,10/15/2008,0.085454032
+ULVR.L_FTSE_100.csv,Agriculture_and_Food_Global Financial Crisis,9/16/2008,10/15/2008,-0.009520997
+AML.L_FTSE_250.csv,Automotive_Global Financial Crisis,9/16/2008,10/15/2008,0
+AUTO.L_FTSE_100.csv,Automotive_Global Financial Crisis,9/16/2008,10/15/2008,0
+INCH.L_FTSE_250.csv,Automotive_Global Financial Crisis,9/16/2008,10/15/2008,-0.118149778
+JMAT.L_FTSE_100.csv,Automotive_Global Financial Crisis,9/16/2008,10/15/2008,-0.114624114
+VTU.L_FTSE_SmallCap.csv,Automotive_Global Financial Crisis,9/16/2008,10/15/2008,0.040695281
+AVON.L_FTSE_250.csv,Defense_and_Aerospace_Global Financial Crisis,9/16/2008,10/15/2008,-0.118980088
+BA.L_FTSE_100.csv,Defense_and_Aerospace_Global Financial Crisis,9/16/2008,10/15/2008,-0.025368893
+CHG.L_FTSE_SmallCap.csv,Defense_and_Aerospace_Global Financial Crisis,9/16/2008,10/15/2008,0.040264559
+MRO.L_FTSE_100.csv,Defense_and_Aerospace_Global Financial Crisis,9/16/2008,10/15/2008,0.094225211
+QQ.L_FTSE_250.csv,Defense_and_Aerospace_Global Financial Crisis,9/16/2008,10/15/2008,-0.005966068
+RR.L_FTSE_100.csv,Defense_and_Aerospace_Global Financial Crisis,9/16/2008,10/15/2008,-0.131853084
+SNR.L_FTSE_SmallCap.csv,Defense_and_Aerospace_Global Financial Crisis,9/16/2008,10/15/2008,-0.424857939
+BP.L_FTSE_100.csv,Energy_and_Utilities_Global Financial Crisis,9/16/2008,10/15/2008,0.028910551
+CNA.L_FTSE_100.csv,Energy_and_Utilities_Global Financial Crisis,9/16/2008,10/15/2008,0.064783164
+DRX.L_FTSE_250.csv,Energy_and_Utilities_Global Financial Crisis,9/16/2008,10/15/2008,-0.016005833
+ENOG.L_FTSE_250.csv,Energy_and_Utilities_Global Financial Crisis,9/16/2008,10/15/2008,0
+HBR.L_FTSE_100.csv,Energy_and_Utilities_Global Financial Crisis,9/16/2008,10/15/2008,0
+NG.L_FTSE_100.csv,Energy_and_Utilities_Global Financial Crisis,9/16/2008,10/15/2008,0.074704694
+SHEL.L_FTSE_100.csv,Energy_and_Utilities_Global Financial Crisis,9/16/2008,10/15/2008,0.008779896
+SSE.L_FTSE_100.csv,Energy_and_Utilities_Global Financial Crisis,9/16/2008,10/15/2008,0.023905852
+SVT.L_FTSE_100.csv,Energy_and_Utilities_Global Financial Crisis,9/16/2008,10/15/2008,0.146176464
+UU.L_FTSE_100.csv,Energy_and_Utilities_Global Financial Crisis,9/16/2008,10/15/2008,0.081646562
+AV.L_FTSE_100.csv,Finance_and_Insurance_Global Financial Crisis,9/16/2008,10/15/2008,0.155565117
+BARC.L_FTSE_100.csv,Finance_and_Insurance_Global Financial Crisis,9/16/2008,10/15/2008,0.120363053
+HL.L_FTSE_100.csv,Finance_and_Insurance_Global Financial Crisis,9/16/2008,10/15/2008,0.226354713
+HSBA.L_FTSE_100.csv,Finance_and_Insurance_Global Financial Crisis,9/16/2008,10/15/2008,0.262389045
+LGEN.L_FTSE_100.csv,Finance_and_Insurance_Global Financial Crisis,9/16/2008,10/15/2008,0.1173831
+LLOY.L_FTSE_100.csv,Finance_and_Insurance_Global Financial Crisis,9/16/2008,10/15/2008,-0.205138669
+NWG.L_FTSE_100.csv,Finance_and_Insurance_Global Financial Crisis,9/16/2008,10/15/2008,-0.631848227
+PHNX.L_FTSE_100.csv,Finance_and_Insurance_Global Financial Crisis,9/16/2008,10/15/2008,0
+PRU.L_FTSE_100.csv,Finance_and_Insurance_Global Financial Crisis,9/16/2008,10/15/2008,0.07338066
+STAN.L_FTSE_100.csv,Finance_and_Insurance_Global Financial Crisis,9/16/2008,10/15/2008,0.207971761
+APH.L_FTSE_SmallCap.csv,Healthcare_and_Pharmaceuticals_Global Financial Crisis,9/16/2008,10/15/2008,-0.087786348
+AZN.L_FTSE_100.csv,Healthcare_and_Pharmaceuticals_Global Financial Crisis,9/16/2008,10/15/2008,0.036232229
+CTEC.L_FTSE_250.csv,Healthcare_and_Pharmaceuticals_Global Financial Crisis,9/16/2008,10/15/2008,0
+GSK.L_FTSE_100.csv,Healthcare_and_Pharmaceuticals_Global Financial Crisis,9/16/2008,10/15/2008,0.029319998
+HIK.L_FTSE_250.csv,Healthcare_and_Pharmaceuticals_Global Financial Crisis,9/16/2008,10/15/2008,-0.022238989
+INDV.L_FTSE_250.csv,Healthcare_and_Pharmaceuticals_Global Financial Crisis,9/16/2008,10/15/2008,0
+OXB.L_FTSE_SmallCap.csv,Healthcare_and_Pharmaceuticals_Global Financial Crisis,9/16/2008,10/15/2008,-0.15419896
+SN.L_FTSE_100.csv,Healthcare_and_Pharmaceuticals_Global Financial Crisis,9/16/2008,10/15/2008,0.015309871
+SPI.L_FTSE_SmallCap.csv,Healthcare_and_Pharmaceuticals_Global Financial Crisis,9/16/2008,10/15/2008,0
+BBY.L_FTSE_250.csv,Manufacturing_and_Industrial_Goods_Global Financial Crisis,9/16/2008,10/15/2008,-0.07659757
+FERG.L_FTSE_100.csv,Manufacturing_and_Industrial_Goods_Global Financial Crisis,9/16/2008,10/15/2008,0.067773246
+IBST.L_FTSE_250.csv,Manufacturing_and_Industrial_Goods_Global Financial Crisis,9/16/2008,10/15/2008,0
+JMAT.L_FTSE_100.csv,Manufacturing_and_Industrial_Goods_Global Financial Crisis,9/16/2008,10/15/2008,-0.133227073
+KLR.L_FTSE_250.csv,Manufacturing_and_Industrial_Goods_Global Financial Crisis,9/16/2008,10/15/2008,-0.091493539
+MNDI.L_FTSE_100.csv,Manufacturing_and_Industrial_Goods_Global Financial Crisis,9/16/2008,10/15/2008,-0.060678678
+MRO.L_FTSE_100.csv,Manufacturing_and_Industrial_Goods_Global Financial Crisis,9/16/2008,10/15/2008,0.12896795
+MSLH.L_FTSE_250.csv,Manufacturing_and_Industrial_Goods_Global Financial Crisis,9/16/2008,10/15/2008,0.176520767
+SKG.L_FTSE_100.csv,Manufacturing_and_Industrial_Goods_Global Financial Crisis,9/16/2008,10/15/2008,-0.419522743
+SMDS.L_FTSE_100.csv,Manufacturing_and_Industrial_Goods_Global Financial Crisis,9/16/2008,10/15/2008,-0.090931275
+BKG.L_FTSE_100.csv,Real_Estate_and_Construction_Global Financial Crisis,9/16/2008,10/15/2008,0.150631218
+BLND.L_FTSE_100.csv,Real_Estate_and_Construction_Global Financial Crisis,9/16/2008,10/15/2008,0.074726115
+BWY.L_FTSE_100.csv,Real_Estate_and_Construction_Global Financial Crisis,9/16/2008,10/15/2008,-0.095846365
+LAND.L_FTSE_100.csv,Real_Estate_and_Construction_Global Financial Crisis,9/16/2008,10/15/2008,0.037468221
+PSN.L_FTSE_100.csv,Real_Estate_and_Construction_Global Financial Crisis,9/16/2008,10/15/2008,0.093305824
+RMV.L_FTSE_100.csv,Real_Estate_and_Construction_Global Financial Crisis,9/16/2008,10/15/2008,-0.061753074
+SGRO.L_FTSE_100.csv,Real_Estate_and_Construction_Global Financial Crisis,9/16/2008,10/15/2008,0.001388685
+TW.L_FTSE_100.csv,Real_Estate_and_Construction_Global Financial Crisis,9/16/2008,10/15/2008,-0.860811139
+VTY.L_FTSE_250.csv,Real_Estate_and_Construction_Global Financial Crisis,9/16/2008,10/15/2008,-0.100867884
+BME.L_FTSE_250.csv,Retail_and_Consumer_Goods_Global Financial Crisis,9/16/2008,10/15/2008,0
+BRBY.L_FTSE_100.csv,Retail_and_Consumer_Goods_Global Financial Crisis,9/16/2008,10/15/2008,-0.247295932
+JD.L_FTSE_100.csv,Retail_and_Consumer_Goods_Global Financial Crisis,9/16/2008,10/15/2008,0.067908748
+KGF.L_FTSE_100.csv,Retail_and_Consumer_Goods_Global Financial Crisis,9/16/2008,10/15/2008,0.14951533
+MKS.L_FTSE_100.csv,Retail_and_Consumer_Goods_Global Financial Crisis,9/16/2008,10/15/2008,0.092974799
+NXT.L_FTSE_100.csv,Retail_and_Consumer_Goods_Global Financial Crisis,9/16/2008,10/15/2008,0.019273033
+OCDO.L_FTSE_100.csv,Retail_and_Consumer_Goods_Global Financial Crisis,9/16/2008,10/15/2008,0
+SBRY.L_FTSE_100.csv,Retail_and_Consumer_Goods_Global Financial Crisis,9/16/2008,10/15/2008,-0.141810379
+TSCO.L_FTSE_100.csv,Retail_and_Consumer_Goods_Global Financial Crisis,9/16/2008,10/15/2008,0.099508853
+ULVR.L_FTSE_100.csv,Retail_and_Consumer_Goods_Global Financial Crisis,9/16/2008,10/15/2008,0.004534378
+AUTO.L_FTSE_100.csv,Technology_and_Telecommunications_Global Financial Crisis,9/16/2008,10/15/2008,0
+CCC.L_FTSE_250.csv,Technology_and_Telecommunications_Global Financial Crisis,9/16/2008,10/15/2008,-0.111798142
+LSEG.L_FTSE_100.csv,Technology_and_Telecommunications_Global Financial Crisis,9/16/2008,10/15/2008,0.024619438
+RMV.L_FTSE_100.csv,Technology_and_Telecommunications_Global Financial Crisis,9/16/2008,10/15/2008,-0.100702832
+SCT.L_FTSE_250.csv,Technology_and_Telecommunications_Global Financial Crisis,9/16/2008,10/15/2008,0
+SGE.L_FTSE_100.csv,Technology_and_Telecommunications_Global Financial Crisis,9/16/2008,10/15/2008,-0.045026773
+VOD.L_FTSE_100.csv,Technology_and_Telecommunications_Global Financial Crisis,9/16/2008,10/15/2008,0.055719866
+BBY.L_FTSE_250.csv,Transportation_and_Infrastructure_Global Financial Crisis,9/16/2008,10/15/2008,-0.031969507
+EZJ.L_FTSE_250.csv,Transportation_and_Infrastructure_Global Financial Crisis,9/16/2008,10/15/2008,0.200028773
+FGP.L_FTSE_SmallCap.csv,Transportation_and_Infrastructure_Global Financial Crisis,9/16/2008,10/15/2008,0.036874943
+IAG.L_FTSE_100.csv,Transportation_and_Infrastructure_Global Financial Crisis,9/16/2008,10/15/2008,-0.459259707
+KLR.L_FTSE_250.csv,Transportation_and_Infrastructure_Global Financial Crisis,9/16/2008,10/15/2008,-0.046865519
+RR.L_FTSE_100.csv,Transportation_and_Infrastructure_Global Financial Crisis,9/16/2008,10/15/2008,-0.056703757
+WIZZ.L_FTSE_250.csv,Transportation_and_Infrastructure_Global Financial Crisis,9/16/2008,10/15/2008,0

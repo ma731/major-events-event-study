@@ -1,0 +1,1565 @@
+Industry,Event,Date,Industry_Return,Market_Return
+Transportation_and_Infrastructure,Brexit Referendum Day,06/24/2016,-0.0860171648964627,-0.0718493316770992
+Transportation_and_Infrastructure,Brexit Referendum Day,06/27/2016,-0.1800601435278969,-0.069629057871896
+Transportation_and_Infrastructure,Brexit Referendum Day,06/28/2016,0.0655134896204299,0.0357564658223685
+Transportation_and_Infrastructure,Brexit Referendum Day,06/29/2016,0.0334480685391571,0.0322387647530666
+Transportation_and_Infrastructure,Brexit Referendum Day,06/30/2016,0.0233224795810578,0.0167594131190818
+Transportation_and_Infrastructure,Brexit Referendum Day,07/01/2016,0.0223254165731883,0.011947587765549
+Transportation_and_Infrastructure,Brexit Referendum Day,07/04/2016,-0.0363966277070624,-0.0211836752414138
+Transportation_and_Infrastructure,Brexit Referendum Day,07/05/2016,-0.0472142015697322,-0.0237021223557353
+Transportation_and_Infrastructure,Brexit Referendum Day,07/06/2016,-0.0113975812530132,-0.0041309970443138
+Transportation_and_Infrastructure,Brexit Referendum Day,07/07/2016,0.0170424474056398,0.0146205483525163
+Transportation_and_Infrastructure,Brexit Referendum Day,07/08/2016,-0.0044355889149718,0.0175484944415578
+Transportation_and_Infrastructure,Brexit Referendum Day,07/11/2016,0.0668316220478821,0.0326744422801139
+Transportation_and_Infrastructure,Brexit Referendum Day,07/12/2016,0.0148492505683011,0.0060275832253193
+Transportation_and_Infrastructure,Brexit Referendum Day,07/13/2016,-0.0064013644837889,-0.0033378519006163
+Transportation_and_Infrastructure,Brexit Referendum Day,07/14/2016,0.0009202641750951,0.0022088233538295
+Transportation_and_Infrastructure,Brexit Referendum Day,07/15/2016,-0.0032183412522012,-0.0036156313289253
+Transportation_and_Infrastructure,Brexit Referendum Day,07/18/2016,0.0110700721399883,0.008393370773686
+Transportation_and_Infrastructure,Brexit Referendum Day,07/19/2016,0.0054743920180799,0.0022884900898096
+Transportation_and_Infrastructure,Brexit Referendum Day,07/20/2016,0.0022685085093316,0.0066602156694075
+Transportation_and_Infrastructure,Brexit Referendum Day,07/21/2016,0.0095066671728551,0.0016746087788197
+Transportation_and_Infrastructure,Brexit Referendum Day,07/22/2016,-0.0286995088033915,-0.0037483950139483
+Transportation_and_Infrastructure,Brexit Referendum Day,07/25/2016,0.0272392009791639,0.0063296729178319
+Transportation_and_Infrastructure,Brexit Referendum Day,07/26/2016,-0.0130334947701706,-0.0012813990184892
+Transportation_and_Infrastructure,Brexit Referendum Day,07/27/2016,0.0227683849437692,0.0115296521640724
+Transportation_and_Infrastructure,Brexit Referendum Day,07/28/2016,-0.0093498929623258,-0.0007876571199486
+Transportation_and_Infrastructure,Brexit Referendum Day,07/29/2016,-0.0035956846856826,0.0017736538310446
+Transportation_and_Infrastructure,Brexit Referendum Day,08/01/2016,-0.0013529591665435,-0.0083146444535981
+Transportation_and_Infrastructure,Brexit Referendum Day,08/02/2016,-0.0040652841960612,-0.0044459030890217
+Transportation_and_Infrastructure,Brexit Referendum Day,08/03/2016,0.012698716257512,-0.0038621807785852
+Transportation_and_Infrastructure,Brexit Referendum Day,08/04/2016,0.0134347724272478,0.0145437267272736
+Agriculture_and_Food,Brexit Referendum Day,06/24/2016,-0.0190879851985098,-0.0314605164436398
+Agriculture_and_Food,Brexit Referendum Day,06/27/2016,-0.1531531209936933,-0.0254939962892312
+Agriculture_and_Food,Brexit Referendum Day,06/28/2016,0.0872341297487808,0.0264450706874055
+Agriculture_and_Food,Brexit Referendum Day,06/29/2016,0.0430526118534984,0.0357794604271037
+Agriculture_and_Food,Brexit Referendum Day,06/30/2016,0.0202627350267972,0.0226725530757587
+Agriculture_and_Food,Brexit Referendum Day,07/01/2016,0.004781120343078,0.0113002171189942
+Agriculture_and_Food,Brexit Referendum Day,07/04/2016,-0.0208636455656935,-0.0084374717455598
+Agriculture_and_Food,Brexit Referendum Day,07/05/2016,-0.0257945743351591,0.0035417104929227
+Agriculture_and_Food,Brexit Referendum Day,07/06/2016,-0.0203377743276053,-0.0124972967134077
+Agriculture_and_Food,Brexit Referendum Day,07/07/2016,0.0889155083552226,0.0108607751053015
+Agriculture_and_Food,Brexit Referendum Day,07/08/2016,0.0165462822878821,0.0086933017029386
+Agriculture_and_Food,Brexit Referendum Day,07/11/2016,0.0063694819479576,0.0140047648650878
+Agriculture_and_Food,Brexit Referendum Day,07/12/2016,-0.0084387622284408,-0.0003291545681356
+Agriculture_and_Food,Brexit Referendum Day,07/13/2016,-0.0070922158822741,-0.0015417984144801
+Agriculture_and_Food,Brexit Referendum Day,07/14/2016,-0.0099998673314507,-0.0023836505421755
+Agriculture_and_Food,Brexit Referendum Day,07/15/2016,0.0072149247084989,0.002209060832895
+Agriculture_and_Food,Brexit Referendum Day,07/18/2016,0.0068051936686173,0.0039284631236087
+Agriculture_and_Food,Brexit Referendum Day,07/19/2016,-0.0017787306454998,0.0002987125532709
+Agriculture_and_Food,Brexit Referendum Day,07/20/2016,0.0014254416824606,0.0047182635227129
+Agriculture_and_Food,Brexit Referendum Day,07/21/2016,-0.0142347144464343,-0.0043245798270545
+Agriculture_and_Food,Brexit Referendum Day,07/22/2016,-0.0126355072674679,0.0045672469890998
+Agriculture_and_Food,Brexit Referendum Day,07/25/2016,-0.0087750778131685,-0.0030309638724834
+Agriculture_and_Food,Brexit Referendum Day,07/26/2016,0.0018443422257132,0.0020714895666913
+Agriculture_and_Food,Brexit Referendum Day,07/27/2016,0.0007364395432676,0.0039262198607599
+Agriculture_and_Food,Brexit Referendum Day,07/28/2016,-0.0117734504465751,-0.0043404546562236
+Agriculture_and_Food,Brexit Referendum Day,07/29/2016,0.0018612011877758,0.0004909619912745
+Agriculture_and_Food,Brexit Referendum Day,08/01/2016,0.0170945537069693,-0.0045208349868
+Agriculture_and_Food,Brexit Referendum Day,08/02/2016,-0.0069420427748305,-0.0072602476331415
+Agriculture_and_Food,Brexit Referendum Day,08/03/2016,0.0412068234685023,-0.0016552803686231
+Agriculture_and_Food,Brexit Referendum Day,08/04/2016,0.0236748284817063,0.0159472287661426
+Automotive,Brexit Referendum Day,06/24/2016,-0.0930620157205064,-0.0314605164436398
+Automotive,Brexit Referendum Day,06/27/2016,-0.1347930462297096,-0.0254939962892312
+Automotive,Brexit Referendum Day,06/28/2016,0.0512196096311881,0.0264450706874055
+Automotive,Brexit Referendum Day,06/29/2016,0.0159512541159363,0.0357794604271037
+Automotive,Brexit Referendum Day,06/30/2016,0.008849772216954,0.0226725530757587
+Automotive,Brexit Referendum Day,07/01/2016,0.0147139344153137,0.0113002171189942
+Automotive,Brexit Referendum Day,07/04/2016,-0.0485219428604987,-0.0084374717455598
+Automotive,Brexit Referendum Day,07/05/2016,-0.0767878143102943,0.0035417104929227
+Automotive,Brexit Referendum Day,07/06/2016,-0.0038095537011423,-0.0124972967134077
+Automotive,Brexit Referendum Day,07/07/2016,0.0497131530932746,0.0108607751053015
+Automotive,Brexit Referendum Day,07/08/2016,0.0127504535011273,0.0086933017029386
+Automotive,Brexit Referendum Day,07/11/2016,0.0386691171380961,0.0140047648650878
+Automotive,Brexit Referendum Day,07/12/2016,0.0187590197460434,-0.0003291545681356
+Automotive,Brexit Referendum Day,07/13/2016,0.0116147742714136,-0.0015417984144801
+Automotive,Brexit Referendum Day,07/14/2016,-0.0182021844214196,-0.0023836505421755
+Automotive,Brexit Referendum Day,07/15/2016,-0.0125497228845502,0.002209060832895
+Automotive,Brexit Referendum Day,07/18/2016,0.0138646303904599,0.0039284631236087
+Automotive,Brexit Referendum Day,07/19/2016,0.0031339758519197,0.0002987125532709
+Automotive,Brexit Referendum Day,07/20/2016,0.0181765065808472,0.0047182635227129
+Automotive,Brexit Referendum Day,07/21/2016,-0.0150626914038571,-0.0043245798270545
+Automotive,Brexit Referendum Day,07/22/2016,-0.0144435653555797,0.0045672469890998
+Automotive,Brexit Referendum Day,07/25/2016,0.0083334476540846,-0.0030309638724834
+Automotive,Brexit Referendum Day,07/26/2016,-0.0005699673795713,0.0020714895666913
+Automotive,Brexit Referendum Day,07/27/2016,0.0510407378215003,0.0039262198607599
+Automotive,Brexit Referendum Day,07/28/2016,-0.0056973231840196,-0.0043404546562236
+Automotive,Brexit Referendum Day,07/29/2016,0.0114598449516152,0.0004909619912745
+Automotive,Brexit Referendum Day,08/01/2016,0.0,-0.0045208349868
+Automotive,Brexit Referendum Day,08/02/2016,0.0072834375435846,-0.0072602476331415
+Automotive,Brexit Referendum Day,08/03/2016,0.0024101668782137,-0.0016552803686231
+Automotive,Brexit Referendum Day,08/04/2016,0.0216407043344366,0.0159472287661426
+Defense_and_Aerospace,Brexit Referendum Day,06/24/2016,-0.0402298528854238,-0.0718493316770992
+Defense_and_Aerospace,Brexit Referendum Day,06/27/2016,-0.017365281558506,-0.069629057871896
+Defense_and_Aerospace,Brexit Referendum Day,06/28/2016,-0.0103595234478134,0.0357564658223685
+Defense_and_Aerospace,Brexit Referendum Day,06/29/2016,0.0363299096680875,0.0322387647530666
+Defense_and_Aerospace,Brexit Referendum Day,06/30/2016,0.0101010821168061,0.0167594131190818
+Defense_and_Aerospace,Brexit Referendum Day,07/01/2016,0.0058824433065409,0.011947587765549
+Defense_and_Aerospace,Brexit Referendum Day,07/04/2016,0.0175437973724259,-0.0211836752414138
+Defense_and_Aerospace,Brexit Referendum Day,07/05/2016,-0.0091956244258566,-0.0237021223557353
+Defense_and_Aerospace,Brexit Referendum Day,07/06/2016,0.0017403300485907,-0.0041309970443138
+Defense_and_Aerospace,Brexit Referendum Day,07/07/2016,0.0451653114138768,0.0146205483525163
+Defense_and_Aerospace,Brexit Referendum Day,07/08/2016,-0.0027703595382823,0.0175484944415578
+Defense_and_Aerospace,Brexit Referendum Day,07/11/2016,0.0183333798656168,0.0326744422801139
+Defense_and_Aerospace,Brexit Referendum Day,07/12/2016,0.0092743246262372,0.0060275832253193
+Defense_and_Aerospace,Brexit Referendum Day,07/13/2016,-0.0172971823851879,-0.0033378519006163
+Defense_and_Aerospace,Brexit Referendum Day,07/14/2016,-0.001100049190454,0.0022088233538295
+Defense_and_Aerospace,Brexit Referendum Day,07/15/2016,-0.003304092830822,-0.0036156313289253
+Defense_and_Aerospace,Brexit Referendum Day,07/18/2016,0.003315046050712,0.008393370773686
+Defense_and_Aerospace,Brexit Referendum Day,07/19/2016,-0.018722519011457,0.0022884900898096
+Defense_and_Aerospace,Brexit Referendum Day,07/20/2016,-0.0190798190200098,0.0066602156694075
+Defense_and_Aerospace,Brexit Referendum Day,07/21/2016,-0.0102973993996918,0.0016746087788197
+Defense_and_Aerospace,Brexit Referendum Day,07/22/2016,0.0069364409946788,-0.0037483950139483
+Defense_and_Aerospace,Brexit Referendum Day,07/25/2016,-0.0218140168437325,0.0063296729178319
+Defense_and_Aerospace,Brexit Referendum Day,07/26/2016,-0.002347453817019,-0.0012813990184892
+Defense_and_Aerospace,Brexit Referendum Day,07/27/2016,0.0011764886613081,0.0115296521640724
+Defense_and_Aerospace,Brexit Referendum Day,07/28/2016,-0.0146884123235858,-0.0007876571199486
+Defense_and_Aerospace,Brexit Referendum Day,07/29/2016,0.0125222985654169,0.0017736538310446
+Defense_and_Aerospace,Brexit Referendum Day,08/01/2016,-0.0047116631579017,-0.0083146444535981
+Defense_and_Aerospace,Brexit Referendum Day,08/02/2016,0.0094676019220207,-0.0044459030890217
+Defense_and_Aerospace,Brexit Referendum Day,08/03/2016,0.0058617544436261,-0.0038621807785852
+Defense_and_Aerospace,Brexit Referendum Day,08/04/2016,-0.0034965567093472,0.0145437267272736
+Energy_and_Utilities,Brexit Referendum Day,06/24/2016,0.0173149069831521,-0.0314605164436398
+Energy_and_Utilities,Brexit Referendum Day,06/27/2016,0.0033025550216638,-0.0254939962892312
+Energy_and_Utilities,Brexit Referendum Day,06/28/2016,0.0240539401044703,0.0264450706874055
+Energy_and_Utilities,Brexit Referendum Day,06/29/2016,0.050315340623686,0.0357794604271037
+Energy_and_Utilities,Brexit Referendum Day,06/30/2016,0.0314260518058455,0.0226725530757587
+Energy_and_Utilities,Brexit Referendum Day,07/01/2016,0.0165468813612568,0.0113002171189942
+Energy_and_Utilities,Brexit Referendum Day,07/04/2016,0.0031433560703881,-0.0084374717455598
+Energy_and_Utilities,Brexit Referendum Day,07/05/2016,0.0151075199100028,0.0035417104929227
+Energy_and_Utilities,Brexit Referendum Day,07/06/2016,-0.0091502344130968,-0.0124972967134077
+Energy_and_Utilities,Brexit Referendum Day,07/07/2016,0.0086785205806367,0.0108607751053015
+Energy_and_Utilities,Brexit Referendum Day,07/08/2016,0.0081620895799208,0.0086933017029386
+Energy_and_Utilities,Brexit Referendum Day,07/11/2016,0.0043765890683404,0.0140047648650878
+Energy_and_Utilities,Brexit Referendum Day,07/12/2016,0.0061000006229396,-0.0003291545681356
+Energy_and_Utilities,Brexit Referendum Day,07/13/2016,-0.0132091328907006,-0.0015417984144801
+Energy_and_Utilities,Brexit Referendum Day,07/14/2016,-0.0023040657938421,-0.0023836505421755
+Energy_and_Utilities,Brexit Referendum Day,07/15/2016,0.0054986817926296,0.002209060832895
+Energy_and_Utilities,Brexit Referendum Day,07/18/2016,-0.0171716402499121,0.0039284631236087
+Energy_and_Utilities,Brexit Referendum Day,07/19/2016,0.0077901775546422,0.0002987125532709
+Energy_and_Utilities,Brexit Referendum Day,07/20/2016,-0.0035335692960568,0.0047182635227129
+Energy_and_Utilities,Brexit Referendum Day,07/21/2016,-0.0008867472751366,-0.0043245798270545
+Energy_and_Utilities,Brexit Referendum Day,07/22/2016,0.0028835962497892,0.0045672469890998
+Energy_and_Utilities,Brexit Referendum Day,07/25/2016,-0.025989366675066,-0.0030309638724834
+Energy_and_Utilities,Brexit Referendum Day,07/26/2016,-0.0130577668286517,0.0020714895666913
+Energy_and_Utilities,Brexit Referendum Day,07/27/2016,-0.0012657335142711,0.0039262198607599
+Energy_and_Utilities,Brexit Referendum Day,07/28/2016,-0.0170487305532265,-0.0043404546562236
+Energy_and_Utilities,Brexit Referendum Day,07/29/2016,0.0004684156850591,0.0004909619912745
+Energy_and_Utilities,Brexit Referendum Day,08/01/2016,-0.0199129182947968,-0.0045208349868
+Energy_and_Utilities,Brexit Referendum Day,08/02/2016,-0.0106372378446213,-0.0072602476331415
+Energy_and_Utilities,Brexit Referendum Day,08/03/2016,0.0026576477408721,-0.0016552803686231
+Energy_and_Utilities,Brexit Referendum Day,08/04/2016,0.0218627485820779,0.0159472287661426
+Finance_and_Insurance,Brexit Referendum Day,06/24/2016,-0.1568054905278351,-0.0314605164436398
+Finance_and_Insurance,Brexit Referendum Day,06/27/2016,-0.0763072210738602,-0.0254939962892312
+Finance_and_Insurance,Brexit Referendum Day,06/28/2016,0.0571920952060274,0.0264450706874055
+Finance_and_Insurance,Brexit Referendum Day,06/29/2016,0.0699453220033305,0.0357794604271037
+Finance_and_Insurance,Brexit Referendum Day,06/30/2016,0.0058734550235932,0.0226725530757587
+Finance_and_Insurance,Brexit Referendum Day,07/01/2016,0.0248796410821656,0.0113002171189942
+Finance_and_Insurance,Brexit Referendum Day,07/04/2016,-0.031459231151153,-0.0084374717455598
+Finance_and_Insurance,Brexit Referendum Day,07/05/2016,-0.039386233497778,0.0035417104929227
+Finance_and_Insurance,Brexit Referendum Day,07/06/2016,-0.0615014800762748,-0.0124972967134077
+Finance_and_Insurance,Brexit Referendum Day,07/07/2016,0.0184395007056252,0.0108607751053015
+Finance_and_Insurance,Brexit Referendum Day,07/08/2016,0.0111420298388642,0.0086933017029386
+Finance_and_Insurance,Brexit Referendum Day,07/11/2016,0.0090909114648514,0.0140047648650878
+Finance_and_Insurance,Brexit Referendum Day,07/12/2016,0.0423151101188006,-0.0003291545681356
+Finance_and_Insurance,Brexit Referendum Day,07/13/2016,0.003143103343294,-0.0015417984144801
+Finance_and_Insurance,Brexit Referendum Day,07/14/2016,0.0096603803564778,-0.0023836505421755
+Finance_and_Insurance,Brexit Referendum Day,07/15/2016,-0.0121541263084162,0.002209060832895
+Finance_and_Insurance,Brexit Referendum Day,07/18/2016,0.0089007254219013,0.0039284631236087
+Finance_and_Insurance,Brexit Referendum Day,07/19/2016,-0.0116761537080872,0.0002987125532709
+Finance_and_Insurance,Brexit Referendum Day,07/20/2016,0.0081385309718908,0.0047182635227129
+Finance_and_Insurance,Brexit Referendum Day,07/21/2016,-0.0140623450419566,-0.0043245798270545
+Finance_and_Insurance,Brexit Referendum Day,07/22/2016,-0.0015849908960982,0.0045672469890998
+Finance_and_Insurance,Brexit Referendum Day,07/25/2016,0.0105819177037884,-0.0030309638724834
+Finance_and_Insurance,Brexit Referendum Day,07/26/2016,-0.0065440890692906,0.0020714895666913
+Finance_and_Insurance,Brexit Referendum Day,07/27/2016,0.0329379795813651,0.0039262198607599
+Finance_and_Insurance,Brexit Referendum Day,07/28/2016,-0.018112187543999,-0.0043404546562236
+Finance_and_Insurance,Brexit Referendum Day,07/29/2016,0.0161080879068511,0.0004909619912745
+Finance_and_Insurance,Brexit Referendum Day,08/01/2016,-0.0010229288266457,-0.0045208349868
+Finance_and_Insurance,Brexit Referendum Day,08/02/2016,-0.0079342088263819,-0.0072602476331415
+Finance_and_Insurance,Brexit Referendum Day,08/03/2016,-0.0067082210879119,-0.0016552803686231
+Finance_and_Insurance,Brexit Referendum Day,08/04/2016,0.067012914172696,0.0159472287661426
+Healthcare_and_Pharmaceuticals,Brexit Referendum Day,06/24/2016,0.0054940681896957,-0.0308681397042805
+Healthcare_and_Pharmaceuticals,Brexit Referendum Day,06/27/2016,-0.0874313457719396,-0.0397185116860213
+Healthcare_and_Pharmaceuticals,Brexit Referendum Day,06/28/2016,0.0359278955801076,0.0124295069034974
+Healthcare_and_Pharmaceuticals,Brexit Referendum Day,06/29/2016,0.0057803922493231,0.0199990742841789
+Healthcare_and_Pharmaceuticals,Brexit Referendum Day,06/30/2016,0.0344828277096826,0.0135775097336383
+Healthcare_and_Pharmaceuticals,Brexit Referendum Day,07/01/2016,0.0,0.0105778253096227
+Healthcare_and_Pharmaceuticals,Brexit Referendum Day,07/04/2016,0.0222221038625496,-0.0036513311550544
+Healthcare_and_Pharmaceuticals,Brexit Referendum Day,07/05/2016,-0.0434784132685942,-0.0156805479716491
+Healthcare_and_Pharmaceuticals,Brexit Referendum Day,07/06/2016,-0.00568136855972,-0.0053250621451895
+Healthcare_and_Pharmaceuticals,Brexit Referendum Day,07/07/2016,0.0057138309391733,0.007463341247236
+Healthcare_and_Pharmaceuticals,Brexit Referendum Day,07/08/2016,0.0,0.0066424983340429
+Healthcare_and_Pharmaceuticals,Brexit Referendum Day,07/11/2016,-0.00568136855972,0.0230170223450978
+Healthcare_and_Pharmaceuticals,Brexit Referendum Day,07/12/2016,0.022857017068282,0.0018147599622826
+Healthcare_and_Pharmaceuticals,Brexit Referendum Day,07/13/2016,-0.0055866351568589,0.0028810065640569
+Healthcare_and_Pharmaceuticals,Brexit Referendum Day,07/14/2016,0.0,0.0035038297402067
+Healthcare_and_Pharmaceuticals,Brexit Referendum Day,07/15/2016,-0.0224719860339263,-0.0001301419712305
+Healthcare_and_Pharmaceuticals,Brexit Referendum Day,07/18/2016,0.005747371702707,0.002711202689513
+Healthcare_and_Pharmaceuticals,Brexit Referendum Day,07/19/2016,0.0371425904818556,0.0048236653012112
+Healthcare_and_Pharmaceuticals,Brexit Referendum Day,07/20/2016,0.0027550825977353,0.0036596130959827
+Healthcare_and_Pharmaceuticals,Brexit Referendum Day,07/21/2016,0.0109887110326432,0.0072497038767791
+Healthcare_and_Pharmaceuticals,Brexit Referendum Day,07/22/2016,-0.010869271746288,-0.004918996012836
+Healthcare_and_Pharmaceuticals,Brexit Referendum Day,07/25/2016,-0.0054946428429475,0.0044297443424994
+Healthcare_and_Pharmaceuticals,Brexit Referendum Day,07/26/2016,0.0220994251668646,0.0010012797655767
+Healthcare_and_Pharmaceuticals,Brexit Referendum Day,07/27/2016,-0.0216216002305811,0.0104077778307796
+Healthcare_and_Pharmaceuticals,Brexit Referendum Day,07/28/2016,0.0220994251668646,0.0042761767328671
+Healthcare_and_Pharmaceuticals,Brexit Referendum Day,07/29/2016,-0.010811082782611,0.0015311277242167
+Healthcare_and_Pharmaceuticals,Brexit Referendum Day,08/01/2016,-0.0054640483355484,-0.0011099300081449
+Healthcare_and_Pharmaceuticals,Brexit Referendum Day,08/02/2016,0.0054940681896957,-0.0057238117263049
+Healthcare_and_Pharmaceuticals,Brexit Referendum Day,08/03/2016,0.0,0.0004428437135446
+Healthcare_and_Pharmaceuticals,Brexit Referendum Day,08/04/2016,-0.0054640483355484,0.0038782359671367
+Manufacturing_and_Industrial_Goods,Brexit Referendum Day,06/24/2016,-0.0860173678386048,-0.0718493316770992
+Manufacturing_and_Industrial_Goods,Brexit Referendum Day,06/27/2016,-0.1800601576655641,-0.069629057871896
+Manufacturing_and_Industrial_Goods,Brexit Referendum Day,06/28/2016,0.0655135916526006,0.0357564658223685
+Manufacturing_and_Industrial_Goods,Brexit Referendum Day,06/29/2016,0.0334482482809939,0.0322387647530666
+Manufacturing_and_Industrial_Goods,Brexit Referendum Day,06/30/2016,0.0233222146381533,0.0167594131190818
+Manufacturing_and_Industrial_Goods,Brexit Referendum Day,07/01/2016,0.0223256734111814,0.011947587765549
+Manufacturing_and_Industrial_Goods,Brexit Referendum Day,07/04/2016,-0.0363969541539572,-0.0211836752414138
+Manufacturing_and_Industrial_Goods,Brexit Referendum Day,07/05/2016,-0.0472141234513203,-0.0237021223557353
+Manufacturing_and_Industrial_Goods,Brexit Referendum Day,07/06/2016,-0.0113976728238563,-0.0041309970443138
+Manufacturing_and_Industrial_Goods,Brexit Referendum Day,07/07/2016,0.0170427252754741,0.0146205483525163
+Manufacturing_and_Industrial_Goods,Brexit Referendum Day,07/08/2016,-0.0044356785636394,0.0175484944415578
+Manufacturing_and_Industrial_Goods,Brexit Referendum Day,07/11/2016,0.0668315315985943,0.0326744422801139
+Manufacturing_and_Industrial_Goods,Brexit Referendum Day,07/12/2016,0.0148493366103699,0.0060275832253193
+Manufacturing_and_Industrial_Goods,Brexit Referendum Day,07/13/2016,-0.0064013644837889,-0.0033378519006163
+Manufacturing_and_Industrial_Goods,Brexit Referendum Day,07/14/2016,0.0009202641750951,0.0022088233538295
+Manufacturing_and_Industrial_Goods,Brexit Referendum Day,07/15/2016,-0.0032185092591573,-0.0036156313289253
+Manufacturing_and_Industrial_Goods,Brexit Referendum Day,07/18/2016,0.0110700740058427,0.008393370773686
+Manufacturing_and_Industrial_Goods,Brexit Referendum Day,07/19/2016,0.0054746429866956,0.0022884900898096
+Manufacturing_and_Industrial_Goods,Brexit Referendum Day,07/20/2016,0.0022685912194428,0.0066602156694075
+Manufacturing_and_Industrial_Goods,Brexit Referendum Day,07/21/2016,0.0095066656002522,0.0016746087788197
+Manufacturing_and_Industrial_Goods,Brexit Referendum Day,07/22/2016,-0.0286996679638629,-0.0037483950139483
+Manufacturing_and_Industrial_Goods,Brexit Referendum Day,07/25/2016,0.0272390322741187,0.0063296729178319
+Manufacturing_and_Industrial_Goods,Brexit Referendum Day,07/26/2016,-0.0130334969106815,-0.0012813990184892
+Manufacturing_and_Industrial_Goods,Brexit Referendum Day,07/27/2016,0.022768721533066,0.0115296521640724
+Manufacturing_and_Industrial_Goods,Brexit Referendum Day,07/28/2016,-0.0093502168330097,-0.0007876571199486
+Manufacturing_and_Industrial_Goods,Brexit Referendum Day,07/29/2016,-0.003595356813133,0.0017736538310446
+Manufacturing_and_Industrial_Goods,Brexit Referendum Day,08/01/2016,-0.0013532061797514,-0.0083146444535981
+Manufacturing_and_Industrial_Goods,Brexit Referendum Day,08/02/2016,-0.0040651194840615,-0.0044459030890217
+Manufacturing_and_Industrial_Goods,Brexit Referendum Day,08/03/2016,0.01269863234471,-0.0038621807785852
+Manufacturing_and_Industrial_Goods,Brexit Referendum Day,08/04/2016,0.0134346906056905,0.0145437267272736
+Real_Estate_and_Construction,Brexit Referendum Day,06/24/2016,-0.2106543007822937,-0.0314605164436398
+Real_Estate_and_Construction,Brexit Referendum Day,06/27/2016,-0.0971848010447504,-0.0254939962892312
+Real_Estate_and_Construction,Brexit Referendum Day,06/28/2016,0.0145237653165941,0.0264450706874055
+Real_Estate_and_Construction,Brexit Referendum Day,06/29/2016,0.0736842799237116,0.0357794604271037
+Real_Estate_and_Construction,Brexit Referendum Day,06/30/2016,-0.0105882533538482,0.0226725530757587
+Real_Estate_and_Construction,Brexit Referendum Day,07/01/2016,0.0519221832012126,0.0113002171189942
+Real_Estate_and_Construction,Brexit Referendum Day,07/04/2016,-0.0636774428365004,-0.0084374717455598
+Real_Estate_and_Construction,Brexit Referendum Day,07/05/2016,-0.0635815015627495,0.0035417104929227
+Real_Estate_and_Construction,Brexit Referendum Day,07/06/2016,-0.0244950238993358,-0.0124972967134077
+Real_Estate_and_Construction,Brexit Referendum Day,07/07/2016,0.0237885227645122,0.0108607751053015
+Real_Estate_and_Construction,Brexit Referendum Day,07/08/2016,0.0718589710699919,0.0086933017029386
+Real_Estate_and_Construction,Brexit Referendum Day,07/11/2016,0.0694498487734762,0.0140047648650878
+Real_Estate_and_Construction,Brexit Referendum Day,07/12/2016,0.0105107521837919,-0.0003291545681356
+Real_Estate_and_Construction,Brexit Referendum Day,07/13/2016,-0.0267461069457262,-0.0015417984144801
+Real_Estate_and_Construction,Brexit Referendum Day,07/14/2016,0.0011453722925409,-0.0023836505421755
+Real_Estate_and_Construction,Brexit Referendum Day,07/15/2016,0.0003808947859085,0.002209060832895
+Real_Estate_and_Construction,Brexit Referendum Day,07/18/2016,0.0213412650462425,0.0039284631236087
+Real_Estate_and_Construction,Brexit Referendum Day,07/19/2016,0.0059703196308553,0.0002987125532709
+Real_Estate_and_Construction,Brexit Referendum Day,07/20/2016,0.0085311898733668,0.0047182635227129
+Real_Estate_and_Construction,Brexit Referendum Day,07/21/2016,-0.0080912454790388,-0.0043245798270545
+Real_Estate_and_Construction,Brexit Referendum Day,07/22/2016,-0.0341118834586382,0.0045672469890998
+Real_Estate_and_Construction,Brexit Referendum Day,07/25/2016,0.0084453340231729,-0.0030309638724834
+Real_Estate_and_Construction,Brexit Referendum Day,07/26/2016,-0.0312142487651514,0.0020714895666913
+Real_Estate_and_Construction,Brexit Referendum Day,07/27/2016,0.0526522342278921,0.0039262198607599
+Real_Estate_and_Construction,Brexit Referendum Day,07/28/2016,0.0026127782005773,-0.0043404546562236
+Real_Estate_and_Construction,Brexit Referendum Day,07/29/2016,-0.0011167799608285,0.0004909619912745
+Real_Estate_and_Construction,Brexit Referendum Day,08/01/2016,-0.0398808034766849,-0.0045208349868
+Real_Estate_and_Construction,Brexit Referendum Day,08/02/2016,0.0089284879349749,-0.0072602476331415
+Real_Estate_and_Construction,Brexit Referendum Day,08/03/2016,-0.0234704639211508,-0.0016552803686231
+Real_Estate_and_Construction,Brexit Referendum Day,08/04/2016,0.0173364415739081,0.0159472287661426
+Retail_and_Consumer_Goods,Brexit Referendum Day,06/24/2016,-0.1169991063954704,-0.0718493316770992
+Retail_and_Consumer_Goods,Brexit Referendum Day,06/27/2016,-0.0915822498544803,-0.069629057871896
+Retail_and_Consumer_Goods,Brexit Referendum Day,06/28/2016,0.0596308784526469,0.0357564658223685
+Retail_and_Consumer_Goods,Brexit Referendum Day,06/29/2016,0.0283401568058114,0.0322387647530666
+Retail_and_Consumer_Goods,Brexit Referendum Day,06/30/2016,0.0043309397885111,0.0167594131190818
+Retail_and_Consumer_Goods,Brexit Referendum Day,07/01/2016,0.0101921029411222,0.011947587765549
+Retail_and_Consumer_Goods,Brexit Referendum Day,07/04/2016,-0.0259994441198876,-0.0211836752414138
+Retail_and_Consumer_Goods,Brexit Referendum Day,07/05/2016,-0.0478087614058678,-0.0237021223557353
+Retail_and_Consumer_Goods,Brexit Referendum Day,07/06/2016,-0.022594218144318,-0.0041309970443138
+Retail_and_Consumer_Goods,Brexit Referendum Day,07/07/2016,0.021404347890555,0.0146205483525163
+Retail_and_Consumer_Goods,Brexit Referendum Day,07/08/2016,0.0322715378275795,0.0175484944415578
+Retail_and_Consumer_Goods,Brexit Referendum Day,07/11/2016,0.0373528649521754,0.0326744422801139
+Retail_and_Consumer_Goods,Brexit Referendum Day,07/12/2016,0.0082188493785171,0.0060275832253193
+Retail_and_Consumer_Goods,Brexit Referendum Day,07/13/2016,-0.0054344709869093,-0.0033378519006163
+Retail_and_Consumer_Goods,Brexit Referendum Day,07/14/2016,0.0550350806341803,0.0022088233538295
+Retail_and_Consumer_Goods,Brexit Referendum Day,07/15/2016,0.0051794980224599,-0.0036156313289253
+Retail_and_Consumer_Goods,Brexit Referendum Day,07/18/2016,-0.002576632178927,0.008393370773686
+Retail_and_Consumer_Goods,Brexit Referendum Day,07/19/2016,-0.018819222857099,0.0022884900898096
+Retail_and_Consumer_Goods,Brexit Referendum Day,07/20/2016,-0.0026323710646676,0.0066602156694075
+Retail_and_Consumer_Goods,Brexit Referendum Day,07/21/2016,-0.0064101738828817,0.0016746087788197
+Retail_and_Consumer_Goods,Brexit Referendum Day,07/22/2016,-0.0132828585896247,-0.0037483950139483
+Retail_and_Consumer_Goods,Brexit Referendum Day,07/25/2016,-0.0088459507943571,0.0063296729178319
+Retail_and_Consumer_Goods,Brexit Referendum Day,07/26/2016,-0.0097015000602443,-0.0012813990184892
+Retail_and_Consumer_Goods,Brexit Referendum Day,07/27/2016,0.008228803770093,0.0115296521640724
+Retail_and_Consumer_Goods,Brexit Referendum Day,07/28/2016,0.012825604168718,-0.0007876571199486
+Retail_and_Consumer_Goods,Brexit Referendum Day,07/29/2016,-0.0126631910922558,0.0017736538310446
+Retail_and_Consumer_Goods,Brexit Referendum Day,08/01/2016,-0.0069954606574931,-0.0083146444535981
+Retail_and_Consumer_Goods,Brexit Referendum Day,08/02/2016,-0.0027398101267231,-0.0044459030890217
+Retail_and_Consumer_Goods,Brexit Referendum Day,08/03/2016,-0.0003923796588287,-0.0038621807785852
+Retail_and_Consumer_Goods,Brexit Referendum Day,08/04/2016,-0.0047115698258262,0.0145437267272736
+Technology_and_Telecommunications,Brexit Referendum Day,06/24/2016,-0.0930620006442816,-0.0314605164436398
+Technology_and_Telecommunications,Brexit Referendum Day,06/27/2016,-0.1347931114648484,-0.0254939962892312
+Technology_and_Telecommunications,Brexit Referendum Day,06/28/2016,0.0512196043439501,0.0264450706874055
+Technology_and_Telecommunications,Brexit Referendum Day,06/29/2016,0.0159512525495677,0.0357794604271037
+Technology_and_Telecommunications,Brexit Referendum Day,06/30/2016,0.008849481395279,0.0226725530757587
+Technology_and_Telecommunications,Brexit Referendum Day,07/01/2016,0.0147141288498959,0.0113002171189942
+Technology_and_Telecommunications,Brexit Referendum Day,07/04/2016,-0.0485219428604987,-0.0084374717455598
+Technology_and_Telecommunications,Brexit Referendum Day,07/05/2016,-0.0767879135435881,0.0035417104929227
+Technology_and_Telecommunications,Brexit Referendum Day,07/06/2016,-0.0038096615976157,-0.0124972967134077
+Technology_and_Telecommunications,Brexit Referendum Day,07/07/2016,0.0497133796172812,0.0108607751053015
+Technology_and_Telecommunications,Brexit Referendum Day,07/08/2016,0.0127505562892342,0.0086933017029386
+Technology_and_Telecommunications,Brexit Referendum Day,07/11/2016,0.0386691132134127,0.0140047648650878
+Technology_and_Telecommunications,Brexit Referendum Day,07/12/2016,0.0187588224821322,-0.0003291545681356
+Technology_and_Telecommunications,Brexit Referendum Day,07/13/2016,0.0116149672177754,-0.0015417984144801
+Technology_and_Telecommunications,Brexit Referendum Day,07/14/2016,-0.018202372325355,-0.0023836505421755
+Technology_and_Telecommunications,Brexit Referendum Day,07/15/2016,-0.0125497240965113,0.002209060832895
+Technology_and_Telecommunications,Brexit Referendum Day,07/18/2016,0.0138648273466304,0.0039284631236087
+Technology_and_Telecommunications,Brexit Referendum Day,07/19/2016,0.0031338790869421,0.0002987125532709
+Technology_and_Telecommunications,Brexit Referendum Day,07/20/2016,0.0181765065808472,0.0047182635227129
+Technology_and_Telecommunications,Brexit Referendum Day,07/21/2016,-0.0150625969592227,-0.0043245798270545
+Technology_and_Telecommunications,Brexit Referendum Day,07/22/2016,-0.0144435639706012,0.0045672469890998
+Technology_and_Telecommunications,Brexit Referendum Day,07/25/2016,0.0083333495490411,-0.0030309638724834
+Technology_and_Telecommunications,Brexit Referendum Day,07/26/2016,-0.0005699673795713,0.0020714895666913
+Technology_and_Telecommunications,Brexit Referendum Day,07/27/2016,0.051040641276312,0.0039262198607599
+Technology_and_Telecommunications,Brexit Referendum Day,07/28/2016,-0.0056972318505967,-0.0043404546562236
+Technology_and_Telecommunications,Brexit Referendum Day,07/29/2016,0.0114600297177918,0.0004909619912745
+Technology_and_Telecommunications,Brexit Referendum Day,08/01/2016,0.0,-0.0045208349868
+Technology_and_Telecommunications,Brexit Referendum Day,08/02/2016,0.0072830708676161,-0.0072602476331415
+Technology_and_Telecommunications,Brexit Referendum Day,08/03/2016,0.002410530019187,-0.0016552803686231
+Technology_and_Telecommunications,Brexit Referendum Day,08/04/2016,0.0216405195034512,0.0159472287661426
+Transportation_and_Infrastructure,Donald Trump Reelection,11/07/2024,0.0063985094924938,0.0092289307851682
+Transportation_and_Infrastructure,Donald Trump Reelection,11/08/2024,-0.0181653045205999,-0.0056940983831543
+Transportation_and_Infrastructure,Donald Trump Reelection,11/11/2024,0.0171137696598948,0.0100204994400372
+Transportation_and_Infrastructure,Donald Trump Reelection,11/12/2024,-0.0313778721600714,-0.0142687875479528
+Transportation_and_Infrastructure,Donald Trump Reelection,11/13/2024,0.0117370892018779,-0.0033582451304776
+Transportation_and_Infrastructure,Donald Trump Reelection,11/14/2024,0.0171693593885948,0.0080357562565294
+Transportation_and_Infrastructure,Donald Trump Reelection,11/15/2024,0.0018248593104126,-0.002251211828612
+Transportation_and_Infrastructure,Donald Trump Reelection,11/18/2024,-0.0122951372130586,-0.0039654640076481
+Transportation_and_Infrastructure,Donald Trump Reelection,11/19/2024,-0.0009220698656987,0.0015787490381802
+Transportation_and_Infrastructure,Donald Trump Reelection,11/20/2024,0.0069220120956359,-0.0089486200836395
+Transportation_and_Infrastructure,Donald Trump Reelection,11/21/2024,-0.0050412046751195,0.0051914370761474
+Transportation_and_Infrastructure,Donald Trump Reelection,11/22/2024,0.0147397367953845,0.0113906615597876
+Transportation_and_Infrastructure,Donald Trump Reelection,11/25/2024,0.0172492192424755,0.0081432325251025
+Transportation_and_Infrastructure,Donald Trump Reelection,11/26/2024,-0.0138331370775763,-0.0087039830596701
+Transportation_and_Infrastructure,Donald Trump Reelection,11/27/2024,0.021266954516933,0.0015995367657963
+Transportation_and_Infrastructure,Donald Trump Reelection,11/28/2024,0.0044306602282733,0.0078246920108884
+Transportation_and_Infrastructure,Donald Trump Reelection,11/29/2024,-0.0066166741075981,0.0004237784785252
+Transportation_and_Infrastructure,Donald Trump Reelection,12/02/2024,-0.0102131575618379,-0.0001203566430614
+Transportation_and_Infrastructure,Donald Trump Reelection,12/03/2024,0.0094212927815999,0.0059511298852459
+Transportation_and_Infrastructure,Donald Trump Reelection,12/04/2024,0.0053333197699652,0.005384656085942
+Transportation_and_Infrastructure,Donald Trump Reelection,12/05/2024,-0.0061891861864379,-0.0001951711732084
+Transportation_and_Infrastructure,Donald Trump Reelection,12/06/2024,0.0066725977741852,0.0027570170944359
+Agriculture_and_Food,Donald Trump Reelection,11/07/2024,-0.0094868477792151,-0.0031836603987156
+Agriculture_and_Food,Donald Trump Reelection,11/08/2024,-0.0143665650848933,-0.0083899776837473
+Agriculture_and_Food,Donald Trump Reelection,11/11/2024,-0.004416961130742,0.0065408420801129
+Agriculture_and_Food,Donald Trump Reelection,11/12/2024,-0.0181898846495119,-0.0122335928021004
+Agriculture_and_Food,Donald Trump Reelection,11/13/2024,0.0018075011296883,0.0005606917826896
+Agriculture_and_Food,Donald Trump Reelection,11/14/2024,0.0117275597654487,0.0050932582368998
+Agriculture_and_Food,Donald Trump Reelection,11/15/2024,-0.0254123941150244,-0.0009416316622481
+Agriculture_and_Food,Donald Trump Reelection,11/18/2024,0.000914913083257,0.0056674074207292
+Agriculture_and_Food,Donald Trump Reelection,11/19/2024,-0.0105118829981718,-0.0012701225673696
+Agriculture_and_Food,Donald Trump Reelection,11/20/2024,-0.0041570438799076,-0.0017162492090072
+Agriculture_and_Food,Donald Trump Reelection,11/21/2024,0.0069573283858999,0.0079404962530842
+Agriculture_and_Food,Donald Trump Reelection,11/22/2024,0.0119760479041917,0.0138416560184246
+Agriculture_and_Food,Donald Trump Reelection,11/25/2024,0.005461993627674,0.0035826953603794
+Agriculture_and_Food,Donald Trump Reelection,11/26/2024,-0.0031688546853779,-0.0039920143224922
+Agriculture_and_Food,Donald Trump Reelection,11/27/2024,-0.0031789282470481,0.00196161529542
+Agriculture_and_Food,Donald Trump Reelection,11/28/2024,-0.0022779043280182,0.0007734798153513
+Agriculture_and_Food,Donald Trump Reelection,11/29/2024,0.0036529680365295,0.0007365610335627
+Agriculture_and_Food,Donald Trump Reelection,12/02/2024,0.0181983621474066,0.0030891347653454
+Agriculture_and_Food,Donald Trump Reelection,12/03/2024,0.0151921358355675,0.0055937155282699
+Agriculture_and_Food,Donald Trump Reelection,12/04/2024,0.0140845070422535,-0.0028232390882925
+Agriculture_and_Food,Donald Trump Reelection,12/05/2024,-0.0186631944444444,0.0016315874008696
+Agriculture_and_Food,Donald Trump Reelection,12/06/2024,-0.0128261831048208,-0.0048866720172878
+Automotive,Donald Trump Reelection,11/07/2024,0.0169491525423728,0.0092289307851682
+Automotive,Donald Trump Reelection,11/08/2024,-0.0200000127156575,-0.0056940983831543
+Automotive,Donald Trump Reelection,11/11/2024,0.0221088308491197,0.0100204994400372
+Automotive,Donald Trump Reelection,11/12/2024,-0.0374376049438477,-0.0142687875479528
+Automotive,Donald Trump Reelection,11/13/2024,-0.0017285821393033,-0.0033582451304776
+Automotive,Donald Trump Reelection,11/14/2024,-0.0025974290195481,0.0080357562565294
+Automotive,Donald Trump Reelection,11/15/2024,-0.0234374741299278,-0.002251211828612
+Automotive,Donald Trump Reelection,11/18/2024,-0.0213333468967014,-0.0039654640076481
+Automotive,Donald Trump Reelection,11/19/2024,-0.0336057856450549,0.0015787490381802
+Automotive,Donald Trump Reelection,11/20/2024,-0.0469924805290898,-0.0089486200836395
+Automotive,Donald Trump Reelection,11/21/2024,0.0128204674832426,0.0051914370761474
+Automotive,Donald Trump Reelection,11/22/2024,0.0292112959021013,0.0113906615597876
+Automotive,Donald Trump Reelection,11/25/2024,0.0633869893195691,0.0081432325251025
+Automotive,Donald Trump Reelection,11/26/2024,-0.0400355866451116,-0.0087039830596701
+Automotive,Donald Trump Reelection,11/27/2024,-0.0546802728678723,0.0015995367657963
+Automotive,Donald Trump Reelection,11/28/2024,0.0196078431372548,0.0078246920108884
+Automotive,Donald Trump Reelection,11/29/2024,0.0192307692307691,0.0004237784785252
+Automotive,Donald Trump Reelection,12/02/2024,-0.0094339622641509,-0.0001203566430614
+Automotive,Donald Trump Reelection,12/03/2024,0.0447618756975447,0.0059511298852459
+Automotive,Donald Trump Reelection,12/04/2024,0.0118505295161601,0.005384656085942
+Automotive,Donald Trump Reelection,12/05/2024,0.0018017743084881,-0.0001951711732084
+Automotive,Donald Trump Reelection,12/06/2024,-0.0017985337565726,0.0027570170944359
+Defense_and_Aerospace,Donald Trump Reelection,11/07/2024,0.0031897926634769,0.0092289307851682
+Defense_and_Aerospace,Donald Trump Reelection,11/08/2024,-0.012718600953895,-0.0056940983831543
+Defense_and_Aerospace,Donald Trump Reelection,11/11/2024,0.0177133655394525,0.0100204994400372
+Defense_and_Aerospace,Donald Trump Reelection,11/12/2024,-0.0332278481012657,-0.0142687875479528
+Defense_and_Aerospace,Donald Trump Reelection,11/13/2024,0.0032733224222585,-0.0033582451304776
+Defense_and_Aerospace,Donald Trump Reelection,11/14/2024,0.0016313213703098,0.0080357562565294
+Defense_and_Aerospace,Donald Trump Reelection,11/15/2024,0.017915309446254,-0.002251211828612
+Defense_and_Aerospace,Donald Trump Reelection,11/18/2024,0.048,-0.0039654640076481
+Defense_and_Aerospace,Donald Trump Reelection,11/19/2024,0.0519083969465647,0.0015787490381802
+Defense_and_Aerospace,Donald Trump Reelection,11/20/2024,-0.0145137880986937,-0.0089486200836395
+Defense_and_Aerospace,Donald Trump Reelection,11/21/2024,0.027982326951399,0.0051914370761474
+Defense_and_Aerospace,Donald Trump Reelection,11/22/2024,-0.0028653295128939,0.0113906615597876
+Defense_and_Aerospace,Donald Trump Reelection,11/25/2024,-0.0129310344827586,0.0081432325251025
+Defense_and_Aerospace,Donald Trump Reelection,11/26/2024,0.0101892285298399,-0.0087039830596701
+Defense_and_Aerospace,Donald Trump Reelection,11/27/2024,0.0403458213256484,0.0015995367657963
+Defense_and_Aerospace,Donald Trump Reelection,11/28/2024,-0.0041551246537395,0.0078246920108884
+Defense_and_Aerospace,Donald Trump Reelection,11/29/2024,-0.0180806675938803,0.0004237784785252
+Defense_and_Aerospace,Donald Trump Reelection,12/02/2024,-0.0113314447592067,-0.0001203566430614
+Defense_and_Aerospace,Donald Trump Reelection,12/03/2024,0.0028653295128939,0.0059511298852459
+Defense_and_Aerospace,Donald Trump Reelection,12/04/2024,-0.0071428571428571,0.005384656085942
+Defense_and_Aerospace,Donald Trump Reelection,12/05/2024,0.0014388489208632,-0.0001951711732084
+Defense_and_Aerospace,Donald Trump Reelection,12/06/2024,-0.0043103448275861,0.0027570170944359
+Energy_and_Utilities,Donald Trump Reelection,11/07/2024,0.0079260237780713,-0.0031836603987156
+Energy_and_Utilities,Donald Trump Reelection,11/08/2024,-0.0214941342255078,-0.0083899776837473
+Energy_and_Utilities,Donald Trump Reelection,11/11/2024,-0.0008036105083805,0.0065408420801129
+Energy_and_Utilities,Donald Trump Reelection,11/12/2024,-0.0152815340671078,-0.0122335928021004
+Energy_and_Utilities,Donald Trump Reelection,11/13/2024,0.0074870680408245,0.0005606917826896
+Energy_and_Utilities,Donald Trump Reelection,11/14/2024,0.0248615390096387,0.0050932582368998
+Energy_and_Utilities,Donald Trump Reelection,11/15/2024,0.0090969339671225,-0.0009416316622481
+Energy_and_Utilities,Donald Trump Reelection,11/18/2024,0.0114972400212627,0.0056674074207292
+Energy_and_Utilities,Donald Trump Reelection,11/19/2024,-0.0111082878913646,-0.0012701225673696
+Energy_and_Utilities,Donald Trump Reelection,11/20/2024,-0.0032654128523014,-0.0017162492090072
+Energy_and_Utilities,Donald Trump Reelection,11/21/2024,0.0184773123734767,0.0079404962530842
+Energy_and_Utilities,Donald Trump Reelection,11/22/2024,0.010550710342561,0.0138416560184246
+Energy_and_Utilities,Donald Trump Reelection,11/25/2024,-0.0123504098618634,0.0035826953603794
+Energy_and_Utilities,Donald Trump Reelection,11/26/2024,-0.0113445760661147,-0.0039920143224922
+Energy_and_Utilities,Donald Trump Reelection,11/27/2024,0.0018254835497963,0.00196161529542
+Energy_and_Utilities,Donald Trump Reelection,11/28/2024,0.0033841424735183,0.0007734798153513
+Energy_and_Utilities,Donald Trump Reelection,11/29/2024,-0.0020755436119098,0.0007365610335627
+Energy_and_Utilities,Donald Trump Reelection,12/02/2024,-0.0105290208169317,0.0030891347653454
+Energy_and_Utilities,Donald Trump Reelection,12/03/2024,0.0183920123167211,0.0055937155282699
+Energy_and_Utilities,Donald Trump Reelection,12/04/2024,-0.0083849327884996,-0.0028232390882925
+Energy_and_Utilities,Donald Trump Reelection,12/05/2024,-0.0133992293865018,0.0016315874008696
+Energy_and_Utilities,Donald Trump Reelection,12/06/2024,-0.003823871730889,-0.0048866720172878
+Finance_and_Insurance,Donald Trump Reelection,11/07/2024,-0.0024027427157445,-0.0031836603987156
+Finance_and_Insurance,Donald Trump Reelection,11/08/2024,-0.0010948105685036,-0.0083899776837473
+Finance_and_Insurance,Donald Trump Reelection,11/11/2024,0.007233642491599,0.0065408420801129
+Finance_and_Insurance,Donald Trump Reelection,11/12/2024,-0.0113166750969123,-0.0122335928021004
+Finance_and_Insurance,Donald Trump Reelection,11/13/2024,0.0008805292203635,0.0005606917826896
+Finance_and_Insurance,Donald Trump Reelection,11/14/2024,0.0455244801709575,0.0050932582368998
+Finance_and_Insurance,Donald Trump Reelection,11/15/2024,0.0199831723221868,-0.0009416316622481
+Finance_and_Insurance,Donald Trump Reelection,11/18/2024,0.0055681836275867,0.0056674074207292
+Finance_and_Insurance,Donald Trump Reelection,11/19/2024,-0.003486489306299,-0.0012701225673696
+Finance_and_Insurance,Donald Trump Reelection,11/20/2024,-0.013171422055724,-0.0017162492090072
+Finance_and_Insurance,Donald Trump Reelection,11/21/2024,0.0089676492032715,0.0079404962530842
+Finance_and_Insurance,Donald Trump Reelection,11/22/2024,0.0039272932244793,0.0138416560184246
+Finance_and_Insurance,Donald Trump Reelection,11/25/2024,0.0004117391073235,0.0035826953603794
+Finance_and_Insurance,Donald Trump Reelection,11/26/2024,-0.0084379628627636,-0.0039920143224922
+Finance_and_Insurance,Donald Trump Reelection,11/27/2024,0.015566625550067,0.00196161529542
+Finance_and_Insurance,Donald Trump Reelection,11/28/2024,-0.020028587855014,0.0007734798153513
+Finance_and_Insurance,Donald Trump Reelection,11/29/2024,0.0087591495454248,0.0007365610335627
+Finance_and_Insurance,Donald Trump Reelection,12/02/2024,-0.0010336985474087,0.0030891347653454
+Finance_and_Insurance,Donald Trump Reelection,12/03/2024,-0.0105546481263962,0.0055937155282699
+Finance_and_Insurance,Donald Trump Reelection,12/04/2024,0.0048106834628878,-0.0028232390882925
+Finance_and_Insurance,Donald Trump Reelection,12/05/2024,0.0187343882480133,0.0016315874008696
+Finance_and_Insurance,Donald Trump Reelection,12/06/2024,-0.0118512216291435,-0.0048866720172878
+Healthcare_and_Pharmaceuticals,Donald Trump Reelection,11/07/2024,-0.0146750681707182,0.0012390489758165
+Healthcare_and_Pharmaceuticals,Donald Trump Reelection,11/08/2024,-0.0010638135544797,-0.0067408631031742
+Healthcare_and_Pharmaceuticals,Donald Trump Reelection,11/11/2024,0.0106496270899889,0.0054674074779184
+Healthcare_and_Pharmaceuticals,Donald Trump Reelection,11/12/2024,-0.0179136412044538,-0.0110064725239298
+Healthcare_and_Pharmaceuticals,Donald Trump Reelection,11/13/2024,-0.01180255912167,-0.0050117185051185
+Healthcare_and_Pharmaceuticals,Donald Trump Reelection,11/14/2024,0.0141151256601061,0.008755440186253
+Healthcare_and_Pharmaceuticals,Donald Trump Reelection,11/15/2024,0.0085652613414746,-0.0025847525629171
+Healthcare_and_Pharmaceuticals,Donald Trump Reelection,11/18/2024,-0.0233545331158658,0.0004122452216328
+Healthcare_and_Pharmaceuticals,Donald Trump Reelection,11/19/2024,-0.0217391304347825,-0.0024578634274219
+Healthcare_and_Pharmaceuticals,Donald Trump Reelection,11/20/2024,-0.0155555725097655,-0.0049574482033726
+Healthcare_and_Pharmaceuticals,Donald Trump Reelection,11/21/2024,0.0045146899860923,0.0034993694213483
+Healthcare_and_Pharmaceuticals,Donald Trump Reelection,11/22/2024,0.0224719101123596,0.0060729063328583
+Healthcare_and_Pharmaceuticals,Donald Trump Reelection,11/25/2024,-0.0032967368325034,0.0040095602384953
+Healthcare_and_Pharmaceuticals,Donald Trump Reelection,11/26/2024,-0.0066151983937053,-0.004052046476323
+Healthcare_and_Pharmaceuticals,Donald Trump Reelection,11/27/2024,0.0011098609968325,0.000969405109999
+Healthcare_and_Pharmaceuticals,Donald Trump Reelection,11/28/2024,0.0110864748762,-0.0018195014444241
+Healthcare_and_Pharmaceuticals,Donald Trump Reelection,11/29/2024,0.0076754890467154,0.0032634149755323
+Healthcare_and_Pharmaceuticals,Donald Trump Reelection,12/02/2024,-0.0108813926376094,0.0025349158164122
+Healthcare_and_Pharmaceuticals,Donald Trump Reelection,12/03/2024,0.0011000932061879,0.0058753462325142
+Healthcare_and_Pharmaceuticals,Donald Trump Reelection,12/04/2024,0.0307692643050307,0.0021068538731956
+Healthcare_and_Pharmaceuticals,Donald Trump Reelection,12/05/2024,-0.0085288169054363,0.0009424660979113
+Healthcare_and_Pharmaceuticals,Donald Trump Reelection,12/06/2024,-0.0086021833522345,0.0007677912185055
+Manufacturing_and_Industrial_Goods,Donald Trump Reelection,11/07/2024,0.0063985094924938,0.0092289307851682
+Manufacturing_and_Industrial_Goods,Donald Trump Reelection,11/08/2024,-0.0181653045205999,-0.0056940983831543
+Manufacturing_and_Industrial_Goods,Donald Trump Reelection,11/11/2024,0.0171137696598948,0.0100204994400372
+Manufacturing_and_Industrial_Goods,Donald Trump Reelection,11/12/2024,-0.0313778721600714,-0.0142687875479528
+Manufacturing_and_Industrial_Goods,Donald Trump Reelection,11/13/2024,0.0117370892018779,-0.0033582451304776
+Manufacturing_and_Industrial_Goods,Donald Trump Reelection,11/14/2024,0.0171693593885948,0.0080357562565294
+Manufacturing_and_Industrial_Goods,Donald Trump Reelection,11/15/2024,0.0018248593104126,-0.002251211828612
+Manufacturing_and_Industrial_Goods,Donald Trump Reelection,11/18/2024,-0.0122951372130586,-0.0039654640076481
+Manufacturing_and_Industrial_Goods,Donald Trump Reelection,11/19/2024,-0.0009220698656987,0.0015787490381802
+Manufacturing_and_Industrial_Goods,Donald Trump Reelection,11/20/2024,0.0069220120956359,-0.0089486200836395
+Manufacturing_and_Industrial_Goods,Donald Trump Reelection,11/21/2024,-0.0050412046751195,0.0051914370761474
+Manufacturing_and_Industrial_Goods,Donald Trump Reelection,11/22/2024,0.0147397367953845,0.0113906615597876
+Manufacturing_and_Industrial_Goods,Donald Trump Reelection,11/25/2024,0.0172492192424755,0.0081432325251025
+Manufacturing_and_Industrial_Goods,Donald Trump Reelection,11/26/2024,-0.0138331370775763,-0.0087039830596701
+Manufacturing_and_Industrial_Goods,Donald Trump Reelection,11/27/2024,0.021266954516933,0.0015995367657963
+Manufacturing_and_Industrial_Goods,Donald Trump Reelection,11/28/2024,0.0044306602282733,0.0078246920108884
+Manufacturing_and_Industrial_Goods,Donald Trump Reelection,11/29/2024,-0.0066166741075981,0.0004237784785252
+Manufacturing_and_Industrial_Goods,Donald Trump Reelection,12/02/2024,-0.0102131575618379,-0.0001203566430614
+Manufacturing_and_Industrial_Goods,Donald Trump Reelection,12/03/2024,0.0094212927815999,0.0059511298852459
+Manufacturing_and_Industrial_Goods,Donald Trump Reelection,12/04/2024,0.0053333197699652,0.005384656085942
+Manufacturing_and_Industrial_Goods,Donald Trump Reelection,12/05/2024,-0.0061891861864379,-0.0001951711732084
+Manufacturing_and_Industrial_Goods,Donald Trump Reelection,12/06/2024,0.0066725977741852,0.0027570170944359
+Real_Estate_and_Construction,Donald Trump Reelection,11/07/2024,0.0103237916471139,-0.0031836603987156
+Real_Estate_and_Construction,Donald Trump Reelection,11/08/2024,-0.0055736182071528,-0.0083899776837473
+Real_Estate_and_Construction,Donald Trump Reelection,11/11/2024,0.0,0.0065408420801129
+Real_Estate_and_Construction,Donald Trump Reelection,11/12/2024,-0.0149462867818775,-0.0122335928021004
+Real_Estate_and_Construction,Donald Trump Reelection,11/13/2024,0.0,0.0005606917826896
+Real_Estate_and_Construction,Donald Trump Reelection,11/14/2024,0.0222854433380748,0.0050932582368998
+Real_Estate_and_Construction,Donald Trump Reelection,11/15/2024,0.0004638218923933,-0.0009416316622481
+Real_Estate_and_Construction,Donald Trump Reelection,11/18/2024,0.0027816411682892,0.0056674074207292
+Real_Estate_and_Construction,Donald Trump Reelection,11/19/2024,0.0101710587147481,-0.0012701225673696
+Real_Estate_and_Construction,Donald Trump Reelection,11/20/2024,-0.0324942791762014,-0.0017162492090072
+Real_Estate_and_Construction,Donald Trump Reelection,11/21/2024,0.0061494796594134,0.0079404962530842
+Real_Estate_and_Construction,Donald Trump Reelection,11/22/2024,0.0159849553361541,0.0138416560184246
+Real_Estate_and_Construction,Donald Trump Reelection,11/25/2024,-0.000462748727441,0.0035826953603794
+Real_Estate_and_Construction,Donald Trump Reelection,11/26/2024,-0.0166666666666667,-0.0039920143224922
+Real_Estate_and_Construction,Donald Trump Reelection,11/27/2024,0.0080037664783427,0.00196161529542
+Real_Estate_and_Construction,Donald Trump Reelection,11/28/2024,-0.0168145726296122,0.0007734798153513
+Real_Estate_and_Construction,Donald Trump Reelection,11/29/2024,-0.0147268408551068,0.0007365610335627
+Real_Estate_and_Construction,Donald Trump Reelection,12/02/2024,0.0028929604628735,0.0030891347653454
+Real_Estate_and_Construction,Donald Trump Reelection,12/03/2024,-0.0115384615384614,0.0055937155282699
+Real_Estate_and_Construction,Donald Trump Reelection,12/04/2024,0.0058365758754863,-0.0028232390882925
+Real_Estate_and_Construction,Donald Trump Reelection,12/05/2024,0.0072533849129594,0.0016315874008696
+Real_Estate_and_Construction,Donald Trump Reelection,12/06/2024,-0.0115218434949592,-0.0048866720172878
+Retail_and_Consumer_Goods,Donald Trump Reelection,11/07/2024,0.0180109628779976,0.0092289307851682
+Retail_and_Consumer_Goods,Donald Trump Reelection,11/08/2024,-0.0174358325907493,-0.0056940983831543
+Retail_and_Consumer_Goods,Donald Trump Reelection,11/11/2024,0.0,0.0100204994400372
+Retail_and_Consumer_Goods,Donald Trump Reelection,11/13/2024,-0.0088727796501053,-0.0033582451304776
+Retail_and_Consumer_Goods,Donald Trump Reelection,11/14/2024,0.0500263485255401,0.0080357562565294
+Retail_and_Consumer_Goods,Donald Trump Reelection,11/15/2024,-0.0511534280085577,-0.002251211828612
+Retail_and_Consumer_Goods,Donald Trump Reelection,11/18/2024,-0.0806024985063927,-0.0039654640076481
+Retail_and_Consumer_Goods,Donald Trump Reelection,11/19/2024,-0.0054613766734492,0.0015787490381802
+Retail_and_Consumer_Goods,Donald Trump Reelection,11/20/2024,-0.0459537606452383,-0.0089486200836395
+Retail_and_Consumer_Goods,Donald Trump Reelection,11/21/2024,0.0437192510489947,0.0051914370761474
+Retail_and_Consumer_Goods,Donald Trump Reelection,11/22/2024,0.0215338872948931,0.0113906615597876
+Retail_and_Consumer_Goods,Donald Trump Reelection,11/25/2024,0.0115506790095278,0.0081432325251025
+Retail_and_Consumer_Goods,Donald Trump Reelection,11/26/2024,-0.0159862283216725,-0.0087039830596701
+Retail_and_Consumer_Goods,Donald Trump Reelection,11/27/2024,-0.0005802500723762,0.0015995367657963
+Retail_and_Consumer_Goods,Donald Trump Reelection,11/28/2024,-0.0058055152394774,0.0078246920108884
+Retail_and_Consumer_Goods,Donald Trump Reelection,11/29/2024,0.0128466975079835,0.0004237784785252
+Retail_and_Consumer_Goods,Donald Trump Reelection,12/02/2024,-0.0262323616708712,-0.0001203566430614
+Retail_and_Consumer_Goods,Donald Trump Reelection,12/03/2024,0.0204263607560915,0.0059511298852459
+Retail_and_Consumer_Goods,Donald Trump Reelection,12/04/2024,0.009573506458093,0.005384656085942
+Retail_and_Consumer_Goods,Donald Trump Reelection,12/05/2024,0.0117816267342403,-0.0001951711732084
+Retail_and_Consumer_Goods,Donald Trump Reelection,12/06/2024,0.0266969432932098,0.0027570170944359
+Retail_and_Consumer_Goods,Donald Trump Reelection,11/12/2024,-0.0598971408559607,-0.0122335928021004
+Technology_and_Telecommunications,Donald Trump Reelection,11/07/2024,-0.071614918977533,-0.0031836603987156
+Technology_and_Telecommunications,Donald Trump Reelection,11/08/2024,-0.0068965829042944,-0.0083899776837473
+Technology_and_Telecommunications,Donald Trump Reelection,11/11/2024,0.0151749603891555,0.0065408420801129
+Technology_and_Telecommunications,Donald Trump Reelection,11/12/2024,0.0045603945713197,-0.0122335928021004
+Technology_and_Telecommunications,Donald Trump Reelection,11/13/2024,-0.0068096146457282,0.0005606917826896
+Technology_and_Telecommunications,Donald Trump Reelection,11/14/2024,0.0093956635899552,0.0050932582368998
+Technology_and_Telecommunications,Donald Trump Reelection,11/15/2024,0.0,-0.0009416316622481
+Technology_and_Telecommunications,Donald Trump Reelection,11/18/2024,0.0080503451749214,0.0056674074207292
+Technology_and_Telecommunications,Donald Trump Reelection,11/19/2024,0.0009982377946065,-0.0012701225673696
+Technology_and_Telecommunications,Donald Trump Reelection,11/20/2024,-0.0004986591971769,-0.0017162492090072
+Technology_and_Telecommunications,Donald Trump Reelection,11/21/2024,0.0092292648125771,0.0079404962530842
+Technology_and_Telecommunications,Donald Trump Reelection,11/22/2024,0.0257043839337549,0.0138416560184246
+Technology_and_Telecommunications,Donald Trump Reelection,11/25/2024,0.003373479268637,0.0035826953603794
+Technology_and_Telecommunications,Donald Trump Reelection,11/26/2024,-0.0014409368691412,-0.0039920143224922
+Technology_and_Telecommunications,Donald Trump Reelection,11/27/2024,0.0052910348042787,0.00196161529542
+Technology_and_Telecommunications,Donald Trump Reelection,11/28/2024,0.0114832243850926,0.0007734798153513
+Technology_and_Telecommunications,Donald Trump Reelection,11/29/2024,-0.0078050801519526,0.0007365610335627
+Technology_and_Telecommunications,Donald Trump Reelection,12/02/2024,-0.0066745835350864,0.0030891347653454
+Technology_and_Telecommunications,Donald Trump Reelection,12/03/2024,0.0069594283934015,0.0055937155282699
+Technology_and_Telecommunications,Donald Trump Reelection,12/04/2024,0.0057197184498902,-0.0028232390882925
+Technology_and_Telecommunications,Donald Trump Reelection,12/05/2024,-0.006635042163433,0.0016315874008696
+Technology_and_Telecommunications,Donald Trump Reelection,12/06/2024,0.0078721080555193,-0.0048866720172878
+Transportation_and_Infrastructure,Covid 19 Pandemic Lockdown in CN,01/24/2020,0.0,0.0103665072142566
+Transportation_and_Infrastructure,Covid 19 Pandemic Lockdown in CN,01/27/2020,-0.0146605635324371,-0.0211451607301619
+Transportation_and_Infrastructure,Covid 19 Pandemic Lockdown in CN,01/28/2020,0.01174626543166,0.0060740808108628
+Transportation_and_Infrastructure,Covid 19 Pandemic Lockdown in CN,01/29/2020,-0.0054177705940893,0.0016749976102055
+Transportation_and_Infrastructure,Covid 19 Pandemic Lockdown in CN,01/30/2020,0.0505833593498596,-0.0082490851634915
+Transportation_and_Infrastructure,Covid 19 Pandemic Lockdown in CN,01/31/2020,-0.0155554732058508,-0.0069698048507845
+Transportation_and_Infrastructure,Covid 19 Pandemic Lockdown in CN,02/03/2020,-0.0127915349436747,0.0008229664258518
+Transportation_and_Infrastructure,Covid 19 Pandemic Lockdown in CN,02/04/2020,0.0228660229909407,0.0131846941694222
+Transportation_and_Infrastructure,Covid 19 Pandemic Lockdown in CN,02/05/2020,-0.0037257554560073,0.0037360066005729
+Transportation_and_Infrastructure,Covid 19 Pandemic Lockdown in CN,02/06/2020,0.0044875224075675,0.0024581965903809
+Transportation_and_Infrastructure,Covid 19 Pandemic Lockdown in CN,02/07/2020,-0.0059569129285466,-0.003411669643039
+Transportation_and_Infrastructure,Covid 19 Pandemic Lockdown in CN,02/10/2020,0.0224721425688403,-0.0002790788435887
+Transportation_and_Infrastructure,Covid 19 Pandemic Lockdown in CN,02/11/2020,0.0183147582064799,0.0071045029474119
+Transportation_and_Infrastructure,Covid 19 Pandemic Lockdown in CN,02/12/2020,-0.0035969096756713,0.0068141919985216
+Transportation_and_Infrastructure,Covid 19 Pandemic Lockdown in CN,02/13/2020,0.0194945571274762,-0.0054878569011402
+Transportation_and_Infrastructure,Covid 19 Pandemic Lockdown in CN,02/14/2020,0.03895168453349,0.0053612509357228
+Transportation_and_Infrastructure,Covid 19 Pandemic Lockdown in CN,02/17/2020,-0.0027264917643394,0.0016613587144607
+Transportation_and_Infrastructure,Covid 19 Pandemic Lockdown in CN,02/18/2020,-0.0170881113962417,-0.0067716826012481
+Transportation_and_Infrastructure,Covid 19 Pandemic Lockdown in CN,02/19/2020,-0.0055634352231429,0.0079525977639136
+Transportation_and_Infrastructure,Covid 19 Pandemic Lockdown in CN,02/20/2020,-0.0188809725613765,0.0007230287009947
+Transportation_and_Infrastructure,Covid 19 Pandemic Lockdown in CN,02/21/2020,-0.0071275939416473,-0.003955786794096
+Transportation_and_Infrastructure,Covid 19 Pandemic Lockdown in CN,02/24/2020,-0.0265614228109367,-0.030408299826516
+Transportation_and_Infrastructure,Covid 19 Pandemic Lockdown in CN,02/25/2020,-0.0154868959940827,-0.0190312665175472
+Transportation_and_Infrastructure,Covid 19 Pandemic Lockdown in CN,02/26/2020,-0.0104866615608697,-0.0044892836454913
+Transportation_and_Infrastructure,Covid 19 Pandemic Lockdown in CN,02/27/2020,-0.0393642137032617,-0.0407069776463172
+Transportation_and_Infrastructure,Covid 19 Pandemic Lockdown in CN,02/28/2020,-0.0299448430937994,-0.0228776308224024
+Transportation_and_Infrastructure,Covid 19 Pandemic Lockdown in CN,03/02/2020,-0.0138098682858377,-0.0015105955379689
+Transportation_and_Infrastructure,Covid 19 Pandemic Lockdown in CN,03/03/2020,0.0024711662100196,0.0197391947559668
+Transportation_and_Infrastructure,Covid 19 Pandemic Lockdown in CN,03/04/2020,0.0098602984038425,0.003053522376786
+Transportation_and_Infrastructure,Covid 19 Pandemic Lockdown in CN,03/05/2020,-0.0301057587689207,-0.0212584413187005
+Agriculture_and_Food,Covid 19 Pandemic Lockdown in CN,01/24/2020,0.0041367653120851,0.0104292663066629
+Agriculture_and_Food,Covid 19 Pandemic Lockdown in CN,01/27/2020,-0.0138576286103624,-0.0229237941396981
+Agriculture_and_Food,Covid 19 Pandemic Lockdown in CN,01/28/2020,0.009115135221555,0.0092551499241007
+Agriculture_and_Food,Covid 19 Pandemic Lockdown in CN,01/29/2020,-0.005269149569147,0.0003876511914708
+Agriculture_and_Food,Covid 19 Pandemic Lockdown in CN,01/30/2020,-0.0071887561123504,-0.0135763664988017
+Agriculture_and_Food,Covid 19 Pandemic Lockdown in CN,01/31/2020,0.0007621177610883,-0.0130046057978867
+Agriculture_and_Food,Covid 19 Pandemic Lockdown in CN,02/03/2020,0.0003807686899626,0.0055311288344084
+Agriculture_and_Food,Covid 19 Pandemic Lockdown in CN,02/04/2020,0.006471194498151,0.015492131502369
+Agriculture_and_Food,Covid 19 Pandemic Lockdown in CN,02/05/2020,0.0105901157355068,0.0057394279998765
+Agriculture_and_Food,Covid 19 Pandemic Lockdown in CN,02/06/2020,0.0134731390738935,0.0029802612345473
+Agriculture_and_Food,Covid 19 Pandemic Lockdown in CN,02/07/2020,-0.0055392494475502,-0.0050766989615369
+Agriculture_and_Food,Covid 19 Pandemic Lockdown in CN,02/10/2020,0.0055701036410669,-0.0026518130433548
+Agriculture_and_Food,Covid 19 Pandemic Lockdown in CN,02/11/2020,-0.0033236260561665,0.0070499134792287
+Agriculture_and_Food,Covid 19 Pandemic Lockdown in CN,02/12/2020,-0.0122266609861898,0.0046670400906425
+Agriculture_and_Food,Covid 19 Pandemic Lockdown in CN,02/13/2020,-0.0123780996168165,-0.0109364917460934
+Agriculture_and_Food,Covid 19 Pandemic Lockdown in CN,02/14/2020,0.0136726046279409,-0.0057568306956186
+Agriculture_and_Food,Covid 19 Pandemic Lockdown in CN,02/17/2020,0.0014986335105264,0.0032662140762418
+Agriculture_and_Food,Covid 19 Pandemic Lockdown in CN,02/18/2020,-0.0231949789983864,-0.0069013501453486
+Agriculture_and_Food,Covid 19 Pandemic Lockdown in CN,02/19/2020,0.0126388426740187,0.010159848279599
+Agriculture_and_Food,Covid 19 Pandemic Lockdown in CN,02/20/2020,-0.0037820584537461,-0.0027356714957422
+Agriculture_and_Food,Covid 19 Pandemic Lockdown in CN,02/21/2020,-0.0193622848434592,-0.004397196956013
+Agriculture_and_Food,Covid 19 Pandemic Lockdown in CN,02/24/2020,-0.0154856016929021,-0.0333743163623847
+Agriculture_and_Food,Covid 19 Pandemic Lockdown in CN,02/25/2020,-0.044435971114758,-0.0194081022432365
+Agriculture_and_Food,Covid 19 Pandemic Lockdown in CN,02/26/2020,-0.0057612652884804,0.0035053360689905
+Agriculture_and_Food,Covid 19 Pandemic Lockdown in CN,02/27/2020,-0.03394016815112,-0.0349449907925097
+Agriculture_and_Food,Covid 19 Pandemic Lockdown in CN,02/28/2020,-0.0338475787113381,-0.0317520757736873
+Agriculture_and_Food,Covid 19 Pandemic Lockdown in CN,03/02/2020,0.0031041271785134,0.0112907339125443
+Agriculture_and_Food,Covid 19 Pandemic Lockdown in CN,03/03/2020,0.0075155111870188,0.0095118324689535
+Agriculture_and_Food,Covid 19 Pandemic Lockdown in CN,03/04/2020,-0.0048266426225185,0.0144979160358615
+Agriculture_and_Food,Covid 19 Pandemic Lockdown in CN,03/05/2020,-0.0220457846011843,-0.0161688176732076
+Automotive,Covid 19 Pandemic Lockdown in CN,01/24/2020,-0.0170122803149487,0.0103665072142566
+Automotive,Covid 19 Pandemic Lockdown in CN,01/27/2020,-0.0279754013657854,-0.0211451607301619
+Automotive,Covid 19 Pandemic Lockdown in CN,01/28/2020,0.0260976151965681,0.0060740808108628
+Automotive,Covid 19 Pandemic Lockdown in CN,01/29/2020,-0.0249584252813304,0.0016749976102055
+Automotive,Covid 19 Pandemic Lockdown in CN,01/30/2020,-0.0182837810117639,-0.0082490851634915
+Automotive,Covid 19 Pandemic Lockdown in CN,01/31/2020,0.2386392033998516,-0.0069698048507845
+Automotive,Covid 19 Pandemic Lockdown in CN,02/03/2020,-0.045308769510246,0.0008229664258518
+Automotive,Covid 19 Pandemic Lockdown in CN,02/04/2020,-0.0377992803860776,0.0131846941694222
+Automotive,Covid 19 Pandemic Lockdown in CN,02/05/2020,-0.012658158415826,0.0037360066005729
+Automotive,Covid 19 Pandemic Lockdown in CN,02/06/2020,0.0278515074545928,0.0024581965903809
+Automotive,Covid 19 Pandemic Lockdown in CN,02/07/2020,-0.0309678575064691,-0.003411669643039
+Automotive,Covid 19 Pandemic Lockdown in CN,02/10/2020,0.0039947460677181,-0.0002790788435887
+Automotive,Covid 19 Pandemic Lockdown in CN,02/11/2020,0.0389036083696243,0.0071045029474119
+Automotive,Covid 19 Pandemic Lockdown in CN,02/12/2020,-0.0229788106164743,0.0068141919985216
+Automotive,Covid 19 Pandemic Lockdown in CN,02/13/2020,-0.0413762005167822,-0.0054878569011402
+Automotive,Covid 19 Pandemic Lockdown in CN,02/14/2020,-0.0417991586849085,0.0053612509357228
+Automotive,Covid 19 Pandemic Lockdown in CN,02/17/2020,0.0675674459655237,0.0016613587144607
+Automotive,Covid 19 Pandemic Lockdown in CN,02/18/2020,-0.0437485690593323,-0.0067716826012481
+Automotive,Covid 19 Pandemic Lockdown in CN,02/19/2020,-0.0227588955622157,0.0079525977639136
+Automotive,Covid 19 Pandemic Lockdown in CN,02/20/2020,0.0049904623320471,0.0007230287009947
+Automotive,Covid 19 Pandemic Lockdown in CN,02/21/2020,-0.0503664558053212,-0.003955786794096
+Automotive,Covid 19 Pandemic Lockdown in CN,02/24/2020,-0.0590140478194591,-0.030408299826516
+Automotive,Covid 19 Pandemic Lockdown in CN,02/25/2020,-0.0235511778032012,-0.0190312665175472
+Automotive,Covid 19 Pandemic Lockdown in CN,02/26/2020,0.0596206078836385,-0.0044892836454913
+Automotive,Covid 19 Pandemic Lockdown in CN,02/27/2020,-0.0900255396160517,-0.0407069776463172
+Automotive,Covid 19 Pandemic Lockdown in CN,02/28/2020,-0.0500281181970505,-0.0228776308224024
+Automotive,Covid 19 Pandemic Lockdown in CN,03/02/2020,-0.1390532075208568,-0.0015105955379689
+Automotive,Covid 19 Pandemic Lockdown in CN,03/03/2020,0.0061854138274073,0.0197391947559668
+Automotive,Covid 19 Pandemic Lockdown in CN,03/04/2020,0.0160520576215852,0.003053522376786
+Automotive,Covid 19 Pandemic Lockdown in CN,03/05/2020,0.0,-0.0212584413187005
+Defense_and_Aerospace,Covid 19 Pandemic Lockdown in CN,01/24/2020,0.0472971876306682,0.0103665072142566
+Defense_and_Aerospace,Covid 19 Pandemic Lockdown in CN,01/27/2020,0.0064518241921476,-0.0211451607301619
+Defense_and_Aerospace,Covid 19 Pandemic Lockdown in CN,01/28/2020,0.0213674031672421,0.0060740808108628
+Defense_and_Aerospace,Covid 19 Pandemic Lockdown in CN,01/29/2020,0.0230123935294632,0.0016749976102055
+Defense_and_Aerospace,Covid 19 Pandemic Lockdown in CN,01/30/2020,0.0368099114798572,-0.0082490851634915
+Defense_and_Aerospace,Covid 19 Pandemic Lockdown in CN,01/31/2020,-0.0157789653272549,-0.0069698048507845
+Defense_and_Aerospace,Covid 19 Pandemic Lockdown in CN,02/03/2020,0.0140281862934767,0.0008229664258518
+Defense_and_Aerospace,Covid 19 Pandemic Lockdown in CN,02/04/2020,0.033596638691592,0.0131846941694222
+Defense_and_Aerospace,Covid 19 Pandemic Lockdown in CN,02/05/2020,-0.0019121083243111,0.0037360066005729
+Defense_and_Aerospace,Covid 19 Pandemic Lockdown in CN,02/06/2020,0.0153255467455744,0.0024581965903809
+Defense_and_Aerospace,Covid 19 Pandemic Lockdown in CN,02/07/2020,0.0075473150267988,-0.003411669643039
+Defense_and_Aerospace,Covid 19 Pandemic Lockdown in CN,02/10/2020,-0.0093632964523421,-0.0002790788435887
+Defense_and_Aerospace,Covid 19 Pandemic Lockdown in CN,02/11/2020,0.0075613754516699,0.0071045029474119
+Defense_and_Aerospace,Covid 19 Pandemic Lockdown in CN,02/12/2020,0.0318949586477481,0.0068141919985216
+Defense_and_Aerospace,Covid 19 Pandemic Lockdown in CN,02/13/2020,-0.0223345933886502,-0.0054878569011402
+Defense_and_Aerospace,Covid 19 Pandemic Lockdown in CN,02/14/2020,0.0112148086411387,0.0053612509357228
+Defense_and_Aerospace,Covid 19 Pandemic Lockdown in CN,02/17/2020,0.0129391869217387,0.0016613587144607
+Defense_and_Aerospace,Covid 19 Pandemic Lockdown in CN,02/18/2020,-0.0036496865723034,-0.0067716826012481
+Defense_and_Aerospace,Covid 19 Pandemic Lockdown in CN,02/19/2020,0.0018315277885283,0.0079525977639136
+Defense_and_Aerospace,Covid 19 Pandemic Lockdown in CN,02/20/2020,0.0054844393538573,0.0007230287009947
+Defense_and_Aerospace,Covid 19 Pandemic Lockdown in CN,02/21/2020,0.0109090486917564,-0.003955786794096
+Defense_and_Aerospace,Covid 19 Pandemic Lockdown in CN,02/24/2020,-0.0431653997076713,-0.030408299826516
+Defense_and_Aerospace,Covid 19 Pandemic Lockdown in CN,02/25/2020,0.0225565064603878,-0.0190312665175472
+Defense_and_Aerospace,Covid 19 Pandemic Lockdown in CN,02/26/2020,-0.0073529448335662,-0.0044892836454913
+Defense_and_Aerospace,Covid 19 Pandemic Lockdown in CN,02/27/2020,-0.0074074111188829,-0.0407069776463172
+Defense_and_Aerospace,Covid 19 Pandemic Lockdown in CN,02/28/2020,0.0186565743990922,-0.0228776308224024
+Defense_and_Aerospace,Covid 19 Pandemic Lockdown in CN,03/02/2020,-0.0421245444842718,-0.0015105955379689
+Defense_and_Aerospace,Covid 19 Pandemic Lockdown in CN,03/03/2020,0.0229445655067619,0.0197391947559668
+Defense_and_Aerospace,Covid 19 Pandemic Lockdown in CN,03/04/2020,0.0074767413868788,0.003053522376786
+Defense_and_Aerospace,Covid 19 Pandemic Lockdown in CN,03/05/2020,0.0074211541898161,-0.0212584413187005
+Energy_and_Utilities,Covid 19 Pandemic Lockdown in CN,01/24/2020,0.008192557163372,0.0104292663066629
+Energy_and_Utilities,Covid 19 Pandemic Lockdown in CN,01/27/2020,-0.018823231588158,-0.0229237941396981
+Energy_and_Utilities,Covid 19 Pandemic Lockdown in CN,01/28/2020,0.0100638608507006,0.0092551499241007
+Energy_and_Utilities,Covid 19 Pandemic Lockdown in CN,01/29/2020,-0.007991650187874,0.0003876511914708
+Energy_and_Utilities,Covid 19 Pandemic Lockdown in CN,01/30/2020,-0.022598780561685,-0.0135763664988017
+Energy_and_Utilities,Covid 19 Pandemic Lockdown in CN,01/31/2020,-0.0222650898794082,-0.0130046057978867
+Energy_and_Utilities,Covid 19 Pandemic Lockdown in CN,02/03/2020,-0.0087584236212928,0.0055311288344084
+Energy_and_Utilities,Covid 19 Pandemic Lockdown in CN,02/04/2020,0.0416388590688259,0.015492131502369
+Energy_and_Utilities,Covid 19 Pandemic Lockdown in CN,02/05/2020,0.0270386035569798,0.0057394279998765
+Energy_and_Utilities,Covid 19 Pandemic Lockdown in CN,02/06/2020,-0.0192027397920877,0.0029802612345473
+Energy_and_Utilities,Covid 19 Pandemic Lockdown in CN,02/07/2020,-0.0105266638041714,-0.0050766989615369
+Energy_and_Utilities,Covid 19 Pandemic Lockdown in CN,02/10/2020,-0.0114892315495294,-0.0026518130433548
+Energy_and_Utilities,Covid 19 Pandemic Lockdown in CN,02/11/2020,0.0109773333355289,0.0070499134792287
+Energy_and_Utilities,Covid 19 Pandemic Lockdown in CN,02/12/2020,0.0104321506422888,0.0046670400906425
+Energy_and_Utilities,Covid 19 Pandemic Lockdown in CN,02/13/2020,-0.0139231141240253,-0.0109364917460934
+Energy_and_Utilities,Covid 19 Pandemic Lockdown in CN,02/14/2020,-0.0067396029563426,-0.0057568306956186
+Energy_and_Utilities,Covid 19 Pandemic Lockdown in CN,02/17/2020,0.009083782915416,0.0032662140762418
+Energy_and_Utilities,Covid 19 Pandemic Lockdown in CN,02/18/2020,-0.0075920716170714,-0.0069013501453486
+Energy_and_Utilities,Covid 19 Pandemic Lockdown in CN,02/19/2020,0.011584654471993,0.010159848279599
+Energy_and_Utilities,Covid 19 Pandemic Lockdown in CN,02/20/2020,0.0073465384380224,-0.0027356714957422
+Energy_and_Utilities,Covid 19 Pandemic Lockdown in CN,02/21/2020,-0.0271342575508736,-0.004397196956013
+Energy_and_Utilities,Covid 19 Pandemic Lockdown in CN,02/24/2020,-0.0337337469750399,-0.0333743163623847
+Energy_and_Utilities,Covid 19 Pandemic Lockdown in CN,02/25/2020,-0.0217911938158604,-0.0194081022432365
+Energy_and_Utilities,Covid 19 Pandemic Lockdown in CN,02/26/2020,-0.0006999266286356,0.0035053360689905
+Energy_and_Utilities,Covid 19 Pandemic Lockdown in CN,02/27/2020,-0.0332634271354908,-0.0349449907925097
+Energy_and_Utilities,Covid 19 Pandemic Lockdown in CN,02/28/2020,-0.0434623110804817,-0.0317520757736873
+Energy_and_Utilities,Covid 19 Pandemic Lockdown in CN,03/02/2020,0.0381165899123452,0.0112907339125443
+Energy_and_Utilities,Covid 19 Pandemic Lockdown in CN,03/03/2020,0.0089970511836114,0.0095118324689535
+Energy_and_Utilities,Covid 19 Pandemic Lockdown in CN,03/04/2020,0.0185566766468407,0.0144979160358615
+Energy_and_Utilities,Covid 19 Pandemic Lockdown in CN,03/05/2020,-0.0140777494477836,-0.0161688176732076
+Finance_and_Insurance,Covid 19 Pandemic Lockdown in CN,01/24/2020,0.0125462581518414,0.0104292663066629
+Finance_and_Insurance,Covid 19 Pandemic Lockdown in CN,01/27/2020,-0.0216230087193607,-0.0229237941396981
+Finance_and_Insurance,Covid 19 Pandemic Lockdown in CN,01/28/2020,0.0101812565377832,0.0092551499241007
+Finance_and_Insurance,Covid 19 Pandemic Lockdown in CN,01/29/2020,0.0014750937419729,0.0003876511914708
+Finance_and_Insurance,Covid 19 Pandemic Lockdown in CN,01/30/2020,-0.0046639793189237,-0.0135763664988017
+Finance_and_Insurance,Covid 19 Pandemic Lockdown in CN,01/31/2020,-0.0175091103307359,-0.0130046057978867
+Finance_and_Insurance,Covid 19 Pandemic Lockdown in CN,02/03/2020,0.0075299006921327,0.0055311288344084
+Finance_and_Insurance,Covid 19 Pandemic Lockdown in CN,02/04/2020,0.0009968840827998,0.015492131502369
+Finance_and_Insurance,Covid 19 Pandemic Lockdown in CN,02/05/2020,0.0164260074657947,0.0057394279998765
+Finance_and_Insurance,Covid 19 Pandemic Lockdown in CN,02/06/2020,0.0014689333695063,0.0029802612345473
+Finance_and_Insurance,Covid 19 Pandemic Lockdown in CN,02/07/2020,-0.0029339381492268,-0.0050766989615369
+Finance_and_Insurance,Covid 19 Pandemic Lockdown in CN,02/10/2020,-0.0026974048989415,-0.0026518130433548
+Finance_and_Insurance,Covid 19 Pandemic Lockdown in CN,02/11/2020,0.0095894625286774,0.0070499134792287
+Finance_and_Insurance,Covid 19 Pandemic Lockdown in CN,02/12/2020,0.0043837574917979,0.0046670400906425
+Finance_and_Insurance,Covid 19 Pandemic Lockdown in CN,02/13/2020,-0.0053344461232548,-0.0109364917460934
+Finance_and_Insurance,Covid 19 Pandemic Lockdown in CN,02/14/2020,0.0017061247344822,-0.0057568306956186
+Finance_and_Insurance,Covid 19 Pandemic Lockdown in CN,02/17/2020,0.0046240643804027,0.0032662140762418
+Finance_and_Insurance,Covid 19 Pandemic Lockdown in CN,02/18/2020,-0.0087208847385318,-0.0069013501453486
+Finance_and_Insurance,Covid 19 Pandemic Lockdown in CN,02/19/2020,0.0012220194029937,0.010159848279599
+Finance_and_Insurance,Covid 19 Pandemic Lockdown in CN,02/20/2020,-0.0085431253189293,-0.0027356714957422
+Finance_and_Insurance,Covid 19 Pandemic Lockdown in CN,02/21/2020,-0.0051694495076635,-0.004397196956013
+Finance_and_Insurance,Covid 19 Pandemic Lockdown in CN,02/24/2020,-0.0361296589335464,-0.0333743163623847
+Finance_and_Insurance,Covid 19 Pandemic Lockdown in CN,02/25/2020,-0.0197689612869873,-0.0194081022432365
+Finance_and_Insurance,Covid 19 Pandemic Lockdown in CN,02/26/2020,-0.0049766011169041,0.0035053360689905
+Finance_and_Insurance,Covid 19 Pandemic Lockdown in CN,02/27/2020,-0.0400103957430313,-0.0349449907925097
+Finance_and_Insurance,Covid 19 Pandemic Lockdown in CN,02/28/2020,-0.0381136980546293,-0.0317520757736873
+Finance_and_Insurance,Covid 19 Pandemic Lockdown in CN,03/02/2020,-0.0216646396236234,0.0112907339125443
+Finance_and_Insurance,Covid 19 Pandemic Lockdown in CN,03/03/2020,0.0081582624675589,0.0095118324689535
+Finance_and_Insurance,Covid 19 Pandemic Lockdown in CN,03/04/2020,0.0118499153939009,0.0144979160358615
+Finance_and_Insurance,Covid 19 Pandemic Lockdown in CN,03/05/2020,0.0042844764291545,-0.0161688176732076
+Healthcare_and_Pharmaceuticals,Covid 19 Pandemic Lockdown in CN,01/24/2020,0.0069444234752729,0.0059324140610463
+Healthcare_and_Pharmaceuticals,Covid 19 Pandemic Lockdown in CN,01/27/2020,-0.0057470779658297,-0.0147436108619921
+Healthcare_and_Pharmaceuticals,Covid 19 Pandemic Lockdown in CN,01/28/2020,-0.0046243890337963,0.0067972652419563
+Healthcare_and_Pharmaceuticals,Covid 19 Pandemic Lockdown in CN,01/29/2020,0.0104530256789987,0.002082594264944
+Healthcare_and_Pharmaceuticals,Covid 19 Pandemic Lockdown in CN,01/30/2020,0.0,-0.0084469453760379
+Healthcare_and_Pharmaceuticals,Covid 19 Pandemic Lockdown in CN,01/31/2020,-0.0011493593668617,-0.0034480846166022
+Healthcare_and_Pharmaceuticals,Covid 19 Pandemic Lockdown in CN,02/03/2020,0.0011506819138977,0.0019335305097731
+Healthcare_and_Pharmaceuticals,Covid 19 Pandemic Lockdown in CN,02/04/2020,0.0057472653868435,0.0085149382343581
+Healthcare_and_Pharmaceuticals,Covid 19 Pandemic Lockdown in CN,02/05/2020,0.0,0.0052202392148619
+Healthcare_and_Pharmaceuticals,Covid 19 Pandemic Lockdown in CN,02/06/2020,-0.0114286598117193,0.0017365875740265
+Healthcare_and_Pharmaceuticals,Covid 19 Pandemic Lockdown in CN,02/07/2020,-0.0023121945168982,-0.0031671416863711
+Healthcare_and_Pharmaceuticals,Covid 19 Pandemic Lockdown in CN,02/10/2020,0.0023175531505856,-0.0037290835612416
+Healthcare_and_Pharmaceuticals,Covid 19 Pandemic Lockdown in CN,02/11/2020,0.0,0.001426701178061
+Healthcare_and_Pharmaceuticals,Covid 19 Pandemic Lockdown in CN,02/12/2020,-0.0196530878805455,0.0058328099673115
+Healthcare_and_Pharmaceuticals,Covid 19 Pandemic Lockdown in CN,02/13/2020,0.0141508028117205,-0.0051490396495499
+Healthcare_and_Pharmaceuticals,Covid 19 Pandemic Lockdown in CN,02/14/2020,-0.0069767232418243,0.0024789461330156
+Healthcare_and_Pharmaceuticals,Covid 19 Pandemic Lockdown in CN,02/17/2020,-0.0046838584117803,0.0010693236998746
+Healthcare_and_Pharmaceuticals,Covid 19 Pandemic Lockdown in CN,02/18/2020,-0.0058823992062804,-0.0052074152184442
+Healthcare_and_Pharmaceuticals,Covid 19 Pandemic Lockdown in CN,02/19/2020,0.0177515232496559,0.0042279967459932
+Healthcare_and_Pharmaceuticals,Covid 19 Pandemic Lockdown in CN,02/20/2020,0.017441997704888,0.0029572285229544
+Healthcare_and_Pharmaceuticals,Covid 19 Pandemic Lockdown in CN,02/21/2020,-0.0102858683705517,-0.0012160871632975
+Healthcare_and_Pharmaceuticals,Covid 19 Pandemic Lockdown in CN,02/24/2020,-0.0138567716230096,-0.0247005594248187
+Healthcare_and_Pharmaceuticals,Covid 19 Pandemic Lockdown in CN,02/25/2020,-0.0292739480077682,-0.0133728119945658
+Healthcare_and_Pharmaceuticals,Covid 19 Pandemic Lockdown in CN,02/26/2020,-0.0012064000273792,-0.0110061530461911
+Healthcare_and_Pharmaceuticals,Covid 19 Pandemic Lockdown in CN,02/27/2020,-0.0096616759232619,-0.0275148966000701
+Healthcare_and_Pharmaceuticals,Covid 19 Pandemic Lockdown in CN,02/28/2020,-0.0780488687574059,-0.0296089033497026
+Healthcare_and_Pharmaceuticals,Covid 19 Pandemic Lockdown in CN,03/02/2020,0.0436507696860259,0.0088027003592534
+Healthcare_and_Pharmaceuticals,Covid 19 Pandemic Lockdown in CN,03/03/2020,-0.0050697277435407,0.0147456961794223
+Healthcare_and_Pharmaceuticals,Covid 19 Pandemic Lockdown in CN,03/04/2020,0.0089173093801919,0.0080548421266533
+Healthcare_and_Pharmaceuticals,Covid 19 Pandemic Lockdown in CN,03/05/2020,-0.0088384937965531,-0.0110679190366678
+Manufacturing_and_Industrial_Goods,Covid 19 Pandemic Lockdown in CN,01/24/2020,0.0,0.0103665072142566
+Manufacturing_and_Industrial_Goods,Covid 19 Pandemic Lockdown in CN,01/27/2020,-0.0146604285172506,-0.0211451607301619
+Manufacturing_and_Industrial_Goods,Covid 19 Pandemic Lockdown in CN,01/28/2020,0.0117461950214969,0.0060740808108628
+Manufacturing_and_Industrial_Goods,Covid 19 Pandemic Lockdown in CN,01/29/2020,-0.0054179043133362,0.0016749976102055
+Manufacturing_and_Industrial_Goods,Covid 19 Pandemic Lockdown in CN,01/30/2020,0.0505835621199286,-0.0082490851634915
+Manufacturing_and_Industrial_Goods,Covid 19 Pandemic Lockdown in CN,01/31/2020,-0.0155556632106175,-0.0069698048507845
+Manufacturing_and_Industrial_Goods,Covid 19 Pandemic Lockdown in CN,02/03/2020,-0.0127915349436747,0.0008229664258518
+Manufacturing_and_Industrial_Goods,Covid 19 Pandemic Lockdown in CN,02/04/2020,0.0228660229909407,0.0131846941694222
+Manufacturing_and_Industrial_Goods,Covid 19 Pandemic Lockdown in CN,02/05/2020,-0.003725949613636,0.0037360066005729
+Manufacturing_and_Industrial_Goods,Covid 19 Pandemic Lockdown in CN,02/06/2020,0.0044877181658684,0.0024581965903809
+Manufacturing_and_Industrial_Goods,Covid 19 Pandemic Lockdown in CN,02/07/2020,-0.0059567835864934,-0.003411669643039
+Manufacturing_and_Industrial_Goods,Covid 19 Pandemic Lockdown in CN,02/10/2020,0.0224719444691305,-0.0002790788435887
+Manufacturing_and_Industrial_Goods,Covid 19 Pandemic Lockdown in CN,02/11/2020,0.0183150138866468,0.0071045029474119
+Manufacturing_and_Industrial_Goods,Covid 19 Pandemic Lockdown in CN,02/12/2020,-0.0035972214229438,0.0068141919985216
+Manufacturing_and_Industrial_Goods,Covid 19 Pandemic Lockdown in CN,02/13/2020,0.0194945595724791,-0.0054878569011402
+Manufacturing_and_Industrial_Goods,Covid 19 Pandemic Lockdown in CN,02/14/2020,0.0389519353684291,0.0053612509357228
+Manufacturing_and_Industrial_Goods,Covid 19 Pandemic Lockdown in CN,02/17/2020,-0.0027264914414976,0.0016613587144607
+Manufacturing_and_Industrial_Goods,Covid 19 Pandemic Lockdown in CN,02/18/2020,-0.0170881093673194,-0.0067716826012481
+Manufacturing_and_Industrial_Goods,Covid 19 Pandemic Lockdown in CN,02/19/2020,-0.0055634345510956,0.0079525977639136
+Manufacturing_and_Industrial_Goods,Covid 19 Pandemic Lockdown in CN,02/20/2020,-0.0188813346867852,0.0007230287009947
+Manufacturing_and_Industrial_Goods,Covid 19 Pandemic Lockdown in CN,02/21/2020,-0.0071273480852119,-0.003955786794096
+Manufacturing_and_Industrial_Goods,Covid 19 Pandemic Lockdown in CN,02/24/2020,-0.0265614851606699,-0.030408299826516
+Manufacturing_and_Industrial_Goods,Covid 19 Pandemic Lockdown in CN,02/25/2020,-0.0154867048329635,-0.0190312665175472
+Manufacturing_and_Industrial_Goods,Covid 19 Pandemic Lockdown in CN,02/26/2020,-0.0104869204306409,-0.0044892836454913
+Manufacturing_and_Industrial_Goods,Covid 19 Pandemic Lockdown in CN,02/27/2020,-0.039364153131442,-0.0407069776463172
+Manufacturing_and_Industrial_Goods,Covid 19 Pandemic Lockdown in CN,02/28/2020,-0.0299448451432913,-0.0228776308224024
+Manufacturing_and_Industrial_Goods,Covid 19 Pandemic Lockdown in CN,03/02/2020,-0.0138099398151826,-0.0015105955379689
+Manufacturing_and_Industrial_Goods,Covid 19 Pandemic Lockdown in CN,03/03/2020,0.002471166563609,0.0197391947559668
+Manufacturing_and_Industrial_Goods,Covid 19 Pandemic Lockdown in CN,03/04/2020,0.0098604425445059,0.003053522376786
+Manufacturing_and_Industrial_Goods,Covid 19 Pandemic Lockdown in CN,03/05/2020,-0.0301058294387206,-0.0212584413187005
+Real_Estate_and_Construction,Covid 19 Pandemic Lockdown in CN,01/24/2020,0.0100899355216401,0.0104292663066629
+Real_Estate_and_Construction,Covid 19 Pandemic Lockdown in CN,01/27/2020,-0.0140585645494061,-0.0229237941396981
+Real_Estate_and_Construction,Covid 19 Pandemic Lockdown in CN,01/28/2020,0.0030020175219342,0.0092551499241007
+Real_Estate_and_Construction,Covid 19 Pandemic Lockdown in CN,01/29/2020,-0.0194538013885124,0.0003876511914708
+Real_Estate_and_Construction,Covid 19 Pandemic Lockdown in CN,01/30/2020,-0.0030524134309075,-0.0135763664988017
+Real_Estate_and_Construction,Covid 19 Pandemic Lockdown in CN,01/31/2020,0.0026788067881153,-0.0130046057978867
+Real_Estate_and_Construction,Covid 19 Pandemic Lockdown in CN,02/03/2020,0.0106871151013869,0.0055311288344084
+Real_Estate_and_Construction,Covid 19 Pandemic Lockdown in CN,02/04/2020,0.005664588029776,0.015492131502369
+Real_Estate_and_Construction,Covid 19 Pandemic Lockdown in CN,02/05/2020,-0.0086368522120032,0.0057394279998765
+Real_Estate_and_Construction,Covid 19 Pandemic Lockdown in CN,02/06/2020,-0.0189393152951401,0.0029802612345473
+Real_Estate_and_Construction,Covid 19 Pandemic Lockdown in CN,02/07/2020,-0.0111968387849329,-0.0050766989615369
+Real_Estate_and_Construction,Covid 19 Pandemic Lockdown in CN,02/10/2020,0.0078092892903616,-0.0026518130433548
+Real_Estate_and_Construction,Covid 19 Pandemic Lockdown in CN,02/11/2020,0.0054243530236863,0.0070499134792287
+Real_Estate_and_Construction,Covid 19 Pandemic Lockdown in CN,02/12/2020,0.0277456177069517,0.0046670400906425
+Real_Estate_and_Construction,Covid 19 Pandemic Lockdown in CN,02/13/2020,0.0026246689930464,-0.0109364917460934
+Real_Estate_and_Construction,Covid 19 Pandemic Lockdown in CN,02/14/2020,-0.0044874664268019,-0.0057568306956186
+Real_Estate_and_Construction,Covid 19 Pandemic Lockdown in CN,02/17/2020,0.0022538979928836,0.0032662140762418
+Real_Estate_and_Construction,Covid 19 Pandemic Lockdown in CN,02/18/2020,0.0048725142167285,-0.0069013501453486
+Real_Estate_and_Construction,Covid 19 Pandemic Lockdown in CN,02/19/2020,0.0208877032157495,0.010159848279599
+Real_Estate_and_Construction,Covid 19 Pandemic Lockdown in CN,02/20/2020,-0.0222873607520879,-0.0027356714957422
+Real_Estate_and_Construction,Covid 19 Pandemic Lockdown in CN,02/21/2020,0.0220480412868147,-0.004397196956013
+Real_Estate_and_Construction,Covid 19 Pandemic Lockdown in CN,02/24/2020,-0.0358320630883932,-0.0333743163623847
+Real_Estate_and_Construction,Covid 19 Pandemic Lockdown in CN,02/25/2020,-0.0246490825056339,-0.0194081022432365
+Real_Estate_and_Construction,Covid 19 Pandemic Lockdown in CN,02/26/2020,-0.0202176325764813,0.0035053360689905
+Real_Estate_and_Construction,Covid 19 Pandemic Lockdown in CN,02/27/2020,-0.0376984447998615,-0.0349449907925097
+Real_Estate_and_Construction,Covid 19 Pandemic Lockdown in CN,02/28/2020,-0.0197938553892359,-0.0317520757736873
+Real_Estate_and_Construction,Covid 19 Pandemic Lockdown in CN,03/02/2020,-0.0033655182503939,0.0112907339125443
+Real_Estate_and_Construction,Covid 19 Pandemic Lockdown in CN,03/03/2020,0.0162515069062094,0.0095118324689535
+Real_Estate_and_Construction,Covid 19 Pandemic Lockdown in CN,03/04/2020,0.0147455945577779,0.0144979160358615
+Real_Estate_and_Construction,Covid 19 Pandemic Lockdown in CN,03/05/2020,-0.0212852024821407,-0.0161688176732076
+Retail_and_Consumer_Goods,Covid 19 Pandemic Lockdown in CN,01/24/2020,0.0093459798470296,0.0103665072142566
+Retail_and_Consumer_Goods,Covid 19 Pandemic Lockdown in CN,01/27/2020,-0.0187834030585768,-0.0211451607301619
+Retail_and_Consumer_Goods,Covid 19 Pandemic Lockdown in CN,01/28/2020,0.0110545116806286,0.0060740808108628
+Retail_and_Consumer_Goods,Covid 19 Pandemic Lockdown in CN,01/29/2020,0.0002664514312009,0.0016749976102055
+Retail_and_Consumer_Goods,Covid 19 Pandemic Lockdown in CN,01/30/2020,-0.0119966251892468,-0.0082490851634915
+Retail_and_Consumer_Goods,Covid 19 Pandemic Lockdown in CN,01/31/2020,-0.0186184221704925,-0.0069698048507845
+Retail_and_Consumer_Goods,Covid 19 Pandemic Lockdown in CN,02/03/2020,-0.020621679020179,0.0008229664258518
+Retail_and_Consumer_Goods,Covid 19 Pandemic Lockdown in CN,02/04/2020,0.0356543472035562,0.0131846941694222
+Retail_and_Consumer_Goods,Covid 19 Pandemic Lockdown in CN,02/05/2020,-0.0138249608524452,0.0037360066005729
+Retail_and_Consumer_Goods,Covid 19 Pandemic Lockdown in CN,02/06/2020,0.019790968589161,0.0024581965903809
+Retail_and_Consumer_Goods,Covid 19 Pandemic Lockdown in CN,02/07/2020,0.0121293904821691,-0.003411669643039
+Retail_and_Consumer_Goods,Covid 19 Pandemic Lockdown in CN,02/10/2020,-0.0119840314847401,-0.0002790788435887
+Retail_and_Consumer_Goods,Covid 19 Pandemic Lockdown in CN,02/11/2020,-0.007547133312408,0.0071045029474119
+Retail_and_Consumer_Goods,Covid 19 Pandemic Lockdown in CN,02/12/2020,0.0239003240938247,0.0068141919985216
+Retail_and_Consumer_Goods,Covid 19 Pandemic Lockdown in CN,02/13/2020,-0.0031832180660045,-0.0054878569011402
+Retail_and_Consumer_Goods,Covid 19 Pandemic Lockdown in CN,02/14/2020,0.0125067864862538,0.0053612509357228
+Retail_and_Consumer_Goods,Covid 19 Pandemic Lockdown in CN,02/17/2020,0.003942102667708,0.0016613587144607
+Retail_and_Consumer_Goods,Covid 19 Pandemic Lockdown in CN,02/18/2020,-0.005235679832945,-0.0067716826012481
+Retail_and_Consumer_Goods,Covid 19 Pandemic Lockdown in CN,02/19/2020,0.0047367970539864,0.0079525977639136
+Retail_and_Consumer_Goods,Covid 19 Pandemic Lockdown in CN,02/20/2020,-0.0243580519888829,0.0007230287009947
+Retail_and_Consumer_Goods,Covid 19 Pandemic Lockdown in CN,02/21/2020,-0.0158390069612426,-0.003955786794096
+Retail_and_Consumer_Goods,Covid 19 Pandemic Lockdown in CN,02/24/2020,-0.0250956158784119,-0.030408299826516
+Retail_and_Consumer_Goods,Covid 19 Pandemic Lockdown in CN,02/25/2020,-0.0414101298232052,-0.0190312665175472
+Retail_and_Consumer_Goods,Covid 19 Pandemic Lockdown in CN,02/26/2020,-0.0262698568333482,-0.0044892836454913
+Retail_and_Consumer_Goods,Covid 19 Pandemic Lockdown in CN,02/27/2020,-0.0134890125485416,-0.0407069776463172
+Retail_and_Consumer_Goods,Covid 19 Pandemic Lockdown in CN,02/28/2020,0.0121543297887336,-0.0228776308224024
+Retail_and_Consumer_Goods,Covid 19 Pandemic Lockdown in CN,03/02/2020,-0.0093064410318811,-0.0015105955379689
+Retail_and_Consumer_Goods,Covid 19 Pandemic Lockdown in CN,03/03/2020,0.0203030607457228,0.0197391947559668
+Retail_and_Consumer_Goods,Covid 19 Pandemic Lockdown in CN,03/04/2020,-0.0187112504305985,0.003053522376786
+Retail_and_Consumer_Goods,Covid 19 Pandemic Lockdown in CN,03/05/2020,-0.0166463010154658,-0.0212584413187005
+Technology_and_Telecommunications,Covid 19 Pandemic Lockdown in CN,01/24/2020,0.0343872004007519,0.0104292663066629
+Technology_and_Telecommunications,Covid 19 Pandemic Lockdown in CN,01/27/2020,-0.032572289161193,-0.0229237941396981
+Technology_and_Telecommunications,Covid 19 Pandemic Lockdown in CN,01/28/2020,0.0038182465393992,0.0092551499241007
+Technology_and_Telecommunications,Covid 19 Pandemic Lockdown in CN,01/29/2020,-0.0003460261632801,0.0003876511914708
+Technology_and_Telecommunications,Covid 19 Pandemic Lockdown in CN,01/30/2020,0.0048425850308111,-0.0135763664988017
+Technology_and_Telecommunications,Covid 19 Pandemic Lockdown in CN,01/31/2020,-0.0327020756812012,-0.0130046057978867
+Technology_and_Telecommunications,Covid 19 Pandemic Lockdown in CN,02/03/2020,0.0306050672405964,0.0055311288344084
+Technology_and_Telecommunications,Covid 19 Pandemic Lockdown in CN,02/04/2020,0.0207180833086393,0.015492131502369
+Technology_and_Telecommunications,Covid 19 Pandemic Lockdown in CN,02/05/2020,-0.0155614566036582,0.0057394279998765
+Technology_and_Telecommunications,Covid 19 Pandemic Lockdown in CN,02/06/2020,0.0099654850795891,0.0029802612345473
+Technology_and_Telecommunications,Covid 19 Pandemic Lockdown in CN,02/07/2020,-0.0163321250581295,-0.0050766989615369
+Technology_and_Telecommunications,Covid 19 Pandemic Lockdown in CN,02/10/2020,0.0034592283477794,-0.0026518130433548
+Technology_and_Telecommunications,Covid 19 Pandemic Lockdown in CN,02/11/2020,0.0,0.0070499134792287
+Technology_and_Telecommunications,Covid 19 Pandemic Lockdown in CN,02/12/2020,0.0110303701754568,0.0046670400906425
+Technology_and_Telecommunications,Covid 19 Pandemic Lockdown in CN,02/13/2020,0.0030688337991744,-0.0109364917460934
+Technology_and_Telecommunications,Covid 19 Pandemic Lockdown in CN,02/14/2020,0.0010194495630069,-0.0057568306956186
+Technology_and_Telecommunications,Covid 19 Pandemic Lockdown in CN,02/17/2020,0.0234298122947436,0.0032662140762418
+Technology_and_Telecommunications,Covid 19 Pandemic Lockdown in CN,02/18/2020,-0.0428002740902143,-0.0069013501453486
+Technology_and_Telecommunications,Covid 19 Pandemic Lockdown in CN,02/19/2020,-0.011438409698201,0.010159848279599
+Technology_and_Telecommunications,Covid 19 Pandemic Lockdown in CN,02/20/2020,-0.001753039351623,-0.0027356714957422
+Technology_and_Telecommunications,Covid 19 Pandemic Lockdown in CN,02/21/2020,0.0007023112269546,-0.004397196956013
+Technology_and_Telecommunications,Covid 19 Pandemic Lockdown in CN,02/24/2020,-0.0372062196951731,-0.0333743163623847
+Technology_and_Telecommunications,Covid 19 Pandemic Lockdown in CN,02/25/2020,-0.0160407820438238,-0.0194081022432365
+Technology_and_Telecommunications,Covid 19 Pandemic Lockdown in CN,02/26/2020,0.0011115926459239,0.0035053360689905
+Technology_and_Telecommunications,Covid 19 Pandemic Lockdown in CN,02/27/2020,-0.0303478860342386,-0.0349449907925097
+Technology_and_Telecommunications,Covid 19 Pandemic Lockdown in CN,02/28/2020,-0.0083970428760812,-0.0317520757736873
+Technology_and_Telecommunications,Covid 19 Pandemic Lockdown in CN,03/02/2020,-0.0007695610101005,0.0112907339125443
+Technology_and_Telecommunications,Covid 19 Pandemic Lockdown in CN,03/03/2020,-0.0050078934697128,0.0095118324689535
+Technology_and_Telecommunications,Covid 19 Pandemic Lockdown in CN,03/04/2020,0.0092916680192474,0.0144979160358615
+Technology_and_Telecommunications,Covid 19 Pandemic Lockdown in CN,03/05/2020,-0.0180284632209812,-0.0161688176732076
+Transportation_and_Infrastructure,Start of Russia's full on annexation of Ukraine,02/25/2022,0.0259516549783396,0.0322103038373315
+Transportation_and_Infrastructure,Start of Russia's full on annexation of Ukraine,02/28/2022,0.0109612544633186,0.0083369440379093
+Transportation_and_Infrastructure,Start of Russia's full on annexation of Ukraine,03/01/2022,-0.0325271542745472,-0.0275365142595239
+Transportation_and_Infrastructure,Start of Russia's full on annexation of Ukraine,03/02/2022,0.0198276593020916,0.0134240547651665
+Transportation_and_Infrastructure,Start of Russia's full on annexation of Ukraine,03/03/2022,-0.0278952825786781,-0.0335054022624353
+Transportation_and_Infrastructure,Start of Russia's full on annexation of Ukraine,03/04/2022,-0.046086909159554,-0.0344626676157492
+Transportation_and_Infrastructure,Start of Russia's full on annexation of Ukraine,03/07/2022,-0.0173198742101636,-0.0112390044347948
+Transportation_and_Infrastructure,Start of Russia's full on annexation of Ukraine,03/08/2022,0.0241186691352066,0.0024934441766213
+Transportation_and_Infrastructure,Start of Russia's full on annexation of Ukraine,03/09/2022,0.0498187943482186,0.0443135264905591
+Transportation_and_Infrastructure,Start of Russia's full on annexation of Ukraine,03/10/2022,0.0500431082412959,-0.0056603957206656
+Transportation_and_Infrastructure,Start of Russia's full on annexation of Ukraine,03/11/2022,0.0197206289589666,0.0125779232352447
+Transportation_and_Infrastructure,Start of Russia's full on annexation of Ukraine,03/14/2022,0.0547945214735214,0.0130997385503788
+Transportation_and_Infrastructure,Start of Russia's full on annexation of Ukraine,03/15/2022,-0.0122230524020253,-0.0104341958912371
+Transportation_and_Infrastructure,Start of Russia's full on annexation of Ukraine,03/16/2022,0.0247486731904214,0.0319780037335342
+Transportation_and_Infrastructure,Start of Russia's full on annexation of Ukraine,03/17/2022,0.0067922879108399,0.0033579306283035
+Transportation_and_Infrastructure,Start of Russia's full on annexation of Ukraine,03/18/2022,0.0037482031649189,0.0086242841651398
+Transportation_and_Infrastructure,Start of Russia's full on annexation of Ukraine,03/21/2022,-0.023151442176126,-0.0070899862345332
+Transportation_and_Infrastructure,Start of Russia's full on annexation of Ukraine,03/22/2022,0.0076451591727551,0.0050460332453183
+Transportation_and_Infrastructure,Start of Russia's full on annexation of Ukraine,03/23/2022,-0.0007587281410779,-0.0052575240403228
+Transportation_and_Infrastructure,Start of Russia's full on annexation of Ukraine,03/24/2022,-0.0045558254794644,-0.005161530199662
+Transportation_and_Infrastructure,Start of Russia's full on annexation of Ukraine,03/25/2022,0.0045766760166723,0.0030153352457129
+Transportation_and_Infrastructure,Start of Russia's full on annexation of Ukraine,03/28/2022,-0.0045558254794644,0.005430411309899
+Transportation_and_Infrastructure,Start of Russia's full on annexation of Ukraine,03/29/2022,0.0022883380083362,0.0200284765068818
+Transportation_and_Infrastructure,Start of Russia's full on annexation of Ukraine,03/30/2022,-0.0152207564866573,-0.0102131025497859
+Transportation_and_Infrastructure,Start of Russia's full on annexation of Ukraine,03/31/2022,-0.006955074284356,-0.0052838354977082
+Transportation_and_Infrastructure,Start of Russia's full on annexation of Ukraine,04/01/2022,-0.0007782782139392,0.0027363004756058
+Transportation_and_Infrastructure,Start of Russia's full on annexation of Ukraine,04/04/2022,0.0,0.0052738425216796
+Transportation_and_Infrastructure,Start of Russia's full on annexation of Ukraine,04/05/2022,-0.0179127739588911,0.0012704986370639
+Transportation_and_Infrastructure,Start of Russia's full on annexation of Ukraine,04/06/2022,0.0079301771504451,-0.0120007857494029
+Transportation_and_Infrastructure,Start of Russia's full on annexation of Ukraine,04/07/2022,0.004720710119991,-0.0029808698208497
+Agriculture_and_Food,Start of Russia's full on annexation of Ukraine,02/25/2022,0.0381457242511884,0.0391980019425557
+Agriculture_and_Food,Start of Russia's full on annexation of Ukraine,02/28/2022,-0.0201582727647094,-0.0041658582432071
+Agriculture_and_Food,Start of Russia's full on annexation of Ukraine,03/01/2022,-0.0632812006239071,-0.0171754438316478
+Agriculture_and_Food,Start of Russia's full on annexation of Ukraine,03/02/2022,-0.029190907550359,0.0135603257339838
+Agriculture_and_Food,Start of Russia's full on annexation of Ukraine,03/03/2022,-0.0008592170641095,-0.0256676258218336
+Agriculture_and_Food,Start of Russia's full on annexation of Ukraine,03/04/2022,-0.0206362279925201,-0.0347842639191591
+Agriculture_and_Food,Start of Russia's full on annexation of Ukraine,03/07/2022,-0.0204857708961516,-0.0039501506018939
+Agriculture_and_Food,Start of Russia's full on annexation of Ukraine,03/08/2022,-0.0280848965777775,0.0006609810555715
+Agriculture_and_Food,Start of Russia's full on annexation of Ukraine,03/09/2022,0.0743928955560708,0.0325383171520627
+Agriculture_and_Food,Start of Russia's full on annexation of Ukraine,03/10/2022,-0.018311838015746,-0.0127386895807396
+Agriculture_and_Food,Start of Russia's full on annexation of Ukraine,03/11/2022,-0.0096181561491082,0.0079587552257014
+Agriculture_and_Food,Start of Russia's full on annexation of Ukraine,03/14/2022,0.0397291644347166,0.0052965372332871
+Agriculture_and_Food,Start of Russia's full on annexation of Ukraine,03/15/2022,-0.0240588785445604,-0.0024744289549593
+Agriculture_and_Food,Start of Russia's full on annexation of Ukraine,03/16/2022,0.0261021069012157,0.016165669808192
+Agriculture_and_Food,Start of Russia's full on annexation of Ukraine,03/17/2022,-0.0144148975890607,0.0128364588323544
+Agriculture_and_Food,Start of Russia's full on annexation of Ukraine,03/18/2022,0.006309103566209,0.0026268927650963
+Agriculture_and_Food,Start of Russia's full on annexation of Ukraine,03/21/2022,-0.0102592675466188,0.0050913211928709
+Agriculture_and_Food,Start of Russia's full on annexation of Ukraine,03/22/2022,0.0031672311616566,0.0046087677924897
+Agriculture_and_Food,Start of Russia's full on annexation of Ukraine,03/23/2022,-0.0261193358108468,-0.0021533694324594
+Agriculture_and_Food,Start of Russia's full on annexation of Ukraine,03/24/2022,-0.0047157699993548,0.0009114286516491
+Agriculture_and_Food,Start of Russia's full on annexation of Ukraine,03/25/2022,0.009476000283221,0.0021426467323624
+Agriculture_and_Food,Start of Russia's full on annexation of Ukraine,03/28/2022,-0.0067468637431958,-0.0013763536389755
+Agriculture_and_Food,Start of Russia's full on annexation of Ukraine,03/29/2022,0.0348492783793707,0.0085907730650343
+Agriculture_and_Food,Start of Russia's full on annexation of Ukraine,03/30/2022,-0.0122716141223071,0.0055059505493189
+Agriculture_and_Food,Start of Russia's full on annexation of Ukraine,03/31/2022,-0.039583976398661,-0.0083258050088581
+Agriculture_and_Food,Start of Russia's full on annexation of Ukraine,04/01/2022,-0.0042117705918197,0.0029537776194286
+Agriculture_and_Food,Start of Russia's full on annexation of Ukraine,04/04/2022,0.006948735912148,0.0027859218445538
+Agriculture_and_Food,Start of Russia's full on annexation of Ukraine,04/05/2022,-0.0141014321490993,0.0072497709556595
+Agriculture_and_Food,Start of Russia's full on annexation of Ukraine,04/06/2022,-0.0243458553537002,-0.0034148967431114
+Agriculture_and_Food,Start of Russia's full on annexation of Ukraine,04/07/2022,0.0162196282727362,-0.0047313928727941
+Automotive,Start of Russia's full on annexation of Ukraine,02/25/2022,0.0378853742984801,0.0322103038373315
+Automotive,Start of Russia's full on annexation of Ukraine,02/28/2022,0.0258723870536183,0.0083369440379093
+Automotive,Start of Russia's full on annexation of Ukraine,03/01/2022,-0.0891495730034764,-0.0275365142595239
+Automotive,Start of Russia's full on annexation of Ukraine,03/02/2022,0.0064390708356107,0.0134240547651665
+Automotive,Start of Russia's full on annexation of Ukraine,03/03/2022,-0.0859458689743823,-0.0335054022624353
+Automotive,Start of Russia's full on annexation of Ukraine,03/04/2022,-0.0832944507119793,-0.0344626676157492
+Automotive,Start of Russia's full on annexation of Ukraine,03/07/2022,-0.0285058017529152,-0.0112390044347948
+Automotive,Start of Russia's full on annexation of Ukraine,03/08/2022,-0.0068117421099738,0.0024934441766213
+Automotive,Start of Russia's full on annexation of Ukraine,03/09/2022,0.1390134441499324,0.0443135264905591
+Automotive,Start of Russia's full on annexation of Ukraine,03/10/2022,-0.0562760703314789,-0.0056603957206656
+Automotive,Start of Russia's full on annexation of Ukraine,03/11/2022,0.0532514485391668,0.0125779232352447
+Automotive,Start of Russia's full on annexation of Ukraine,03/14/2022,0.0244642058848945,0.0130997385503788
+Automotive,Start of Russia's full on annexation of Ukraine,03/15/2022,-0.0332045009780155,-0.0104341958912371
+Automotive,Start of Russia's full on annexation of Ukraine,03/16/2022,0.103740368977176,0.0319780037335342
+Automotive,Start of Russia's full on annexation of Ukraine,03/17/2022,-0.021099766571977,0.0033579306283035
+Automotive,Start of Russia's full on annexation of Ukraine,03/18/2022,-0.0047898032633256,0.0086242841651398
+Automotive,Start of Russia's full on annexation of Ukraine,03/21/2022,-0.0052507157324246,-0.0070899862345332
+Automotive,Start of Russia's full on annexation of Ukraine,03/22/2022,0.0400265949501099,0.0050460332453183
+Automotive,Start of Russia's full on annexation of Ukraine,03/23/2022,-0.0397548605358645,-0.0052575240403228
+Automotive,Start of Russia's full on annexation of Ukraine,03/24/2022,-0.0015413650694565,-0.005161530199662
+Automotive,Start of Russia's full on annexation of Ukraine,03/25/2022,0.0090427494577873,0.0030153352457129
+Automotive,Start of Russia's full on annexation of Ukraine,03/28/2022,0.0166119805365005,0.005430411309899
+Automotive,Start of Russia's full on annexation of Ukraine,03/29/2022,0.1067511911255689,0.0200284765068818
+Automotive,Start of Russia's full on annexation of Ukraine,03/30/2022,-0.0058280010354706,-0.0102131025497859
+Automotive,Start of Russia's full on annexation of Ukraine,03/31/2022,-0.0374206567256961,-0.0052838354977082
+Automotive,Start of Russia's full on annexation of Ukraine,04/01/2022,-0.0075112074364981,0.0027363004756058
+Automotive,Start of Russia's full on annexation of Ukraine,04/04/2022,0.0216815505372245,0.0052738425216796
+Automotive,Start of Russia's full on annexation of Ukraine,04/05/2022,-0.0222222606816347,0.0012704986370639
+Automotive,Start of Russia's full on annexation of Ukraine,04/06/2022,-0.0753481077233081,-0.0120007857494029
+Automotive,Start of Russia's full on annexation of Ukraine,04/07/2022,-0.0263508119392525,-0.0029808698208497
+Defense_and_Aerospace,Start of Russia's full on annexation of Ukraine,02/25/2022,0.0803402201395273,0.0322103038373315
+Defense_and_Aerospace,Start of Russia's full on annexation of Ukraine,02/28/2022,0.091863625147992,0.0083369440379093
+Defense_and_Aerospace,Start of Russia's full on annexation of Ukraine,03/01/2022,0.0016025878421219,-0.0275365142595239
+Defense_and_Aerospace,Start of Russia's full on annexation of Ukraine,03/02/2022,0.0096000370898365,0.0134240547651665
+Defense_and_Aerospace,Start of Russia's full on annexation of Ukraine,03/03/2022,-0.0285262581333949,-0.0335054022624353
+Defense_and_Aerospace,Start of Russia's full on annexation of Ukraine,03/04/2022,-0.0114192054531903,-0.0344626676157492
+Defense_and_Aerospace,Start of Russia's full on annexation of Ukraine,03/07/2022,-0.0173266649263986,-0.0112390044347948
+Defense_and_Aerospace,Start of Russia's full on annexation of Ukraine,03/08/2022,0.0092357421702771,0.0024934441766213
+Defense_and_Aerospace,Start of Russia's full on annexation of Ukraine,03/09/2022,0.0166390746807449,0.0443135264905591
+Defense_and_Aerospace,Start of Russia's full on annexation of Ukraine,03/10/2022,-0.0081833199285498,-0.0056603957206656
+Defense_and_Aerospace,Start of Russia's full on annexation of Ukraine,03/11/2022,0.0437294801362255,0.0125779232352447
+Defense_and_Aerospace,Start of Russia's full on annexation of Ukraine,03/14/2022,0.0308298713942445,0.0130997385503788
+Defense_and_Aerospace,Start of Russia's full on annexation of Ukraine,03/15/2022,-0.0214723099786233,-0.0104341958912371
+Defense_and_Aerospace,Start of Russia's full on annexation of Ukraine,03/16/2022,0.0227271979965284,0.0319780037335342
+Defense_and_Aerospace,Start of Russia's full on annexation of Ukraine,03/17/2022,-0.0107280283996311,0.0033579306283035
+Defense_and_Aerospace,Start of Russia's full on annexation of Ukraine,03/18/2022,0.006971342563864,0.0086242841651398
+Defense_and_Aerospace,Start of Russia's full on annexation of Ukraine,03/21/2022,-0.0069230794057298,-0.0070899862345332
+Defense_and_Aerospace,Start of Russia's full on annexation of Ukraine,03/22/2022,0.0007745033418611,0.0050460332453183
+Defense_and_Aerospace,Start of Russia's full on annexation of Ukraine,03/23/2022,0.0139319963109156,-0.0052575240403228
+Defense_and_Aerospace,Start of Russia's full on annexation of Ukraine,03/24/2022,0.0,-0.005161530199662
+Defense_and_Aerospace,Start of Russia's full on annexation of Ukraine,03/25/2022,0.006870231376125,0.0030153352457129
+Defense_and_Aerospace,Start of Russia's full on annexation of Ukraine,03/28/2022,0.0053071299281113,0.005430411309899
+Defense_and_Aerospace,Start of Russia's full on annexation of Ukraine,03/29/2022,0.0052790141094081,0.0200284765068818
+Defense_and_Aerospace,Start of Russia's full on annexation of Ukraine,03/30/2022,-0.0135034780419096,-0.0102131025497859
+Defense_and_Aerospace,Start of Russia's full on annexation of Ukraine,03/31/2022,-0.0114068152937053,-0.0052838354977082
+Defense_and_Aerospace,Start of Russia's full on annexation of Ukraine,04/01/2022,0.0161539864237365,0.0027363004756058
+Defense_and_Aerospace,Start of Russia's full on annexation of Ukraine,04/04/2022,0.0454200139392908,0.0052738425216796
+Defense_and_Aerospace,Start of Russia's full on annexation of Ukraine,04/05/2022,-0.0427226369611677,0.0012704986370639
+Defense_and_Aerospace,Start of Russia's full on annexation of Ukraine,04/06/2022,-0.1906202815424055,-0.0120007857494029
+Defense_and_Aerospace,Start of Russia's full on annexation of Ukraine,04/07/2022,0.0813084576532221,-0.0029808698208497
+Energy_and_Utilities,Start of Russia's full on annexation of Ukraine,02/25/2022,0.0359928945894558,0.0391980019425557
+Energy_and_Utilities,Start of Russia's full on annexation of Ukraine,02/28/2022,-0.0394981099539948,-0.0041658582432071
+Energy_and_Utilities,Start of Russia's full on annexation of Ukraine,03/01/2022,-0.0177415189052226,-0.0171754438316478
+Energy_and_Utilities,Start of Russia's full on annexation of Ukraine,03/02/2022,0.0484456953210465,0.0135603257339838
+Energy_and_Utilities,Start of Russia's full on annexation of Ukraine,03/03/2022,-0.0426014673835637,-0.0256676258218336
+Energy_and_Utilities,Start of Russia's full on annexation of Ukraine,03/04/2022,-0.0287350154609407,-0.0347842639191591
+Energy_and_Utilities,Start of Russia's full on annexation of Ukraine,03/07/2022,0.0383455121973959,-0.0039501506018939
+Energy_and_Utilities,Start of Russia's full on annexation of Ukraine,03/08/2022,0.0511756767419524,0.0006609810555715
+Energy_and_Utilities,Start of Russia's full on annexation of Ukraine,03/09/2022,-0.0222367890604626,0.0325383171520627
+Energy_and_Utilities,Start of Russia's full on annexation of Ukraine,03/11/2022,-0.0300093948948385,0.0079587552257014
+Energy_and_Utilities,Start of Russia's full on annexation of Ukraine,03/14/2022,-0.0108212679798483,0.0052965372332871
+Energy_and_Utilities,Start of Russia's full on annexation of Ukraine,03/15/2022,0.0126227399690734,-0.0024744289549593
+Energy_and_Utilities,Start of Russia's full on annexation of Ukraine,03/16/2022,-0.0009693780839203,0.016165669808192
+Energy_and_Utilities,Start of Russia's full on annexation of Ukraine,03/17/2022,0.0205183149844205,0.0128364588323544
+Energy_and_Utilities,Start of Russia's full on annexation of Ukraine,03/18/2022,-0.0207852416623764,0.0026268927650963
+Energy_and_Utilities,Start of Russia's full on annexation of Ukraine,03/21/2022,0.0405106002557016,0.0050913211928709
+Energy_and_Utilities,Start of Russia's full on annexation of Ukraine,03/22/2022,-0.0098666689648208,0.0046087677924897
+Energy_and_Utilities,Start of Russia's full on annexation of Ukraine,03/23/2022,0.0447078758039924,-0.0021533694324594
+Energy_and_Utilities,Start of Russia's full on annexation of Ukraine,03/24/2022,0.0033513356576335,0.0009114286516491
+Energy_and_Utilities,Start of Russia's full on annexation of Ukraine,03/25/2022,0.0064234119502106,0.0021426467323624
+Energy_and_Utilities,Start of Russia's full on annexation of Ukraine,03/28/2022,-0.0275722339833828,-0.0013763536389755
+Energy_and_Utilities,Start of Russia's full on annexation of Ukraine,03/29/2022,-0.0250721420541372,0.0085907730650343
+Energy_and_Utilities,Start of Russia's full on annexation of Ukraine,03/30/2022,0.0306988866488675,0.0055059505493189
+Energy_and_Utilities,Start of Russia's full on annexation of Ukraine,03/31/2022,-0.0193337723993415,-0.0083258050088581
+Energy_and_Utilities,Start of Russia's full on annexation of Ukraine,04/01/2022,0.0095911184799757,0.0029537776194286
+Energy_and_Utilities,Start of Russia's full on annexation of Ukraine,04/04/2022,-0.0035625821712748,0.0027859218445538
+Energy_and_Utilities,Start of Russia's full on annexation of Ukraine,04/05/2022,0.0140360503324463,0.0072497709556595
+Energy_and_Utilities,Start of Russia's full on annexation of Ukraine,04/06/2022,-0.0053538830652049,-0.0034148967431114
+Energy_and_Utilities,Start of Russia's full on annexation of Ukraine,04/07/2022,-0.0090586701357195,-0.0047313928727941
+Energy_and_Utilities,Start of Russia's full on annexation of Ukraine,04/08/2022,0.0373609073196994,0.015598969254406
+Energy_and_Utilities,Start of Russia's full on annexation of Ukraine,03/10/2022,0.0034073857941447,-0.0127386895807396
+Finance_and_Insurance,Start of Russia's full on annexation of Ukraine,02/25/2022,0.0369824894960346,0.0391980019425557
+Finance_and_Insurance,Start of Russia's full on annexation of Ukraine,02/28/2022,-0.0085025350515405,-0.0041658582432071
+Finance_and_Insurance,Start of Russia's full on annexation of Ukraine,03/01/2022,-0.0314434223647112,-0.0171754438316478
+Finance_and_Insurance,Start of Russia's full on annexation of Ukraine,03/02/2022,0.0093456313217277,0.0135603257339838
+Finance_and_Insurance,Start of Russia's full on annexation of Ukraine,03/03/2022,-0.003972037904205,-0.0256676258218336
+Finance_and_Insurance,Start of Russia's full on annexation of Ukraine,03/04/2022,-0.0463511620072578,-0.0347842639191591
+Finance_and_Insurance,Start of Russia's full on annexation of Ukraine,03/07/2022,-0.0317993924634676,-0.0039501506018939
+Finance_and_Insurance,Start of Russia's full on annexation of Ukraine,03/08/2022,0.0317756508670943,0.0006609810555715
+Finance_and_Insurance,Start of Russia's full on annexation of Ukraine,03/09/2022,0.0458077126176668,0.0325383171520627
+Finance_and_Insurance,Start of Russia's full on annexation of Ukraine,03/10/2022,0.0027218469921148,-0.0127386895807396
+Finance_and_Insurance,Start of Russia's full on annexation of Ukraine,03/11/2022,0.0108588769894795,0.0079587552257014
+Finance_and_Insurance,Start of Russia's full on annexation of Ukraine,03/14/2022,0.0202637881857485,0.0052965372332871
+Finance_and_Insurance,Start of Russia's full on annexation of Ukraine,03/15/2022,-0.0088537948896117,-0.0024744289549593
+Finance_and_Insurance,Start of Russia's full on annexation of Ukraine,03/16/2022,0.0200384865252547,0.016165669808192
+Finance_and_Insurance,Start of Russia's full on annexation of Ukraine,03/17/2022,0.0080474439131115,0.0128364588323544
+Finance_and_Insurance,Start of Russia's full on annexation of Ukraine,03/18/2022,-0.0082179071832184,0.0026268927650963
+Finance_and_Insurance,Start of Russia's full on annexation of Ukraine,03/21/2022,0.0092330270434539,0.0050913211928709
+Finance_and_Insurance,Start of Russia's full on annexation of Ukraine,03/22/2022,0.0337790630181531,0.0046087677924897
+Finance_and_Insurance,Start of Russia's full on annexation of Ukraine,03/23/2022,-0.0099842324379213,-0.0021533694324594
+Finance_and_Insurance,Start of Russia's full on annexation of Ukraine,03/24/2022,-0.0013751617202606,0.0009114286516491
+Finance_and_Insurance,Start of Russia's full on annexation of Ukraine,03/25/2022,0.0048198554487681,0.0021426467323624
+Finance_and_Insurance,Start of Russia's full on annexation of Ukraine,03/28/2022,0.0198720881152896,-0.0013763536389755
+Finance_and_Insurance,Start of Russia's full on annexation of Ukraine,03/29/2022,0.0262038541242295,0.0085907730650343
+Finance_and_Insurance,Start of Russia's full on annexation of Ukraine,03/30/2022,-0.0089481112483331,0.0055059505493189
+Finance_and_Insurance,Start of Russia's full on annexation of Ukraine,03/31/2022,-0.0044044241585334,-0.0083258050088581
+Finance_and_Insurance,Start of Russia's full on annexation of Ukraine,04/01/2022,-0.0165890940442086,0.0029537776194286
+Finance_and_Insurance,Start of Russia's full on annexation of Ukraine,04/04/2022,-0.0148450169275975,0.0027859218445538
+Finance_and_Insurance,Start of Russia's full on annexation of Ukraine,04/05/2022,0.004566242336625,0.0072497709556595
+Finance_and_Insurance,Start of Russia's full on annexation of Ukraine,04/06/2022,0.0095455057423745,-0.0034148967431114
+Finance_and_Insurance,Start of Russia's full on annexation of Ukraine,04/07/2022,-0.0165308011566964,-0.0047313928727941
+Finance_and_Insurance,Start of Russia's full on annexation of Ukraine,04/08/2022,0.028595707098791,0.015598969254406
+Healthcare_and_Pharmaceuticals,Start of Russia's full on annexation of Ukraine,02/25/2022,0.0118577246219779,0.0252724296265909
+Healthcare_and_Pharmaceuticals,Start of Russia's full on annexation of Ukraine,02/28/2022,0.0039061518468688,-0.0043158100930412
+Healthcare_and_Pharmaceuticals,Start of Russia's full on annexation of Ukraine,03/01/2022,-0.0136186461370557,-0.01470546875
+Healthcare_and_Pharmaceuticals,Start of Russia's full on annexation of Ukraine,03/02/2022,0.0315581801359896,0.0110719085137425
+Healthcare_and_Pharmaceuticals,Start of Russia's full on annexation of Ukraine,03/03/2022,0.0057361462586305,-0.0242228539925043
+Healthcare_and_Pharmaceuticals,Start of Russia's full on annexation of Ukraine,03/04/2022,-0.0579848519853004,-0.032620080802035
+Healthcare_and_Pharmaceuticals,Start of Russia's full on annexation of Ukraine,03/07/2022,-0.0272451688194224,-0.0231554826469451
+Healthcare_and_Pharmaceuticals,Start of Russia's full on annexation of Ukraine,03/08/2022,0.0020746368497186,0.0108309015787706
+Healthcare_and_Pharmaceuticals,Start of Russia's full on annexation of Ukraine,03/09/2022,0.017598481210697,0.0272725228391583
+Healthcare_and_Pharmaceuticals,Start of Russia's full on annexation of Ukraine,03/10/2022,0.0172939686994451,-0.0008386959290932
+Healthcare_and_Pharmaceuticals,Start of Russia's full on annexation of Ukraine,03/11/2022,-0.0100000677111982,0.0100575969643292
+Healthcare_and_Pharmaceuticals,Start of Russia's full on annexation of Ukraine,03/14/2022,0.0303030766312988,0.0054395453352253
+Healthcare_and_Pharmaceuticals,Start of Russia's full on annexation of Ukraine,03/15/2022,0.0137255365956385,-0.0089267513572621
+Healthcare_and_Pharmaceuticals,Start of Russia's full on annexation of Ukraine,03/16/2022,0.0386846724469898,0.0198034969254747
+Healthcare_and_Pharmaceuticals,Start of Russia's full on annexation of Ukraine,03/17/2022,0.0204841028136233,0.011776280438714
+Healthcare_and_Pharmaceuticals,Start of Russia's full on annexation of Ukraine,03/18/2022,0.0182482277050175,0.0065690424697619
+Healthcare_and_Pharmaceuticals,Start of Russia's full on annexation of Ukraine,03/21/2022,-0.0017921411750698,0.0025404626927107
+Healthcare_and_Pharmaceuticals,Start of Russia's full on annexation of Ukraine,03/22/2022,0.0161579423688924,0.0044708092909322
+Healthcare_and_Pharmaceuticals,Start of Russia's full on annexation of Ukraine,03/23/2022,-0.0017667403148592,-0.002406718167901
+Healthcare_and_Pharmaceuticals,Start of Russia's full on annexation of Ukraine,03/24/2022,-0.0088495475404196,-0.0037786304990719
+Healthcare_and_Pharmaceuticals,Start of Russia's full on annexation of Ukraine,03/25/2022,0.0696428916893887,0.002232055407116
+Healthcare_and_Pharmaceuticals,Start of Russia's full on annexation of Ukraine,03/28/2022,0.0150249975546701,0.0025326999747334
+Healthcare_and_Pharmaceuticals,Start of Russia's full on annexation of Ukraine,03/29/2022,-0.0279605472186719,0.0148094373865699
+Healthcare_and_Pharmaceuticals,Start of Russia's full on annexation of Ukraine,03/30/2022,-0.0152283152122012,-0.0059517987919378
+Healthcare_and_Pharmaceuticals,Start of Russia's full on annexation of Ukraine,03/31/2022,-0.0120275315066822,0.0007771992141003
+Healthcare_and_Pharmaceuticals,Start of Russia's full on annexation of Ukraine,04/01/2022,0.0469565218595995,-0.0012511623654405
+Healthcare_and_Pharmaceuticals,Start of Russia's full on annexation of Ukraine,04/04/2022,-0.0033223081539726,0.0064798547601303
+Healthcare_and_Pharmaceuticals,Start of Russia's full on annexation of Ukraine,04/05/2022,0.0099999488846802,-0.0018885480039017
+Healthcare_and_Pharmaceuticals,Start of Russia's full on annexation of Ukraine,04/06/2022,-0.0181517561797156,-0.0075253713569891
+Healthcare_and_Pharmaceuticals,Start of Russia's full on annexation of Ukraine,04/07/2022,0.0184873337544391,-0.0034662546164013
+Manufacturing_and_Industrial_Goods,Start of Russia's full on annexation of Ukraine,02/25/2022,0.0259515824431084,0.0322103038373315
+Manufacturing_and_Industrial_Goods,Start of Russia's full on annexation of Ukraine,02/28/2022,0.0109613259387268,0.0083369440379093
+Manufacturing_and_Industrial_Goods,Start of Russia's full on annexation of Ukraine,03/01/2022,-0.0325271542745472,-0.0275365142595239
+Manufacturing_and_Industrial_Goods,Start of Russia's full on annexation of Ukraine,03/02/2022,0.0198276593020916,0.0134240547651665
+Manufacturing_and_Industrial_Goods,Start of Russia's full on annexation of Ukraine,03/03/2022,-0.0278952116989537,-0.0335054022624353
+Manufacturing_and_Industrial_Goods,Start of Russia's full on annexation of Ukraine,03/04/2022,-0.046086978712855,-0.0344626676157492
+Manufacturing_and_Industrial_Goods,Start of Russia's full on annexation of Ukraine,03/07/2022,-0.0173197977737749,-0.0112390044347948
+Manufacturing_and_Industrial_Goods,Start of Russia's full on annexation of Ukraine,03/08/2022,0.0241185116920006,0.0024934441766213
+Manufacturing_and_Industrial_Goods,Start of Russia's full on annexation of Ukraine,03/09/2022,0.0498188740837846,0.0443135264905591
+Manufacturing_and_Industrial_Goods,Start of Russia's full on annexation of Ukraine,03/10/2022,0.0500430358938237,-0.0056603957206656
+Manufacturing_and_Industrial_Goods,Start of Russia's full on annexation of Ukraine,03/11/2022,0.0197206992172394,0.0125779232352447
+Manufacturing_and_Industrial_Goods,Start of Russia's full on annexation of Ukraine,03/14/2022,0.0547945214735214,0.0130997385503788
+Manufacturing_and_Industrial_Goods,Start of Russia's full on annexation of Ukraine,03/15/2022,-0.0122230524020253,-0.0104341958912371
+Manufacturing_and_Industrial_Goods,Start of Russia's full on annexation of Ukraine,03/16/2022,0.0247486731904214,0.0319780037335342
+Manufacturing_and_Industrial_Goods,Start of Russia's full on annexation of Ukraine,03/17/2022,0.0067923511944012,0.0033579306283035
+Manufacturing_and_Industrial_Goods,Start of Russia's full on annexation of Ukraine,03/18/2022,0.0037482029293194,0.0086242841651398
+Manufacturing_and_Industrial_Goods,Start of Russia's full on annexation of Ukraine,03/21/2022,-0.0231515033482363,-0.0070899862345332
+Manufacturing_and_Industrial_Goods,Start of Russia's full on annexation of Ukraine,03/22/2022,0.0076450950667061,0.0050460332453183
+Manufacturing_and_Industrial_Goods,Start of Russia's full on annexation of Ukraine,03/23/2022,-0.0007586645696775,-0.0052575240403228
+Manufacturing_and_Industrial_Goods,Start of Russia's full on annexation of Ukraine,03/24/2022,-0.0045558254794644,-0.005161530199662
+Manufacturing_and_Industrial_Goods,Start of Russia's full on annexation of Ukraine,03/25/2022,0.0045766760166723,0.0030153352457129
+Manufacturing_and_Industrial_Goods,Start of Russia's full on annexation of Ukraine,03/28/2022,-0.0045558254794644,0.005430411309899
+Manufacturing_and_Industrial_Goods,Start of Russia's full on annexation of Ukraine,03/29/2022,0.0022883380083362,0.0200284765068818
+Manufacturing_and_Industrial_Goods,Start of Russia's full on annexation of Ukraine,03/30/2022,-0.015220692673323,-0.0102131025497859
+Manufacturing_and_Industrial_Goods,Start of Russia's full on annexation of Ukraine,03/31/2022,-0.0069551386332993,-0.0052838354977082
+Manufacturing_and_Industrial_Goods,Start of Russia's full on annexation of Ukraine,04/01/2022,-0.0007784087208921,0.0027363004756058
+Manufacturing_and_Industrial_Goods,Start of Russia's full on annexation of Ukraine,04/04/2022,0.0,0.0052738425216796
+Manufacturing_and_Industrial_Goods,Start of Russia's full on annexation of Ukraine,04/05/2022,-0.0179126456898338,0.0012704986370639
+Manufacturing_and_Industrial_Goods,Start of Russia's full on annexation of Ukraine,04/06/2022,0.0079302436458639,-0.0120007857494029
+Manufacturing_and_Industrial_Goods,Start of Russia's full on annexation of Ukraine,04/07/2022,0.0047207098085551,-0.0029808698208497
+Real_Estate_and_Construction,Start of Russia's full on annexation of Ukraine,02/25/2022,0.0079849534266724,0.0391980019425557
+Real_Estate_and_Construction,Start of Russia's full on annexation of Ukraine,02/28/2022,0.0287827096920629,-0.0041658582432071
+Real_Estate_and_Construction,Start of Russia's full on annexation of Ukraine,03/01/2022,-0.0454312553373185,-0.0171754438316478
+Real_Estate_and_Construction,Start of Russia's full on annexation of Ukraine,03/02/2022,0.0147888923461363,0.0135603257339838
+Real_Estate_and_Construction,Start of Russia's full on annexation of Ukraine,03/03/2022,-0.0169580372121811,-0.0256676258218336
+Real_Estate_and_Construction,Start of Russia's full on annexation of Ukraine,03/04/2022,-0.0107817117249716,-0.0347842639191591
+Real_Estate_and_Construction,Start of Russia's full on annexation of Ukraine,03/07/2022,0.0217983782437045,-0.0039501506018939
+Real_Estate_and_Construction,Start of Russia's full on annexation of Ukraine,03/08/2022,-0.0085334203204,0.0006609810555715
+Real_Estate_and_Construction,Start of Russia's full on annexation of Ukraine,03/09/2022,0.014524000819216,0.0325383171520627
+Real_Estate_and_Construction,Start of Russia's full on annexation of Ukraine,03/10/2022,-0.0029162461282398,-0.0127386895807396
+Real_Estate_and_Construction,Start of Russia's full on annexation of Ukraine,03/11/2022,0.0132944216792412,0.0079587552257014
+Real_Estate_and_Construction,Start of Russia's full on annexation of Ukraine,03/14/2022,0.0338492987160388,0.0052965372332871
+Real_Estate_and_Construction,Start of Russia's full on annexation of Ukraine,03/15/2022,-0.0246193870148241,-0.0024744289549593
+Real_Estate_and_Construction,Start of Russia's full on annexation of Ukraine,03/16/2022,0.0429353925039646,0.016165669808192
+Real_Estate_and_Construction,Start of Russia's full on annexation of Ukraine,03/17/2022,-0.0002495434728374,0.0128364588323544
+Real_Estate_and_Construction,Start of Russia's full on annexation of Ukraine,03/18/2022,0.0309458089594854,0.0026268927650963
+Real_Estate_and_Construction,Start of Russia's full on annexation of Ukraine,03/21/2022,-0.0205760400892613,0.0050913211928709
+Real_Estate_and_Construction,Start of Russia's full on annexation of Ukraine,03/22/2022,0.0138407809461338,0.0046087677924897
+Real_Estate_and_Construction,Start of Russia's full on annexation of Ukraine,03/23/2022,-0.0290103082728864,-0.0021533694324594
+Real_Estate_and_Construction,Start of Russia's full on annexation of Ukraine,03/24/2022,-0.0118001029646647,0.0009114286516491
+Real_Estate_and_Construction,Start of Russia's full on annexation of Ukraine,03/25/2022,-0.0246442760265633,0.0021426467323624
+Real_Estate_and_Construction,Start of Russia's full on annexation of Ukraine,03/28/2022,-0.0065121538210375,-0.0013763536389755
+Real_Estate_and_Construction,Start of Russia's full on annexation of Ukraine,03/29/2022,0.0222863483734683,0.0085907730650343
+Real_Estate_and_Construction,Start of Russia's full on annexation of Ukraine,03/30/2022,-0.0130802706929769,0.0055059505493189
+Real_Estate_and_Construction,Start of Russia's full on annexation of Ukraine,03/31/2022,-0.0280665809276191,-0.0083258050088581
+Real_Estate_and_Construction,Start of Russia's full on annexation of Ukraine,04/01/2022,-0.0032084862753337,0.0029537776194286
+Real_Estate_and_Construction,Start of Russia's full on annexation of Ukraine,04/04/2022,0.0321888249842223,0.0027859218445538
+Real_Estate_and_Construction,Start of Russia's full on annexation of Ukraine,04/05/2022,0.0044178328876651,0.0072497709556595
+Real_Estate_and_Construction,Start of Russia's full on annexation of Ukraine,04/06/2022,0.021216076202821,-0.0034148967431114
+Real_Estate_and_Construction,Start of Russia's full on annexation of Ukraine,04/07/2022,-0.0167216176129241,-0.0047313928727941
+Retail_and_Consumer_Goods,Start of Russia's full on annexation of Ukraine,02/25/2022,0.0055307301953393,0.0322103038373315
+Retail_and_Consumer_Goods,Start of Russia's full on annexation of Ukraine,02/28/2022,0.040563657160012,0.0083369440379093
+Retail_and_Consumer_Goods,Start of Russia's full on annexation of Ukraine,03/01/2022,0.0079287195604953,-0.0275365142595239
+Retail_and_Consumer_Goods,Start of Russia's full on annexation of Ukraine,03/02/2022,-0.0121272560460401,0.0134240547651665
+Retail_and_Consumer_Goods,Start of Russia's full on annexation of Ukraine,03/03/2022,-0.0023224998543887,-0.0335054022624353
+Retail_and_Consumer_Goods,Start of Russia's full on annexation of Ukraine,03/04/2022,-0.0063188484255801,-0.0344626676157492
+Retail_and_Consumer_Goods,Start of Russia's full on annexation of Ukraine,03/07/2022,-0.0448457857578113,-0.0112390044347948
+Retail_and_Consumer_Goods,Start of Russia's full on annexation of Ukraine,03/08/2022,-0.0224247134981045,0.0024934441766213
+Retail_and_Consumer_Goods,Start of Russia's full on annexation of Ukraine,03/09/2022,0.025448082496009,0.0443135264905591
+Retail_and_Consumer_Goods,Start of Russia's full on annexation of Ukraine,03/10/2022,-0.0475358602235193,-0.0056603957206656
+Retail_and_Consumer_Goods,Start of Russia's full on annexation of Ukraine,03/11/2022,0.0091743311721408,0.0125779232352447
+Retail_and_Consumer_Goods,Start of Russia's full on annexation of Ukraine,03/14/2022,0.0156362620303502,0.0130997385503788
+Retail_and_Consumer_Goods,Start of Russia's full on annexation of Ukraine,03/15/2022,-0.0057284876689559,-0.0104341958912371
+Retail_and_Consumer_Goods,Start of Russia's full on annexation of Ukraine,03/16/2022,0.0176448440998588,0.0319780037335342
+Retail_and_Consumer_Goods,Start of Russia's full on annexation of Ukraine,03/17/2022,0.0046000861969681,0.0033579306283035
+Retail_and_Consumer_Goods,Start of Russia's full on annexation of Ukraine,03/18/2022,0.0235999761754179,0.0086242841651398
+Retail_and_Consumer_Goods,Start of Russia's full on annexation of Ukraine,03/21/2022,0.0082586653324199,-0.0070899862345332
+Retail_and_Consumer_Goods,Start of Russia's full on annexation of Ukraine,03/22/2022,-0.0146756743744475,0.0050460332453183
+Retail_and_Consumer_Goods,Start of Russia's full on annexation of Ukraine,03/23/2022,-0.0069275572413377,-0.0052575240403228
+Retail_and_Consumer_Goods,Start of Russia's full on annexation of Ukraine,03/24/2022,0.0125565123453237,-0.005161530199662
+Retail_and_Consumer_Goods,Start of Russia's full on annexation of Ukraine,03/25/2022,-0.0361693696994473,0.0030153352457129
+Retail_and_Consumer_Goods,Start of Russia's full on annexation of Ukraine,03/28/2022,-0.0010722625900565,0.005430411309899
+Retail_and_Consumer_Goods,Start of Russia's full on annexation of Ukraine,03/29/2022,-0.0232557986104605,0.0200284765068818
+Retail_and_Consumer_Goods,Start of Russia's full on annexation of Ukraine,03/30/2022,-0.0084247915433673,-0.0102131025497859
+Retail_and_Consumer_Goods,Start of Russia's full on annexation of Ukraine,03/31/2022,-0.0132989501180208,-0.0052838354977082
+Retail_and_Consumer_Goods,Start of Russia's full on annexation of Ukraine,04/01/2022,0.0,0.0027363004756058
+Retail_and_Consumer_Goods,Start of Russia's full on annexation of Ukraine,04/04/2022,0.0258330766274885,0.0052738425216796
+Retail_and_Consumer_Goods,Start of Russia's full on annexation of Ukraine,04/05/2022,0.0248175700244477,0.0012704986370639
+Retail_and_Consumer_Goods,Start of Russia's full on annexation of Ukraine,04/06/2022,-0.0302706512247735,-0.0120007857494029
+Retail_and_Consumer_Goods,Start of Russia's full on annexation of Ukraine,04/07/2022,-0.0110174181960491,-0.0029808698208497
+Technology_and_Telecommunications,Start of Russia's full on annexation of Ukraine,02/25/2022,0.0376939510633342,0.0391980019425557
+Technology_and_Telecommunications,Start of Russia's full on annexation of Ukraine,02/28/2022,0.0119048754272419,-0.0041658582432071
+Technology_and_Telecommunications,Start of Russia's full on annexation of Ukraine,03/01/2022,0.0012066182839787,-0.0171754438316478
+Technology_and_Telecommunications,Start of Russia's full on annexation of Ukraine,03/02/2022,0.0036155883771007,0.0135603257339838
+Technology_and_Telecommunications,Start of Russia's full on annexation of Ukraine,03/03/2022,-0.0348245203959421,-0.0256676258218336
+Technology_and_Telecommunications,Start of Russia's full on annexation of Ukraine,03/04/2022,-0.0261274334928411,-0.0347842639191591
+Technology_and_Telecommunications,Start of Russia's full on annexation of Ukraine,03/07/2022,0.0130947623699424,-0.0039501506018939
+Technology_and_Telecommunications,Start of Russia's full on annexation of Ukraine,03/08/2022,-0.0132407597324935,0.0006609810555715
+Technology_and_Telecommunications,Start of Russia's full on annexation of Ukraine,03/09/2022,0.0693291487752569,0.0325383171520627
+Technology_and_Telecommunications,Start of Russia's full on annexation of Ukraine,03/10/2022,-0.0322677852258226,-0.0127386895807396
+Technology_and_Telecommunications,Start of Russia's full on annexation of Ukraine,03/11/2022,-0.0061749475636794,0.0079587552257014
+Technology_and_Telecommunications,Start of Russia's full on annexation of Ukraine,03/14/2022,-0.0003106508685301,0.0052965372332871
+Technology_and_Telecommunications,Start of Russia's full on annexation of Ukraine,03/15/2022,0.0024861773374109,-0.0024744289549593
+Technology_and_Telecommunications,Start of Russia's full on annexation of Ukraine,03/16/2022,0.0347178895415605,0.016165669808192
+Technology_and_Telecommunications,Start of Russia's full on annexation of Ukraine,03/17/2022,0.0146794196761235,0.0128364588323544
+Technology_and_Telecommunications,Start of Russia's full on annexation of Ukraine,03/18/2022,0.0103337562909533,0.0026268927650963
+Technology_and_Telecommunications,Start of Russia's full on annexation of Ukraine,03/21/2022,-0.0116890806276604,0.0050913211928709
+Technology_and_Telecommunications,Start of Russia's full on annexation of Ukraine,03/22/2022,-0.0437611822015262,0.0046087677924897
+Technology_and_Telecommunications,Start of Russia's full on annexation of Ukraine,03/23/2022,-0.0061841992427953,-0.0021533694324594
+Technology_and_Telecommunications,Start of Russia's full on annexation of Ukraine,03/24/2022,0.0168014385363903,0.0009114286516491
+Technology_and_Telecommunications,Start of Russia's full on annexation of Ukraine,03/25/2022,-0.0134638851253479,0.0021426467323624
+Technology_and_Telecommunications,Start of Russia's full on annexation of Ukraine,03/28/2022,-0.0024814511599946,-0.0013763536389755
+Technology_and_Telecommunications,Start of Russia's full on annexation of Ukraine,03/29/2022,0.0211442594979374,0.0085907730650343
+Technology_and_Telecommunications,Start of Russia's full on annexation of Ukraine,03/30/2022,-0.0228379522468414,0.0055059505493189
+Technology_and_Telecommunications,Start of Russia's full on annexation of Ukraine,03/31/2022,-0.0140231478096679,-0.0083258050088581
+Technology_and_Telecommunications,Start of Russia's full on annexation of Ukraine,04/01/2022,0.0085336769022699,0.0029537776194286
+Technology_and_Telecommunications,Start of Russia's full on annexation of Ukraine,04/04/2022,0.018489422613747,0.0027859218445538
+Technology_and_Telecommunications,Start of Russia's full on annexation of Ukraine,04/05/2022,0.0163076437488542,0.0072497709556595
+Technology_and_Telecommunications,Start of Russia's full on annexation of Ukraine,04/06/2022,-0.0148349695888673,-0.0034148967431114
+Technology_and_Telecommunications,Start of Russia's full on annexation of Ukraine,04/07/2022,-0.0021511662820481,-0.0047313928727941
+Transportation_and_Infrastructure,Global Financial Crisis,09/16/2008,-0.07318734270531,-0.0343692030481523
+Transportation_and_Infrastructure,Global Financial Crisis,09/17/2008,-0.0066423682688151,-0.011808613204771
+Transportation_and_Infrastructure,Global Financial Crisis,09/18/2008,0.0,0.0032491757484662
+Transportation_and_Infrastructure,Global Financial Crisis,09/19/2008,0.0408619050437448,0.0774758187502393
+Transportation_and_Infrastructure,Global Financial Crisis,09/22/2008,-0.0492503463542822,-0.0255713972767749
+Transportation_and_Infrastructure,Global Financial Crisis,09/23/2008,-0.032282155754122,-0.0340912133697017
+Transportation_and_Infrastructure,Global Financial Crisis,09/24/2008,-0.0007762074509306,-0.0055826675337365
+Transportation_and_Infrastructure,Global Financial Crisis,09/25/2008,0.0403728690001428,0.0032471160429021
+Transportation_and_Infrastructure,Global Financial Crisis,09/26/2008,-0.0283583361569902,-0.0190048017090856
+Transportation_and_Infrastructure,Global Financial Crisis,09/29/2008,-0.0706606949028034,-0.0581915867676401
+Transportation_and_Infrastructure,Global Financial Crisis,09/30/2008,-0.0082641970391756,0.0122291180642635
+Transportation_and_Infrastructure,Global Financial Crisis,10/01/2008,0.0333331158792815,0.0033213795774122
+Transportation_and_Infrastructure,Global Financial Crisis,10/02/2008,-0.0185483187388932,0.0064565978831974
+Transportation_and_Infrastructure,Global Financial Crisis,10/03/2008,0.0345110948722133,0.0037662419182724
+Transportation_and_Infrastructure,Global Financial Crisis,10/06/2008,-0.0754564242105976,-0.0651241567522356
+Transportation_and_Infrastructure,Global Financial Crisis,10/07/2008,-0.0171822627942972,-0.0058328798782889
+Transportation_and_Infrastructure,Global Financial Crisis,10/08/2008,-0.022727480852041,-0.03099099565559
+Transportation_and_Infrastructure,Global Financial Crisis,10/09/2008,-0.0062608036989207,-0.0029857379343659
+Transportation_and_Infrastructure,Global Financial Crisis,10/10/2008,0.0162011122242287,-0.0558681927615299
+Transportation_and_Infrastructure,Global Financial Crisis,10/13/2008,0.0115149279253981,0.0371922318162898
+Transportation_and_Infrastructure,Global Financial Crisis,10/14/2008,-0.0105080239132696,0.009117560671745
+Transportation_and_Infrastructure,Global Financial Crisis,10/15/2008,-0.0911505245216548,-0.0546056666916273
+Transportation_and_Infrastructure,Global Financial Crisis,10/16/2008,-0.0827649123766718,-0.0543304702536178
+Transportation_and_Infrastructure,Global Financial Crisis,10/17/2008,0.0828021282057533,-0.0049348529813662
+Transportation_and_Infrastructure,Global Financial Crisis,10/20/2008,0.0196080002636536,0.0139588837689612
+Transportation_and_Infrastructure,Global Financial Crisis,10/21/2008,0.0490385203983645,0.0068130475281271
+Transportation_and_Infrastructure,Global Financial Crisis,10/22/2008,-0.049131762550039,-0.0326706083732226
+Transportation_and_Infrastructure,Global Financial Crisis,10/23/2008,-0.0265220204702377,-0.016670394492793
+Transportation_and_Infrastructure,Global Financial Crisis,10/24/2008,-0.0615543955569807,-0.0546771887965003
+Transportation_and_Infrastructure,Global Financial Crisis,10/27/2008,-0.035483983232558,-0.0181061689753468
+Agriculture_and_Food,Global Financial Crisis,09/16/2008,-0.0292967746060561,-0.0343184525870311
+Agriculture_and_Food,Global Financial Crisis,09/17/2008,-0.0006708462984901,-0.0225247120966294
+Agriculture_and_Food,Global Financial Crisis,09/18/2008,0.0161073497342385,-0.0065955343595482
+Agriculture_and_Food,Global Financial Crisis,09/19/2008,0.017173220240068,0.0883811075179303
+Agriculture_and_Food,Global Financial Crisis,09/22/2008,-0.0162336745481079,-0.01412083722591
+Agriculture_and_Food,Global Financial Crisis,09/23/2008,-0.0105611734251107,-0.0191355939821382
+Agriculture_and_Food,Global Financial Crisis,09/24/2008,-0.0186793826552137,-0.0078853603375995
+Agriculture_and_Food,Global Financial Crisis,09/25/2008,0.0183549761825929,0.0198995016093177
+Agriculture_and_Food,Global Financial Crisis,09/26/2008,-0.0120154885960893,-0.0208774292861265
+Agriculture_and_Food,Global Financial Crisis,09/29/2008,-0.0256760896071163,-0.053001905338017
+Agriculture_and_Food,Global Financial Crisis,09/30/2008,-0.015256342657643,0.0173695108128544
+Agriculture_and_Food,Global Financial Crisis,10/01/2008,0.0267605474634442,0.0116471387366139
+Agriculture_and_Food,Global Financial Crisis,10/02/2008,-0.0034294894266305,-0.0180055430297596
+Agriculture_and_Food,Global Financial Crisis,10/03/2008,-0.0027532318362794,0.0225858785724297
+Agriculture_and_Food,Global Financial Crisis,10/06/2008,-0.0655621710166021,-0.0785293305047406
+Agriculture_and_Food,Global Financial Crisis,10/07/2008,0.0472672913837539,0.0034864462910864
+Agriculture_and_Food,Global Financial Crisis,10/08/2008,-0.0599436758071352,-0.0517892794851269
+Agriculture_and_Food,Global Financial Crisis,10/09/2008,-0.0262565757460698,-0.0121145002539415
+Agriculture_and_Food,Global Financial Crisis,10/10/2008,-0.0577809454899714,-0.0884834077410092
+Agriculture_and_Food,Global Financial Crisis,10/13/2008,0.0531479782758421,0.0826021201446776
+Agriculture_and_Food,Global Financial Crisis,10/14/2008,0.0232916542283041,0.032253587380139
+Agriculture_and_Food,Global Financial Crisis,10/15/2008,-0.037936423838318,-0.0715943934443061
+Agriculture_and_Food,Global Financial Crisis,10/16/2008,0.0007887000743329,-0.0534856824417318
+Agriculture_and_Food,Global Financial Crisis,10/17/2008,0.0480694384175504,0.0522090699629129
+Agriculture_and_Food,Global Financial Crisis,10/20/2008,0.0195491849810696,0.0540733928901058
+Agriculture_and_Food,Global Financial Crisis,10/21/2008,0.0066370492746146,-0.0123753701129977
+Agriculture_and_Food,Global Financial Crisis,10/22/2008,-0.0805864233706905,-0.0446368026693676
+Agriculture_and_Food,Global Financial Crisis,10/23/2008,0.0167329893784351,0.0116063618544899
+Agriculture_and_Food,Global Financial Crisis,10/24/2008,-0.018024674962249,-0.0500024815408893
+Agriculture_and_Food,Global Financial Crisis,10/27/2008,-0.0023944887760379,-0.007931144219505
+Automotive,Global Financial Crisis,09/16/2008,-0.0151349065966518,-0.0343692030481523
+Automotive,Global Financial Crisis,09/17/2008,-0.0296380413023202,-0.011808613204771
+Automotive,Global Financial Crisis,09/18/2008,0.0158371138935682,0.0032491757484662
+Automotive,Global Financial Crisis,09/19/2008,0.1091312255518743,0.0774758187502393
+Automotive,Global Financial Crisis,09/22/2008,-0.0572286570397588,-0.0255713972767749
+Automotive,Global Financial Crisis,09/23/2008,-0.1224709202534217,-0.0340912133697017
+Automotive,Global Financial Crisis,09/24/2008,0.0230581695078533,-0.0055826675337365
+Automotive,Global Financial Crisis,09/25/2008,-0.002372351109785,0.0032471160429021
+Automotive,Global Financial Crisis,09/26/2008,-0.0249703231667161,-0.0190048017090856
+Automotive,Global Financial Crisis,09/29/2008,-0.1000000735391498,-0.0581915867676401
+Automotive,Global Financial Crisis,09/30/2008,0.0162603987337597,0.0122291180642635
+Automotive,Global Financial Crisis,10/01/2008,0.0106665267170802,0.0033213795774122
+Automotive,Global Financial Crisis,10/02/2008,-0.0197888240345173,0.0064565978831974
+Automotive,Global Financial Crisis,10/03/2008,0.0794081880109132,0.0037662419182724
+Automotive,Global Financial Crisis,10/06/2008,-0.1271824214324867,-0.0651241567522356
+Automotive,Global Financial Crisis,10/07/2008,-0.0214283907460238,-0.0058328798782889
+Automotive,Global Financial Crisis,10/08/2008,-0.0496352223746603,-0.03099099565559
+Automotive,Global Financial Crisis,10/09/2008,-0.0046082561248611,-0.0029857379343659
+Automotive,Global Financial Crisis,10/10/2008,-0.0787033762746094,-0.0558681927615299
+Automotive,Global Financial Crisis,10/13/2008,0.0603014350921178,0.0371922318162898
+Automotive,Global Financial Crisis,10/14/2008,0.0173774440075293,0.009117560671745
+Automotive,Global Financial Crisis,10/15/2008,-0.074534284683065,-0.0546056666916273
+Automotive,Global Financial Crisis,10/16/2008,-0.1493287252572611,-0.0543304702536178
+Automotive,Global Financial Crisis,10/17/2008,-0.3846158961363846,-0.0049348529813662
+Automotive,Global Financial Crisis,10/20/2008,-0.0192300038980272,0.0139588837689612
+Automotive,Global Financial Crisis,10/21/2008,0.0065353241980861,0.0068130475281271
+Automotive,Global Financial Crisis,10/22/2008,-0.0064928910500908,-0.0326706083732226
+Automotive,Global Financial Crisis,10/23/2008,-0.0882354311151623,-0.016670394492793
+Automotive,Global Financial Crisis,10/24/2008,-0.1146953211347169,-0.0546771887965003
+Automotive,Global Financial Crisis,10/27/2008,0.2267205767872431,-0.0181061689753468
+Defense_and_Aerospace,Global Financial Crisis,09/16/2008,-0.0136050860451854,-0.0343692030481523
+Defense_and_Aerospace,Global Financial Crisis,09/17/2008,0.0,-0.011808613204771
+Defense_and_Aerospace,Global Financial Crisis,09/18/2008,-0.0551728107981768,0.0032491757484662
+Defense_and_Aerospace,Global Financial Crisis,09/19/2008,0.0145987701930239,0.0774758187502393
+Defense_and_Aerospace,Global Financial Crisis,09/22/2008,0.0,-0.0255713972767749
+Defense_and_Aerospace,Global Financial Crisis,09/23/2008,0.0,-0.0340912133697017
+Defense_and_Aerospace,Global Financial Crisis,09/24/2008,0.0,-0.0055826675337365
+Defense_and_Aerospace,Global Financial Crisis,09/25/2008,0.0,0.0032471160429021
+Defense_and_Aerospace,Global Financial Crisis,09/26/2008,0.0,-0.0190048017090856
+Defense_and_Aerospace,Global Financial Crisis,09/29/2008,0.0,-0.0581915867676401
+Defense_and_Aerospace,Global Financial Crisis,09/30/2008,0.0,0.0122291180642635
+Defense_and_Aerospace,Global Financial Crisis,10/01/2008,-0.0287769567440873,0.0033213795774122
+Defense_and_Aerospace,Global Financial Crisis,10/02/2008,-0.1555555555555555,0.0064565978831974
+Defense_and_Aerospace,Global Financial Crisis,10/03/2008,-0.0175438052309967,0.0037662419182724
+Defense_and_Aerospace,Global Financial Crisis,10/06/2008,0.0,-0.0651241567522356
+Defense_and_Aerospace,Global Financial Crisis,10/07/2008,-0.062500051928008,-0.0058328798782889
+Defense_and_Aerospace,Global Financial Crisis,10/08/2008,0.0,-0.03099099565559
+Defense_and_Aerospace,Global Financial Crisis,10/09/2008,0.0190476485888875,-0.0029857379343659
+Defense_and_Aerospace,Global Financial Crisis,10/10/2008,-0.0841122340616582,-0.0558681927615299
+Defense_and_Aerospace,Global Financial Crisis,10/13/2008,0.102040886088714,0.0371922318162898
+Defense_and_Aerospace,Global Financial Crisis,10/14/2008,-0.0277777777777777,0.009117560671745
+Defense_and_Aerospace,Global Financial Crisis,10/15/2008,-0.028571605819039,-0.0546056666916273
+Defense_and_Aerospace,Global Financial Crisis,10/16/2008,-0.0588233576839446,-0.0543304702536178
+Defense_and_Aerospace,Global Financial Crisis,10/17/2008,-0.0104167312881913,-0.0049348529813662
+Defense_and_Aerospace,Global Financial Crisis,10/20/2008,0.0,0.0139588837689612
+Defense_and_Aerospace,Global Financial Crisis,10/21/2008,-0.0947369462443784,0.0068130475281271
+Defense_and_Aerospace,Global Financial Crisis,10/22/2008,-0.1744183655969127,-0.0326706083732226
+Defense_and_Aerospace,Global Financial Crisis,10/23/2008,0.0140843962844847,-0.016670394492793
+Defense_and_Aerospace,Global Financial Crisis,10/24/2008,-0.0138887811863478,-0.0546771887965003
+Defense_and_Aerospace,Global Financial Crisis,10/27/2008,0.0211268237876065,-0.0181061689753468
+Energy_and_Utilities,Global Financial Crisis,09/16/2008,-0.0315359423125471,-0.0343184525870311
+Energy_and_Utilities,Global Financial Crisis,09/17/2008,-0.0078783583036066,-0.0225247120966294
+Energy_and_Utilities,Global Financial Crisis,09/18/2008,-0.0164103964680359,-0.0065955343595482
+Energy_and_Utilities,Global Financial Crisis,09/19/2008,0.0554358282857072,0.0883811075179303
+Energy_and_Utilities,Global Financial Crisis,09/22/2008,0.0203974837636917,-0.01412083722591
+Energy_and_Utilities,Global Financial Crisis,09/23/2008,-0.0174912477784932,-0.0191355939821382
+Energy_and_Utilities,Global Financial Crisis,09/24/2008,-0.0091552091684733,-0.0078853603375995
+Energy_and_Utilities,Global Financial Crisis,09/25/2008,0.0225870697909944,0.0198995016093177
+Energy_and_Utilities,Global Financial Crisis,09/26/2008,-0.0190761847005089,-0.0208774292861265
+Energy_and_Utilities,Global Financial Crisis,09/29/2008,-0.044012266724199,-0.053001905338017
+Energy_and_Utilities,Global Financial Crisis,09/30/2008,-0.0064242297670034,0.0173695108128544
+Energy_and_Utilities,Global Financial Crisis,10/01/2008,0.0,0.0116471387366139
+Energy_and_Utilities,Global Financial Crisis,10/02/2008,-0.0301724620218788,-0.0180055430297596
+Energy_and_Utilities,Global Financial Crisis,10/03/2008,0.039444303434454,0.0225858785724297
+Energy_and_Utilities,Global Financial Crisis,10/06/2008,-0.0812397271329904,-0.0785293305047406
+Energy_and_Utilities,Global Financial Crisis,10/07/2008,0.0407211522406332,0.0034864462910864
+Energy_and_Utilities,Global Financial Crisis,10/08/2008,-0.0676353753481503,-0.0517892794851269
+Energy_and_Utilities,Global Financial Crisis,10/09/2008,-0.0179853719117405,-0.0121145002539415
+Energy_and_Utilities,Global Financial Crisis,10/10/2008,-0.0811967294187047,-0.0884834077410092
+Energy_and_Utilities,Global Financial Crisis,10/13/2008,0.1116279679473855,0.0826021201446776
+Energy_and_Utilities,Global Financial Crisis,10/14/2008,0.0681406256178784,0.032253587380139
+Energy_and_Utilities,Global Financial Crisis,10/15/2008,-0.0727473365031855,-0.0715943934443061
+Energy_and_Utilities,Global Financial Crisis,10/16/2008,-0.0404344456620201,-0.0534856824417318
+Energy_and_Utilities,Global Financial Crisis,10/17/2008,0.0861641556977956,0.0522090699629129
+Energy_and_Utilities,Global Financial Crisis,10/20/2008,0.1042262952283437,0.0540733928901058
+Energy_and_Utilities,Global Financial Crisis,10/21/2008,-0.0173046530256404,-0.0123753701129977
+Energy_and_Utilities,Global Financial Crisis,10/22/2008,-0.0549624480144262,-0.0446368026693676
+Energy_and_Utilities,Global Financial Crisis,10/23/2008,0.0502537778551328,0.0116063618544899
+Energy_and_Utilities,Global Financial Crisis,10/24/2008,-0.0537631235749157,-0.0500024815408893
+Energy_and_Utilities,Global Financial Crisis,10/27/2008,-0.0045454599088109,-0.007931144219505
+Finance_and_Insurance,Global Financial Crisis,09/16/2008,-0.0602653575056363,-0.0343184525870311
+Finance_and_Insurance,Global Financial Crisis,09/17/2008,-0.0097826098598233,-0.0225247120966294
+Finance_and_Insurance,Global Financial Crisis,09/18/2008,0.0488472275286246,-0.0065955343595482
+Finance_and_Insurance,Global Financial Crisis,09/19/2008,0.1826269304115779,0.0883811075179303
+Finance_and_Insurance,Global Financial Crisis,09/22/2008,-0.0530973374159706,-0.01412083722591
+Finance_and_Insurance,Global Financial Crisis,09/23/2008,-0.0186914914657374,-0.0191355939821382
+Finance_and_Insurance,Global Financial Crisis,09/24/2008,-0.0403587528110578,-0.0078853603375995
+Finance_and_Insurance,Global Financial Crisis,09/25/2008,0.0992366664871342,0.0198995016093177
+Finance_and_Insurance,Global Financial Crisis,09/26/2008,-0.0407407006952973,-0.0208774292861265
+Finance_and_Insurance,Global Financial Crisis,09/29/2008,-0.0796332746289097,-0.053001905338017
+Finance_and_Insurance,Global Financial Crisis,09/30/2008,0.0068171623735051,0.0173695108128544
+Finance_and_Insurance,Global Financial Crisis,10/01/2008,0.0145830895440575,0.0116471387366139
+Finance_and_Insurance,Global Financial Crisis,10/02/2008,-0.0451742706175114,-0.0180055430297596
+Finance_and_Insurance,Global Financial Crisis,10/03/2008,0.02795697489153,0.0225858785724297
+Finance_and_Insurance,Global Financial Crisis,10/06/2008,-0.1276150465882422,-0.0785293305047406
+Finance_and_Insurance,Global Financial Crisis,10/07/2008,0.0395683214162567,0.0034864462910864
+Finance_and_Insurance,Global Financial Crisis,10/08/2008,-0.0547867294699794,-0.0517892794851269
+Finance_and_Insurance,Global Financial Crisis,10/09/2008,0.0591824977507848,-0.0121145002539415
+Finance_and_Insurance,Global Financial Crisis,10/10/2008,-0.0506913592062221,-0.0884834077410092
+Finance_and_Insurance,Global Financial Crisis,10/13/2008,0.0218443495357827,0.0826021201446776
+Finance_and_Insurance,Global Financial Crisis,10/14/2008,0.0570075028443537,0.032253587380139
+Finance_and_Insurance,Global Financial Crisis,10/15/2008,-0.1191013150567444,-0.0715943934443061
+Finance_and_Insurance,Global Financial Crisis,10/16/2008,-0.0994897800465951,-0.0534856824417318
+Finance_and_Insurance,Global Financial Crisis,10/17/2008,-0.1267701876423239,0.0522090699629129
+Finance_and_Insurance,Global Financial Crisis,10/20/2008,-0.0056774442282123,0.0540733928901058
+Finance_and_Insurance,Global Financial Crisis,10/21/2008,-0.0097878089347839,-0.0123753701129977
+Finance_and_Insurance,Global Financial Crisis,10/22/2008,-0.1235586377994862,-0.0446368026693676
+Finance_and_Insurance,Global Financial Crisis,10/23/2008,0.0338349400390565,0.0116063618544899
+Finance_and_Insurance,Global Financial Crisis,10/24/2008,-0.1009090918863686,-0.0500024815408893
+Finance_and_Insurance,Global Financial Crisis,10/27/2008,-0.0080893760598856,-0.007931144219505
+Healthcare_and_Pharmaceuticals,Global Financial Crisis,09/16/2008,-0.0208334706000251,-0.0290862403872406
+Healthcare_and_Pharmaceuticals,Global Financial Crisis,09/17/2008,0.0,-0.0101608851051614
+Healthcare_and_Pharmaceuticals,Global Financial Crisis,09/18/2008,0.0,0.0012500184955019
+Healthcare_and_Pharmaceuticals,Global Financial Crisis,09/19/2008,0.0042556516727778,0.0220179132511564
+Healthcare_and_Pharmaceuticals,Global Financial Crisis,09/22/2008,0.0,-0.011141994320285
+Healthcare_and_Pharmaceuticals,Global Financial Crisis,09/23/2008,0.0,-0.0204386671825965
+Healthcare_and_Pharmaceuticals,Global Financial Crisis,09/24/2008,-0.0042376178472974,-0.0015668364337145
+Healthcare_and_Pharmaceuticals,Global Financial Crisis,09/25/2008,-0.0468085868416783,-0.0050522262098846
+Healthcare_and_Pharmaceuticals,Global Financial Crisis,09/26/2008,-0.1428569313995197,-0.0190806299889402
+Healthcare_and_Pharmaceuticals,Global Financial Crisis,09/29/2008,-0.0104169475652321,-0.0380407089356104
+Healthcare_and_Pharmaceuticals,Global Financial Crisis,09/30/2008,-0.0263157011598217,-0.0105588908536392
+Healthcare_and_Pharmaceuticals,Global Financial Crisis,10/01/2008,-0.0054056211456368,0.0131850020601564
+Healthcare_and_Pharmaceuticals,Global Financial Crisis,10/02/2008,0.0,-0.0039853797593025
+Healthcare_and_Pharmaceuticals,Global Financial Crisis,10/03/2008,0.0054350007003491,0.0019598435913035
+Healthcare_and_Pharmaceuticals,Global Financial Crisis,10/06/2008,0.0,-0.0596169718126018
+Healthcare_and_Pharmaceuticals,Global Financial Crisis,10/07/2008,0.0,-0.0217966156313268
+Healthcare_and_Pharmaceuticals,Global Financial Crisis,10/08/2008,-0.0054056211456368,-0.0242756299540032
+Healthcare_and_Pharmaceuticals,Global Financial Crisis,10/09/2008,0.0,0.0006810133176675
+Healthcare_and_Pharmaceuticals,Global Financial Crisis,10/10/2008,0.0054350007003491,-0.0470940720607478
+Healthcare_and_Pharmaceuticals,Global Financial Crisis,10/13/2008,-0.0054056211456368,0.0248059097768884
+Healthcare_and_Pharmaceuticals,Global Financial Crisis,10/14/2008,0.0,0.0309422508260333
+Healthcare_and_Pharmaceuticals,Global Financial Crisis,10/15/2008,0.0,-0.0354214049825372
+Healthcare_and_Pharmaceuticals,Global Financial Crisis,10/16/2008,0.0054350007003491,-0.04443088107577
+Healthcare_and_Pharmaceuticals,Global Financial Crisis,10/17/2008,-0.0054056211456368,-0.0037647646107471
+Healthcare_and_Pharmaceuticals,Global Financial Crisis,10/20/2008,0.0,0.0119257592505734
+Healthcare_and_Pharmaceuticals,Global Financial Crisis,10/21/2008,0.0,0.0139192961209595
+Healthcare_and_Pharmaceuticals,Global Financial Crisis,10/22/2008,0.0,-0.0233904832106324
+Healthcare_and_Pharmaceuticals,Global Financial Crisis,10/23/2008,0.0054350007003491,-0.0224812183187861
+Healthcare_and_Pharmaceuticals,Global Financial Crisis,10/24/2008,0.0,-0.0461970492967592
+Healthcare_and_Pharmaceuticals,Global Financial Crisis,10/27/2008,-0.0054056211456368,-0.0271590417287967
+Manufacturing_and_Industrial_Goods,Global Financial Crisis,09/16/2008,-0.0731874214486234,-0.0343692030481523
+Manufacturing_and_Industrial_Goods,Global Financial Crisis,09/17/2008,-0.0066422838717394,-0.011808613204771
+Manufacturing_and_Industrial_Goods,Global Financial Crisis,09/18/2008,0.0,0.0032491757484662
+Manufacturing_and_Industrial_Goods,Global Financial Crisis,09/19/2008,0.0408619050437448,0.0774758187502393
+Manufacturing_and_Industrial_Goods,Global Financial Crisis,09/22/2008,-0.0492502641824478,-0.0255713972767749
+Manufacturing_and_Industrial_Goods,Global Financial Crisis,09/23/2008,-0.0322824122494017,-0.0340912133697017
+Manufacturing_and_Industrial_Goods,Global Financial Crisis,09/24/2008,-0.0007762075895794,-0.0055826675337365
+Manufacturing_and_Industrial_Goods,Global Financial Crisis,09/25/2008,0.0403728762172803,0.0032471160429021
+Manufacturing_and_Industrial_Goods,Global Financial Crisis,09/26/2008,-0.0283583410296612,-0.0190048017090856
+Manufacturing_and_Industrial_Goods,Global Financial Crisis,09/29/2008,-0.0706604421386095,-0.0581915867676401
+Manufacturing_and_Industrial_Goods,Global Financial Crisis,09/30/2008,-0.0082643865384395,0.0122291180642635
+Manufacturing_and_Industrial_Goods,Global Financial Crisis,10/01/2008,0.0333334068839754,0.0033213795774122
+Manufacturing_and_Industrial_Goods,Global Financial Crisis,10/02/2008,-0.0185483152948074,0.0064565978831974
+Manufacturing_and_Industrial_Goods,Global Financial Crisis,10/03/2008,0.034510615365507,0.0037662419182724
+Manufacturing_and_Industrial_Goods,Global Financial Crisis,10/06/2008,-0.0754564449097717,-0.0651241567522356
+Manufacturing_and_Industrial_Goods,Global Financial Crisis,10/07/2008,-0.0171818722815974,-0.0058328798782889
+Manufacturing_and_Industrial_Goods,Global Financial Crisis,10/08/2008,-0.0227278810919188,-0.03099099565559
+Manufacturing_and_Industrial_Goods,Global Financial Crisis,10/09/2008,-0.0062605996888183,-0.0029857379343659
+Manufacturing_and_Industrial_Goods,Global Financial Crisis,10/10/2008,0.0162013211446245,-0.0558681927615299
+Manufacturing_and_Industrial_Goods,Global Financial Crisis,10/13/2008,0.0115149267512348,0.0371922318162898
+Manufacturing_and_Industrial_Goods,Global Financial Crisis,10/14/2008,-0.0105079220459908,0.009117560671745
+Manufacturing_and_Industrial_Goods,Global Financial Crisis,10/15/2008,-0.0911507097061293,-0.0546056666916273
+Manufacturing_and_Industrial_Goods,Global Financial Crisis,10/16/2008,-0.0827651926170777,-0.0543304702536178
+Manufacturing_and_Industrial_Goods,Global Financial Crisis,10/17/2008,0.082802581242497,-0.0049348529813662
+Manufacturing_and_Industrial_Goods,Global Financial Crisis,10/20/2008,0.0196079980505883,0.0139588837689612
+Manufacturing_and_Industrial_Goods,Global Financial Crisis,10/21/2008,0.0490385149700491,0.0068130475281271
+Manufacturing_and_Industrial_Goods,Global Financial Crisis,10/22/2008,-0.0491316518452767,-0.0326706083732226
+Manufacturing_and_Industrial_Goods,Global Financial Crisis,10/23/2008,-0.0265224584743194,-0.016670394492793
+Manufacturing_and_Industrial_Goods,Global Financial Crisis,10/24/2008,-0.0615541246006859,-0.0546771887965003
+Manufacturing_and_Industrial_Goods,Global Financial Crisis,10/27/2008,-0.0354838596041137,-0.0181061689753468
+Real_Estate_and_Construction,Global Financial Crisis,09/16/2008,-0.0204319330846415,-0.0343184525870311
+Real_Estate_and_Construction,Global Financial Crisis,09/17/2008,0.0131112451385693,-0.0225247120966294
+Real_Estate_and_Construction,Global Financial Crisis,09/18/2008,0.0288231356163741,-0.0065955343595482
+Real_Estate_and_Construction,Global Financial Crisis,09/19/2008,0.0977701928976699,0.0883811075179303
+Real_Estate_and_Construction,Global Financial Crisis,09/22/2008,-0.0489584256832377,-0.01412083722591
+Real_Estate_and_Construction,Global Financial Crisis,09/23/2008,-0.047097313606456,-0.0191355939821382
+Real_Estate_and_Construction,Global Financial Crisis,09/24/2008,-0.0114943826178621,-0.0078853603375995
+Real_Estate_and_Construction,Global Financial Crisis,09/25/2008,-0.0348839078046173,0.0198995016093177
+Real_Estate_and_Construction,Global Financial Crisis,09/26/2008,-0.0445780750077919,-0.0208774292861265
+Real_Estate_and_Construction,Global Financial Crisis,09/29/2008,-0.0800758897094934,-0.053001905338017
+Real_Estate_and_Construction,Global Financial Crisis,09/30/2008,0.0349558111709868,0.0173695108128544
+Real_Estate_and_Construction,Global Financial Crisis,10/01/2008,-0.0152319535791751,0.0116471387366139
+Real_Estate_and_Construction,Global Financial Crisis,10/02/2008,0.042367171143016,-0.0180055430297596
+Real_Estate_and_Construction,Global Financial Crisis,10/03/2008,0.0206449046827921,0.0225858785724297
+Real_Estate_and_Construction,Global Financial Crisis,10/06/2008,-0.0600503225686305,-0.0785293305047406
+Real_Estate_and_Construction,Global Financial Crisis,10/07/2008,-0.0053799844472642,0.0034864462910864
+Real_Estate_and_Construction,Global Financial Crisis,10/08/2008,0.0365115866723819,-0.0517892794851269
+Real_Estate_and_Construction,Global Financial Crisis,10/09/2008,-0.0515331964196826,-0.0121145002539415
+Real_Estate_and_Construction,Global Financial Crisis,10/10/2008,0.0295734179253586,-0.0884834077410092
+Real_Estate_and_Construction,Global Financial Crisis,10/13/2008,0.0714761402405632,0.0826021201446776
+Real_Estate_and_Construction,Global Financial Crisis,10/14/2008,-0.0012469312826124,0.032253587380139
+Real_Estate_and_Construction,Global Financial Crisis,10/15/2008,-0.0149809485807501,-0.0715943934443061
+Real_Estate_and_Construction,Global Financial Crisis,10/16/2008,-0.0240812383234142,-0.0534856824417318
+Real_Estate_and_Construction,Global Financial Crisis,10/17/2008,0.0058441460288998,0.0522090699629129
+Real_Estate_and_Construction,Global Financial Crisis,10/20/2008,0.0213038358950228,0.0540733928901058
+Real_Estate_and_Construction,Global Financial Crisis,10/21/2008,0.0107460801310115,-0.0123753701129977
+Real_Estate_and_Construction,Global Financial Crisis,10/22/2008,-0.0368980137752827,-0.0446368026693676
+Real_Estate_and_Construction,Global Financial Crisis,10/23/2008,-0.0272726617865664,0.0116063618544899
+Real_Estate_and_Construction,Global Financial Crisis,10/24/2008,-0.0447263922188937,-0.0500024815408893
+Real_Estate_and_Construction,Global Financial Crisis,10/27/2008,-0.0635918169613423,-0.007931144219505
+Retail_and_Consumer_Goods,Global Financial Crisis,09/16/2008,-0.0165433134532673,-0.0343184525870311
+Retail_and_Consumer_Goods,Global Financial Crisis,09/17/2008,-0.048723922799656,-0.0225247120966294
+Retail_and_Consumer_Goods,Global Financial Crisis,09/18/2008,0.0359755145755313,-0.0065955343595482
+Retail_and_Consumer_Goods,Global Financial Crisis,09/19/2008,0.0782810443818313,0.0883811075179303
+Retail_and_Consumer_Goods,Global Financial Crisis,09/22/2008,-0.052947465905517,-0.01412083722591
+Retail_and_Consumer_Goods,Global Financial Crisis,09/23/2008,-0.0645530500188354,-0.0191355939821382
+Retail_and_Consumer_Goods,Global Financial Crisis,09/24/2008,-0.0092422403987871,-0.0078853603375995
+Retail_and_Consumer_Goods,Global Financial Crisis,09/25/2008,0.0211443955637065,0.0198995016093177
+Retail_and_Consumer_Goods,Global Financial Crisis,09/26/2008,-0.0097441242654642,-0.0208774292861265
+Retail_and_Consumer_Goods,Global Financial Crisis,09/29/2008,-0.0694957568107897,-0.053001905338017
+Retail_and_Consumer_Goods,Global Financial Crisis,09/30/2008,0.0310641375695637,0.0173695108128544
+Retail_and_Consumer_Goods,Global Financial Crisis,10/01/2008,-0.0256409615716509,0.0116471387366139
+Retail_and_Consumer_Goods,Global Financial Crisis,10/02/2008,-0.0144734592316624,-0.0180055430297596
+Retail_and_Consumer_Goods,Global Financial Crisis,10/03/2008,-0.022697346942394,0.0225858785724297
+Retail_and_Consumer_Goods,Global Financial Crisis,10/06/2008,-0.0983606212249761,-0.0785293305047406
+Retail_and_Consumer_Goods,Global Financial Crisis,10/07/2008,-0.0143939614531146,0.0034864462910864
+Retail_and_Consumer_Goods,Global Financial Crisis,10/08/2008,-0.0115297132315499,-0.0517892794851269
+Retail_and_Consumer_Goods,Global Financial Crisis,10/09/2008,-0.011663986619218,-0.0121145002539415
+Retail_and_Consumer_Goods,Global Financial Crisis,10/10/2008,-0.0204562534631467,-0.0884834077410092
+Retail_and_Consumer_Goods,Global Financial Crisis,10/13/2008,0.0345382161234066,0.0826021201446776
+Retail_and_Consumer_Goods,Global Financial Crisis,10/14/2008,-0.1032608075993452,0.032253587380139
+Retail_and_Consumer_Goods,Global Financial Crisis,10/15/2008,-0.0216451918667398,-0.0715943934443061
+Retail_and_Consumer_Goods,Global Financial Crisis,10/16/2008,-0.0787609602141988,-0.0534856824417318
+Retail_and_Consumer_Goods,Global Financial Crisis,10/17/2008,0.0336214011622448,0.0522090699629129
+Retail_and_Consumer_Goods,Global Financial Crisis,10/20/2008,0.0157993431023812,0.0540733928901058
+Retail_and_Consumer_Goods,Global Financial Crisis,10/21/2008,-0.0109791040557446,-0.0123753701129977
+Retail_and_Consumer_Goods,Global Financial Crisis,10/22/2008,-0.0286772456601276,-0.0446368026693676
+Retail_and_Consumer_Goods,Global Financial Crisis,10/23/2008,-0.0333331405206477,0.0116063618544899
+Retail_and_Consumer_Goods,Global Financial Crisis,10/24/2008,-0.0147782111745636,-0.0500024815408893
+Retail_and_Consumer_Goods,Global Financial Crisis,10/27/2008,-0.0040001439533301,-0.007931144219505
+Technology_and_Telecommunications,Global Financial Crisis,09/16/2008,-0.0269231852737834,-0.0343692030481523
+Technology_and_Telecommunications,Global Financial Crisis,09/17/2008,0.0157516818504748,-0.011808613204771
+Technology_and_Telecommunications,Global Financial Crisis,09/18/2008,-0.1013922159796474,0.0032491757484662
+Technology_and_Telecommunications,Global Financial Crisis,09/19/2008,0.0530977840789315,0.0774758187502393
+Technology_and_Telecommunications,Global Financial Crisis,09/22/2008,0.0084033472088795,-0.0255713972767749
+Technology_and_Telecommunications,Global Financial Crisis,09/23/2008,0.0249999582968629,-0.0340912133697017
+Technology_and_Telecommunications,Global Financial Crisis,09/24/2008,-0.0528459074351126,-0.0055826675337365
+Technology_and_Telecommunications,Global Financial Crisis,09/25/2008,-0.0193130355544278,0.0032471160429021
+Technology_and_Telecommunications,Global Financial Crisis,09/26/2008,-0.0459517909465376,-0.0190048017090856
+Technology_and_Telecommunications,Global Financial Crisis,09/29/2008,-0.110091657272984,-0.0581915867676401
+Technology_and_Telecommunications,Global Financial Crisis,09/30/2008,0.0154639899615698,0.0122291180642635
+Technology_and_Telecommunications,Global Financial Crisis,10/01/2008,0.065990216632267,0.0033213795774122
+Technology_and_Telecommunications,Global Financial Crisis,10/02/2008,0.0214279819920595,0.0064565978831974
+Technology_and_Telecommunications,Global Financial Crisis,10/03/2008,-0.0116551718008425,0.0037662419182724
+Technology_and_Telecommunications,Global Financial Crisis,10/06/2008,0.0141511940859671,-0.0651241567522356
+Technology_and_Telecommunications,Global Financial Crisis,10/07/2008,-0.0604653744564016,-0.0058328798782889
+Technology_and_Telecommunications,Global Financial Crisis,10/08/2008,0.0594064283679771,-0.03099099565559
+Technology_and_Telecommunications,Global Financial Crisis,10/09/2008,-0.0514017775756923,-0.0029857379343659
+Technology_and_Telecommunications,Global Financial Crisis,10/10/2008,-0.0640394764101515,-0.0558681927615299
+Technology_and_Telecommunications,Global Financial Crisis,10/13/2008,0.0552628574077505,0.0371922318162898
+Technology_and_Telecommunications,Global Financial Crisis,10/14/2008,-0.0399007591772706,0.009117560671745
+Technology_and_Telecommunications,Global Financial Crisis,10/15/2008,-0.0571425034451921,-0.0546056666916273
+Technology_and_Telecommunications,Global Financial Crisis,10/16/2008,-0.0192838252622207,-0.0543304702536178
+Technology_and_Telecommunications,Global Financial Crisis,10/17/2008,0.0393260063593359,-0.0049348529813662
+Technology_and_Telecommunications,Global Financial Crisis,10/20/2008,0.0216214873777875,0.0139588837689612
+Technology_and_Telecommunications,Global Financial Crisis,10/21/2008,0.0264553952417327,0.0068130475281271
+Technology_and_Telecommunications,Global Financial Crisis,10/22/2008,-0.0644332751282835,-0.0326706083732226
+Technology_and_Telecommunications,Global Financial Crisis,10/23/2008,-0.0716255616614991,-0.016670394492793
+Technology_and_Telecommunications,Global Financial Crisis,10/24/2008,-0.0237388455451026,-0.0546771887965003
+Technology_and_Telecommunications,Global Financial Crisis,10/27/2008,0.0942257419518808,-0.0181061689753468
