@@ -1,7 +1,16 @@
 import pandas as pd
+import os
+
+# Data root: original absolute paths replaced with a configurable root.
+# Point EVENT_STUDY_DATA at the folder holding OLS/, UK Result/,
+# Event_Analysis_Output/, etc. Defaults to <repo>/data.
+DATA_ROOT = os.environ.get(
+    "EVENT_STUDY_DATA",
+    os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data")))
+
 
 # Path to the combined output file
-input_file = r"C:/Users/marco/OneDrive/Escritorio/Event_Analysis_Output/industry_event_30day_returns.csv"
+input_file = DATA_ROOT + "/Event_Analysis_Output/industry_event_30day_returns.csv"
 
 # Read the combined data
 df = pd.read_csv(input_file)
@@ -10,7 +19,7 @@ df = pd.read_csv(input_file)
 events = df['Event'].unique()
 
 # Output folder for the split files
-output_folder = r"C:/Users/marco/OneDrive/Escritorio/Event_Analysis_Output"
+output_folder = DATA_ROOT + "/Event_Analysis_Output"
 
 # Loop through each event and split the data
 for event in events:

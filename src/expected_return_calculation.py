@@ -1,8 +1,16 @@
 import os
 import pandas as pd
 
+# Data root: original absolute paths replaced with a configurable root.
+# Point EVENT_STUDY_DATA at the folder holding OLS/, UK Result/,
+# Event_Analysis_Output/, etc. Defaults to <repo>/data.
+DATA_ROOT = os.environ.get(
+    "EVENT_STUDY_DATA",
+    os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data")))
+
+
 # Define the base directory for your files
-base_dir = "C:/Users/marco/OneDrive/Escritorio/"
+base_dir = DATA_ROOT
 
 # List of directories and corresponding event sub-directories
 industries = [

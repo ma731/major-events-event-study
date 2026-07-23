@@ -2,6 +2,14 @@ import pandas as pd
 import statsmodels.api as sm
 import os
 
+# Data root: original absolute paths replaced with a configurable root.
+# Point EVENT_STUDY_DATA at the folder holding OLS/, UK Result/,
+# Event_Analysis_Output/, etc. Defaults to <repo>/data.
+DATA_ROOT = os.environ.get(
+    "EVENT_STUDY_DATA",
+    os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data")))
+
+
 events = {
     "Donald Trump Reelection": "2024-11-06",
     "Covid-19 Pandemic Lockdown in CN": "2020-01-23",
@@ -11,17 +19,17 @@ events = {
 }
 
 folders = [
-    r"C:\Users\marco\OneDrive\Escritorio\UK Result\Transportation_and_Infrastructure",
-    r"C:\Users\marco\OneDrive\Escritorio\UK Result\Agriculture_and_Food",
-    r"C:\Users\marco\OneDrive\Escritorio\UK Result\Automotive",
-    r"C:\Users\marco\OneDrive\Escritorio\UK Result\Defense_and_Aerospace",
-    r"C:\Users\marco\OneDrive\Escritorio\UK Result\Energy_and_Utilities",
-    r"C:\Users\marco\OneDrive\Escritorio\UK Result\Finance_and_Insurance",
-    r"C:\Users\marco\OneDrive\Escritorio\UK Result\Healthcare_and_Pharmaceuticals",
-    r"C:\Users\marco\OneDrive\Escritorio\UK Result\Manufacturing_and_Industrial_Goods",
-    r"C:\Users\marco\OneDrive\Escritorio\UK Result\Real_Estate_and_Construction",
-    r"C:\Users\marco\OneDrive\Escritorio\UK Result\Retail_and_Consumer_Goods",
-    r"C:\Users\marco\OneDrive\Escritorio\UK Result\Technology_and_Telecommunications"
+    DATA_ROOT + "/UK Result/Transportation_and_Infrastructure",
+    DATA_ROOT + "/UK Result/Agriculture_and_Food",
+    DATA_ROOT + "/UK Result/Automotive",
+    DATA_ROOT + "/UK Result/Defense_and_Aerospace",
+    DATA_ROOT + "/UK Result/Energy_and_Utilities",
+    DATA_ROOT + "/UK Result/Finance_and_Insurance",
+    DATA_ROOT + "/UK Result/Healthcare_and_Pharmaceuticals",
+    DATA_ROOT + "/UK Result/Manufacturing_and_Industrial_Goods",
+    DATA_ROOT + "/UK Result/Real_Estate_and_Construction",
+    DATA_ROOT + "/UK Result/Retail_and_Consumer_Goods",
+    DATA_ROOT + "/UK Result/Technology_and_Telecommunications"
 ]
 
 def read_data(folder):

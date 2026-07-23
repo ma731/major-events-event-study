@@ -3,22 +3,30 @@ import pandas as pd
 import numpy as np
 import re
 
+# Data root: original absolute paths replaced with a configurable root.
+# Point EVENT_STUDY_DATA at the folder holding OLS/, UK Result/,
+# Event_Analysis_Output/, etc. Defaults to <repo>/data.
+DATA_ROOT = os.environ.get(
+    "EVENT_STUDY_DATA",
+    os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data")))
+
+
 # Define folders for OLS data and return files
 ols_folders = [
-    r"C:\Users\marco\OneDrive\Escritorio\OLS\Transportation and Infrastructure",
-    r"C:\Users\marco\OneDrive\Escritorio\OLS\Agriculture and Food",
-    r"C:\Users\marco\OneDrive\Escritorio\OLS\Automotive",
-    r"C:\Users\marco\OneDrive\Escritorio\OLS\Defense and Aerospace",
-    r"C:\Users\marco\OneDrive\Escritorio\OLS\Energy and Utilities",
-    r"C:\Users\marco\OneDrive\Escritorio\OLS\Finance and Insurance",
-    r"C:\Users\marco\OneDrive\Escritorio\OLS\Healthcare and Pharmaceuticals",
-    r"C:\Users\marco\OneDrive\Escritorio\OLS\Manufacturing and Industrial Goods",
-    r"C:\Users\marco\OneDrive\Escritorio\OLS\Real Estate and Construction",
-    r"C:\Users\marco\OneDrive\Escritorio\OLS\Retail and Consumer Goods",
-    r"C:\Users\marco\OneDrive\Escritorio\OLS\Technology and Telecommunications"
+    DATA_ROOT + "/OLS/Transportation and Infrastructure",
+    DATA_ROOT + "/OLS/Agriculture and Food",
+    DATA_ROOT + "/OLS/Automotive",
+    DATA_ROOT + "/OLS/Defense and Aerospace",
+    DATA_ROOT + "/OLS/Energy and Utilities",
+    DATA_ROOT + "/OLS/Finance and Insurance",
+    DATA_ROOT + "/OLS/Healthcare and Pharmaceuticals",
+    DATA_ROOT + "/OLS/Manufacturing and Industrial Goods",
+    DATA_ROOT + "/OLS/Real Estate and Construction",
+    DATA_ROOT + "/OLS/Retail and Consumer Goods",
+    DATA_ROOT + "/OLS/Technology and Telecommunications"
 ]
 
-returns_folder = r"C:\Users\marco\OneDrive\Escritorio"  # Folder with 30-day returns for each industry
+returns_folder = DATA_ROOT  # Folder with 30-day returns for each industry
 
 # Function to extract alpha and beta from the OLS file name
 def extract_alpha_beta(filename):

@@ -1,32 +1,40 @@
 import os
 import pandas as pd
 
+# Data root: original absolute paths replaced with a configurable root.
+# Point EVENT_STUDY_DATA at the folder holding OLS/, UK Result/,
+# Event_Analysis_Output/, etc. Defaults to <repo>/data.
+DATA_ROOT = os.environ.get(
+    "EVENT_STUDY_DATA",
+    os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data")))
+
+
 # Define paths for OLS files
 ols_paths = {
-    "Transportation_and_Infrastructure": r"C:\Users\marco\OneDrive\Escritorio\OLS\Transportation and Infrastructure",
-    "Agriculture_and_Food": r"C:\Users\marco\OneDrive\Escritorio\OLS\Agriculture and Food",
-    "Automotive": r"C:\Users\marco\OneDrive\Escritorio\OLS\Automotive",
-    "Defense_and_Aerospace": r"C:\Users\marco\OneDrive\Escritorio\OLS\Defense and Aerospace",
-    "Energy_and_Utilities": r"C:\Users\marco\OneDrive\Escritorio\OLS\Energy and Utilities",
-    "Finance_and_Insurance": r"C:\Users\marco\OneDrive\Escritorio\OLS\Finance and Insurance",
-    "Healthcare_and_Pharmaceuticals": r"C:\Users\marco\OneDrive\Escritorio\OLS\Healthcare and Pharmaceuticals",
-    "Manufacturing_and_Industrial_Goods": r"C:\Users\marco\OneDrive\Escritorio\OLS\Manufacturing and Industrial Goods",
-    "Real_Estate_and_Construction": r"C:\Users\marco\OneDrive\Escritorio\OLS\Real Estate and Construction",
-    "Retail_and_Consumer_Goods": r"C:\Users\marco\OneDrive\Escritorio\OLS\Retail and Consumer Goods",
-    "Technology_and_Telecommunications": r"C:\Users\marco\OneDrive\Escritorio\OLS\Technology and Telecommunications"
+    "Transportation_and_Infrastructure": DATA_ROOT + "/OLS/Transportation and Infrastructure",
+    "Agriculture_and_Food": DATA_ROOT + "/OLS/Agriculture and Food",
+    "Automotive": DATA_ROOT + "/OLS/Automotive",
+    "Defense_and_Aerospace": DATA_ROOT + "/OLS/Defense and Aerospace",
+    "Energy_and_Utilities": DATA_ROOT + "/OLS/Energy and Utilities",
+    "Finance_and_Insurance": DATA_ROOT + "/OLS/Finance and Insurance",
+    "Healthcare_and_Pharmaceuticals": DATA_ROOT + "/OLS/Healthcare and Pharmaceuticals",
+    "Manufacturing_and_Industrial_Goods": DATA_ROOT + "/OLS/Manufacturing and Industrial Goods",
+    "Real_Estate_and_Construction": DATA_ROOT + "/OLS/Real Estate and Construction",
+    "Retail_and_Consumer_Goods": DATA_ROOT + "/OLS/Retail and Consumer Goods",
+    "Technology_and_Telecommunications": DATA_ROOT + "/OLS/Technology and Telecommunications"
 }
 
 # Define paths for event folders
 event_folders = {
-    "Start_of_Russia's_Annexation_of_Ukraine": r"C:\Users\marco\OneDrive\Escritorio\Split_By_Industry\Start_of_Russia's_Annexation_of_Ukraine",
-    "Brexit_Referendum_Day": r"C:\Users\marco\OneDrive\Escritorio\Split_By_Industry\Brexit_Referendum_Day",
-    "Covid-19_Pandemic_Lockdown_in_CN": r"C:\Users\marco\OneDrive\Escritorio\Split_By_Industry\Covid_19_Pandemic_Lockdown_in_CN",
-    "Donald_Trump_Reelection": r"C:\Users\marco\OneDrive\Escritorio\Split_By_Industry\Donald_Trump_Reelection",
-    "Global_Financial_Crisis": r"C:\Users\marco\OneDrive\Escritorio\Split_By_Industry\Global_Financial_Crisis"
+    "Start_of_Russia's_Annexation_of_Ukraine": DATA_ROOT + "/Split_By_Industry/Start_of_Russia's_Annexation_of_Ukraine",
+    "Brexit_Referendum_Day": DATA_ROOT + "/Split_By_Industry/Brexit_Referendum_Day",
+    "Covid-19_Pandemic_Lockdown_in_CN": DATA_ROOT + "/Split_By_Industry/Covid_19_Pandemic_Lockdown_in_CN",
+    "Donald_Trump_Reelection": DATA_ROOT + "/Split_By_Industry/Donald_Trump_Reelection",
+    "Global_Financial_Crisis": DATA_ROOT + "/Split_By_Industry/Global_Financial_Crisis"
 }
 
 # Output folder
-output_folder = r"C:\Users\marco\OneDrive\Escritorio\Event_Analysis_Output\Expected_Returns"
+output_folder = DATA_ROOT + "/Event_Analysis_Output/Expected_Returns"
 if not os.path.exists(output_folder):
     os.makedirs(output_folder)
 

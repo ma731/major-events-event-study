@@ -1,9 +1,17 @@
 import os
 import pandas as pd
 
+# Data root: original absolute paths replaced with a configurable root.
+# Point EVENT_STUDY_DATA at the folder holding OLS/, UK Result/,
+# Event_Analysis_Output/, etc. Defaults to <repo>/data.
+DATA_ROOT = os.environ.get(
+    "EVENT_STUDY_DATA",
+    os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data")))
+
+
 # Define the folder containing the expected return files
-expected_return_folder = r"C:\Users\marco\OneDrive\Escritorio\Event_Analysis_Output\Expected_Returns"
-ar_output_folder = r"C:\Users\marco\OneDrive\Escritorio\Event_Analysis_Output\Abnormal_Returns"
+expected_return_folder = DATA_ROOT + "/Event_Analysis_Output/Expected_Returns"
+ar_output_folder = DATA_ROOT + "/Event_Analysis_Output/Abnormal_Returns"
 
 # Ensure the output folder for AR files exists
 if not os.path.exists(ar_output_folder):
